@@ -1,0 +1,917 @@
+{
+    "production_domain": "https://swensongranite.com",
+    "staging_domain": "",
+    "urls": [
+        {
+            "id": "Sa5cHUmNh9z15LC",
+            "path": "/",
+            "fullURL": "https://swensongranite.com/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "01sdrUQXavEIgLH",
+            "path": "/our-products/",
+            "fullURL": "https://swensongranite.com/our-products/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "R1JsT8MTWvPJOy2",
+            "path": "/products/steps-and-treads/",
+            "fullURL": "https://swensongranite.com/products/steps-and-treads/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "AoZGW7IcmgbcFdY",
+            "path": "/products/stone-pavers/",
+            "fullURL": "https://swensongranite.com/products/stone-pavers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "dNmBW8W5zlToFgQ",
+            "path": "/products/treads",
+            "fullURL": "https://swensongranite.com/products/treads",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "X3H6n3ItaIyjyQQ",
+            "path": "/products/steps/",
+            "fullURL": "https://swensongranite.com/products/steps/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "s09PBwDZNcfm0ZB",
+            "path": "/products/large-format-pavers/",
+            "fullURL": "https://swensongranite.com/products/large-format-pavers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "J10xnPz2th9tkfk",
+            "path": "/products/pattern-pavers/",
+            "fullURL": "https://swensongranite.com/products/pattern-pavers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "WuY4eFDdiJ1x99Z",
+            "path": "/products/pool-coping/",
+            "fullURL": "https://swensongranite.com/products/pool-coping/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Y1Dtzth22BotUqx",
+            "path": "/products/flagstone/",
+            "fullURL": "https://swensongranite.com/products/flagstone/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TTRon24KWkeHTfR",
+            "path": "/products/granite-posts/",
+            "fullURL": "https://swensongranite.com/products/granite-posts/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "LTKjDXNR7r03eTf",
+            "path": "/products/hitching-posts/",
+            "fullURL": "https://swensongranite.com/products/hitching-posts/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9x7EJZCaI2ry7Di",
+            "path": "/products/posts/",
+            "fullURL": "https://swensongranite.com/products/posts/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "XZdcRvTiiWISmaF",
+            "path": "/products/walls-and-caps/",
+            "fullURL": "https://swensongranite.com/products/walls-and-caps/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "VnV8smUMN7ErEXn",
+            "path": "/products/granite-mailbox-posts/",
+            "fullURL": "https://swensongranite.com/products/granite-mailbox-posts/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "gwvIzNBL9fnvbC9",
+            "path": "/products/granite-lamp-posts/",
+            "fullURL": "https://swensongranite.com/products/granite-lamp-posts/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xITEZ21oQxCM0PE",
+            "path": "/products/wall-caps/",
+            "fullURL": "https://swensongranite.com/products/wall-caps/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9c8S2c2bmWigBoo",
+            "path": "/products/wall-stone/",
+            "fullURL": "https://swensongranite.com/products/wall-stone/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ojpYNtTJSXwQ71c",
+            "path": "/products/pillar-caps/",
+            "fullURL": "https://swensongranite.com/products/pillar-caps/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "4bmZkzT1JWGfS2I",
+            "path": "/products/sills/",
+            "fullURL": "https://swensongranite.com/products/sills/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "EfxFFrQSeAkwscu",
+            "path": "/products/stone-veneer/",
+            "fullURL": "https://swensongranite.com/products/stone-veneer/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "cr6gBD56xyUpexM",
+            "path": "/products/estate-veneer-series/",
+            "fullURL": "https://swensongranite.com/products/estate-veneer-series/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9TmEtvCgflaJ8V0",
+            "path": "/products/stone-benches/",
+            "fullURL": "https://swensongranite.com/products/stone-benches/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "UEJTAzBT9I2qFPv",
+            "path": "/products/stone-bird-baths/",
+            "fullURL": "https://swensongranite.com/products/stone-bird-baths/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9wQeMYJTxVjfME6",
+            "path": "/products/elements-and-accents/",
+            "fullURL": "https://swensongranite.com/products/elements-and-accents/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "b9OsoagxKCaoAEf",
+            "path": "/products/thin-veneer/",
+            "fullURL": "https://swensongranite.com/products/thin-veneer/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "2iLsYhDN1U6u0iX",
+            "path": "/products/fire-pits/",
+            "fullURL": "https://swensongranite.com/products/fire-pits/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zWpDK2OAJIJmTnV",
+            "path": "/front-entry-and-curb-appeal/",
+            "fullURL": "https://swensongranite.com/front-entry-and-curb-appeal/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "UV4VpxoeEuTC2Tr",
+            "path": "/walkways-patios/",
+            "fullURL": "https://swensongranite.com/walkways-patios/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "2IWkN9scYfGwS9o",
+            "path": "/products/edging/",
+            "fullURL": "https://swensongranite.com/products/edging/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "rC2ZFkbG92LaKwf",
+            "path": "/pool-patios/",
+            "fullURL": "https://swensongranite.com/pool-patios/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "peZslt58sGbZwce",
+            "path": "/outdoor-living/",
+            "fullURL": "https://swensongranite.com/outdoor-living/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "RkSkXVniIsMuFU1",
+            "path": "/gardens/",
+            "fullURL": "https://swensongranite.com/gardens/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "w19g62PCsHOdNGU",
+            "path": "/products/granite-curbing/",
+            "fullURL": "https://swensongranite.com/products/granite-curbing/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "CtazcWu1IaBbgMN",
+            "path": "/products/signs/",
+            "fullURL": "https://swensongranite.com/products/signs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "u1NQ3ZnaynQiOmw",
+            "path": "/products/large-projects/",
+            "fullURL": "https://swensongranite.com/products/large-projects/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9pukIg6eVLLElTo",
+            "path": "/resources/download-price-list/",
+            "fullURL": "https://swensongranite.com/resources/download-price-list/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "yUOT0ZT8mmvNa34",
+            "path": "/project-planning-tools/",
+            "fullURL": "https://swensongranite.com/project-planning-tools/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "BmqBvTZQQKcpS1T",
+            "path": "/stores/",
+            "fullURL": "https://swensongranite.com/stores/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "eVhrpMitq0c8cYL",
+            "path": "/resources/",
+            "fullURL": "https://swensongranite.com/resources/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "XYOEBGGJIBS58XC",
+            "path": "/resources/",
+            "fullURL": "https://swensongranite.com/resources/?_resource_type_resource_finder=inspiration-guide",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "uc4nag0YkCDBDSp",
+            "path": "/our-history/",
+            "fullURL": "https://swensongranite.com/our-history/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "OqZnRQPEc3CIFlo",
+            "path": "/project-planning-tools/e-samples/",
+            "fullURL": "https://swensongranite.com/project-planning-tools/e-samples/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "htRFd2p9jhA8a3Q",
+            "path": "/about-us/",
+            "fullURL": "https://swensongranite.com/about-us/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "5feeFxwJPRUUJZt",
+            "path": "/our-people/",
+            "fullURL": "https://swensongranite.com/our-people/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "7byalsz9wx6yUJ6",
+            "path": "/join-our-team/",
+            "fullURL": "https://swensongranite.com/join-our-team/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zhNcOcHBoJBHLZJ",
+            "path": "/sustainability/",
+            "fullURL": "https://swensongranite.com/sustainability/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "G6ULoRdzykZTnWm",
+            "path": "/project-planning-tools/3d-samples/",
+            "fullURL": "https://swensongranite.com/project-planning-tools/3d-samples/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kGfWUvB5lqkTpUQ",
+            "path": "/find-a-dealer/",
+            "fullURL": "https://swensongranite.com/find-a-dealer/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "CZx6hlZx720lRok",
+            "path": "/faqs/",
+            "fullURL": "https://swensongranite.com/faqs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        }
+    ],
+    "runs": [
+        {
+            "id": "run_swensongranite.com_20240327_224254_0f91",
+            "folder_path": "screenshots\\swensongranite.com\\run_swensongranite.com_20240327_224254_0f91",
+            "started": "2024-03-27T14:42:54.129Z",
+            "finished": null,
+            "screenshots": [
+                {
+                    "page_name": "swensongranite.com_",
+                    "url": "https://swensongranite.com/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_our-products",
+                    "url": "https://swensongranite.com/our-products/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_our-products/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/steps-and-treads",
+                    "url": "https://swensongranite.com/products/steps-and-treads/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/steps-and-treads/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/stone-pavers",
+                    "url": "https://swensongranite.com/products/stone-pavers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/stone-pavers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/treads",
+                    "url": "https://swensongranite.com/products/treads",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/treads/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/steps",
+                    "url": "https://swensongranite.com/products/steps/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/steps/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/large-format-pavers",
+                    "url": "https://swensongranite.com/products/large-format-pavers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/large-format-pavers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/pattern-pavers",
+                    "url": "https://swensongranite.com/products/pattern-pavers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/pattern-pavers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/pool-coping",
+                    "url": "https://swensongranite.com/products/pool-coping/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/pool-coping/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/flagstone",
+                    "url": "https://swensongranite.com/products/flagstone/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/flagstone/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/granite-posts",
+                    "url": "https://swensongranite.com/products/granite-posts/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/granite-posts/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/hitching-posts",
+                    "url": "https://swensongranite.com/products/hitching-posts/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/hitching-posts/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/posts",
+                    "url": "https://swensongranite.com/products/posts/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/posts/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/walls-and-caps",
+                    "url": "https://swensongranite.com/products/walls-and-caps/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/walls-and-caps/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/granite-mailbox-posts",
+                    "url": "https://swensongranite.com/products/granite-mailbox-posts/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/granite-mailbox-posts/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/granite-lamp-posts",
+                    "url": "https://swensongranite.com/products/granite-lamp-posts/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/granite-lamp-posts/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/wall-caps",
+                    "url": "https://swensongranite.com/products/wall-caps/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/wall-caps/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/wall-stone",
+                    "url": "https://swensongranite.com/products/wall-stone/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/wall-stone/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/pillar-caps",
+                    "url": "https://swensongranite.com/products/pillar-caps/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/pillar-caps/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/sills",
+                    "url": "https://swensongranite.com/products/sills/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/sills/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/stone-veneer",
+                    "url": "https://swensongranite.com/products/stone-veneer/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/stone-veneer/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/estate-veneer-series",
+                    "url": "https://swensongranite.com/products/estate-veneer-series/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/estate-veneer-series/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/stone-benches",
+                    "url": "https://swensongranite.com/products/stone-benches/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/stone-benches/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/stone-bird-baths",
+                    "url": "https://swensongranite.com/products/stone-bird-baths/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/stone-bird-baths/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/elements-and-accents",
+                    "url": "https://swensongranite.com/products/elements-and-accents/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/elements-and-accents/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/thin-veneer",
+                    "url": "https://swensongranite.com/products/thin-veneer/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/thin-veneer/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/fire-pits",
+                    "url": "https://swensongranite.com/products/fire-pits/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/fire-pits/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_front-entry-and-curb-appeal",
+                    "url": "https://swensongranite.com/front-entry-and-curb-appeal/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_front-entry-and-curb-appeal/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_walkways-patios",
+                    "url": "https://swensongranite.com/walkways-patios/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_walkways-patios/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/edging",
+                    "url": "https://swensongranite.com/products/edging/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/edging/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_pool-patios",
+                    "url": "https://swensongranite.com/pool-patios/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_pool-patios/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_outdoor-living",
+                    "url": "https://swensongranite.com/outdoor-living/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_outdoor-living/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_gardens",
+                    "url": "https://swensongranite.com/gardens/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_gardens/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/granite-curbing",
+                    "url": "https://swensongranite.com/products/granite-curbing/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/granite-curbing/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/signs",
+                    "url": "https://swensongranite.com/products/signs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/signs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_products/large-projects",
+                    "url": "https://swensongranite.com/products/large-projects/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_products/large-projects/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_resources/download-price-list",
+                    "url": "https://swensongranite.com/resources/download-price-list/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_resources/download-price-list/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_project-planning-tools",
+                    "url": "https://swensongranite.com/project-planning-tools/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_project-planning-tools/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_stores",
+                    "url": "https://swensongranite.com/stores/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_stores/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_resources",
+                    "url": "https://swensongranite.com/resources/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_resources/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_resources/?_resource_type_resource_finder=inspiration-guide",
+                    "url": "https://swensongranite.com/resources/?_resource_type_resource_finder=inspiration-guide",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_resources/?_resource_type_resource_finder=inspiration-guide/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_our-history",
+                    "url": "https://swensongranite.com/our-history/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_our-history/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_project-planning-tools/e-samples",
+                    "url": "https://swensongranite.com/project-planning-tools/e-samples/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_project-planning-tools/e-samples/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_about-us",
+                    "url": "https://swensongranite.com/about-us/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_about-us/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_our-people",
+                    "url": "https://swensongranite.com/our-people/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_our-people/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_join-our-team",
+                    "url": "https://swensongranite.com/join-our-team/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_join-our-team/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_sustainability",
+                    "url": "https://swensongranite.com/sustainability/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_sustainability/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_project-planning-tools/3d-samples",
+                    "url": "https://swensongranite.com/project-planning-tools/3d-samples/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_project-planning-tools/3d-samples/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_find-a-dealer",
+                    "url": "https://swensongranite.com/find-a-dealer/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_find-a-dealer/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "swensongranite.com_faqs",
+                    "url": "https://swensongranite.com/faqs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/swensongranite.com/run_swensongranite.com_20240327_224254_0f91/swensongranite.com_faqs/_prod_before_update.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "current_run": "run_swensongranite.com_20240327_224254_0f91"
+}

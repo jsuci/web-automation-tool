@@ -1,0 +1,24 @@
+{
+  "production_domain": "https://www.crresearch.com",
+  "staging_domain": "",
+  "website_name": "www.crresearch.com",
+  "website_login": {
+    "username": "admin",
+    "password": "admin"
+  },
+  "sitemap_list": ["https://www.crresearch.com/sitemap_index.xml"],
+  "exlcude_url_patterns": [
+    "#\\.*",
+    "\\/blog\\/\\w.+",
+    "\\/resources\\/\\w.+",
+    "\\/landing\\/\\w.+",
+    "\\/team\\/\\w.+",
+    "\\/case-studies\\/\\w.+",
+    "\\/\\?.+"
+  ],
+  "include_url_patterns": [],
+  "include_images": false,
+  "use_sitemaps": false,
+  "strict_crawl": false,
+  "crawl_type": "same-hostname"
+}

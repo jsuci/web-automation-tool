@@ -1,0 +1,238 @@
+{
+    "sites": [
+        {
+            "production_domain": "https://instoneco.com",
+            "staging_domain": "https://instonestaging.wpengine.com",
+            "website_name": "instoneco.com",
+            "website_login": {
+                "username": "admin",
+                "password": "admin"
+            },
+            "sitemap_list": [
+                "https://instoneco.com/page-sitemap.xml"
+            ],
+            "exlcude_url_patterns": [
+                "#\\.*"
+            ],
+            "include_url_patterns": [],
+            "include_images": false,
+            "use_sitemaps": true,
+            "strict_crawl": false,
+            "crawl_type": "same-hostname"
+        },
+        {
+            "production_domain": "https://www.2percentcommission.com",
+            "staging_domain": "",
+            "website_name": "www.2percentcommission.com",
+            "website_login": {
+                "username": "admin",
+                "password": "admin"
+            },
+            "sitemap_list": [
+                "https://www.2percentcommission.com/sitemap.xml"
+            ],
+            "exlcude_url_patterns": [
+                "#\\.*"
+            ],
+            "include_url_patterns": [],
+            "include_images": false,
+            "use_sitemaps": true,
+            "strict_crawl": false,
+            "crawl_type": "same-hostname"
+        },
+        {
+            "production_domain": "https://concreteburnattorneys.com",
+            "staging_domain": "",
+            "website_name": "concreteburnattorneys.com",
+            "website_login": {
+                "username": "admin",
+                "password": "admin"
+            },
+            "sitemap_list": [
+                "https://concreteburnattorneys.com/sitemap_index.xml"
+            ],
+            "exlcude_url_patterns": [
+                "#\\.*"
+            ],
+            "include_url_patterns": [],
+            "include_images": false,
+            "use_sitemaps": true,
+            "strict_crawl": false,
+            "crawl_type": "same-hostname"
+        },
+        {
+            "production_domain": "https://www.holidayvillagenj.com",
+            "staging_domain": "",
+            "website_name": "www.holidayvillagenj.com",
+            "website_login": {
+                "username": "admin",
+                "password": "admin"
+            },
+            "sitemap_list": [
+                "https://www.holidayvillagenj.com/sitemap_index.xml"
+            ],
+            "exlcude_url_patterns": [
+                "#\\.*"
+            ],
+            "include_url_patterns": [],
+            "include_images": false,
+            "use_sitemaps": true,
+            "strict_crawl": false,
+            "crawl_type": "same-hostname"
+        },
+        {
+            "production_domain": "https://torostone.com",
+            "staging_domain": "",
+            "website_name": "torostone.com",
+            "website_login": {
+                "username": "admin",
+                "password": "admin"
+            },
+            "sitemap_list": [
+                "https://torostone.com/sitemap_index.xml"
+            ],
+            "exlcude_url_patterns": [
+                "#\\.*"
+            ],
+            "include_url_patterns": [],
+            "include_images": false,
+            "use_sitemaps": true,
+            "strict_crawl": false,
+            "crawl_type": "same-hostname"
+        },
+        {
+            "production_domain": "https://swensongranite.com",
+            "staging_domain": "",
+            "website_name": "swensongranite.com",
+            "website_login": {
+                "username": "admin",
+                "password": "admin"
+            },
+            "sitemap_list": [
+                "https://swensongranite.com/sitemap_index.xml"
+            ],
+            "exlcude_url_patterns": [
+                "#\\.*",
+                "\\.com/blog/"
+            ],
+            "include_url_patterns": [],
+            "include_images": false,
+            "use_sitemaps": false,
+            "strict_crawl": false,
+            "crawl_type": "same-hostname"
+        },
+        {
+            "production_domain": "https://rockofages.com",
+            "staging_domain": "",
+            "website_name": "rockofages.com",
+            "website_login": {
+                "username": "admin",
+                "password": "admin"
+            },
+            "sitemap_list": [
+                "https://rockofages.com/page-sitemap.xml",
+                "https://rockofages.com/stones-sitemap.xml"
+            ],
+            "exlcude_url_patterns": [
+                "#\\.*"
+            ],
+            "include_url_patterns": [],
+            "include_images": false,
+            "use_sitemaps": true,
+            "strict_crawl": false,
+            "crawl_type": "same-hostname"
+        },
+        {
+            "production_domain": "https://www.polycor.com",
+            "staging_domain": "",
+            "website_name": "www.polycor.com",
+            "website_login": {
+                "username": "admin",
+                "password": "admin"
+            },
+            "sitemap_list": [
+                "https://www.polycor.com/sitemap_index.xml"
+            ],
+            "exlcude_url_patterns": [
+                "#\\.*",
+                "\\/blog\\/",
+                "\\/projects\\/",
+                "\\/pierres\\/",
+                "\\/stones\\/"
+            ],
+            "include_url_patterns": [],
+            "include_images": false,
+            "use_sitemaps": false,
+            "strict_crawl": false,
+            "crawl_type": "same-hostname"
+        },
+        {
+            "production_domain": "https://tuckbarreyoga.com",
+            "staging_domain": "",
+            "website_name": "tuckbarreyoga.com",
+            "website_login": {
+                "username": "admin",
+                "password": "admin"
+            },
+            "sitemap_list": [
+                "https://tuckbarreyoga.com/sitemap_index.xml"
+            ],
+            "exlcude_url_patterns": [
+                "#\\.*",
+                "\\/classes\\/\\w.+",
+                "\\/\\?.+"
+            ],
+            "include_url_patterns": [],
+            "include_images": false,
+            "use_sitemaps": false,
+            "strict_crawl": false,
+            "crawl_type": "same-hostname"
+        },
+        {
+            "production_domain": "https://www.crresearch.com",
+            "staging_domain": "",
+            "website_name": "www.crresearch.com",
+            "website_login": {
+                "username": "admin",
+                "password": "admin"
+            },
+            "sitemap_list": [
+                "https://www.crresearch.com/sitemap_index.xml"
+            ],
+            "exlcude_url_patterns": [
+                "#\\.*",
+                "\\/blog\\/\\w.+",
+                "\\/resources\\/\\w.+",
+                "\\/landing\\/\\w.+",
+                "\\/team\\/\\w.+",
+                "\\/case-studies\\/\\w.+",
+                "\\/\\?.+"
+            ],
+            "include_url_patterns": [],
+            "include_images": false,
+            "use_sitemaps": true,
+            "strict_crawl": false,
+            "crawl_type": "same-hostname"
+        },
+        {
+            "production_domain": "https://learn.polycor.com",
+            "staging_domain": "https://learndev.polycor.com",
+            "website_name": "learn.polycor.com",
+            "website_login": {
+                "username": "admin",
+                "password": "admin"
+            },
+            "sitemap_list": [
+                "https://learndev.polycor.com/sitemap_index.xml"
+            ],
+            "exlcude_url_patterns": [
+                "#\\.*"
+            ],
+            "include_url_patterns": [],
+            "include_images": false,
+            "use_sitemaps": true,
+            "strict_crawl": false,
+            "crawl_type": "same-hostname"
+        }
+    ]
+}

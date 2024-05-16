@@ -1,0 +1,899 @@
+{
+    "production_domain": "https://www.2percentcommission.com",
+    "staging_domain": "",
+    "urls": [
+        {
+            "id": "NnPNDQwocIaj6jn",
+            "path": "/tag/diy/",
+            "fullURL": "https://www.2percentcommission.com/tag/diy/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "VHTQo3QOASJ3Lmh",
+            "path": "/tag/by-owner/",
+            "fullURL": "https://www.2percentcommission.com/tag/by-owner/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "uPslE17ycsv6Osz",
+            "path": "/tag/fsbo/",
+            "fullURL": "https://www.2percentcommission.com/tag/fsbo/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "gLzSldYEWCa9C5d",
+            "path": "/author/2pcc/",
+            "fullURL": "https://www.2percentcommission.com/author/2pcc/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9aeI6Gu8j1tdqDd",
+            "path": "/tag/buyer-psychology/",
+            "fullURL": "https://www.2percentcommission.com/tag/buyer-psychology/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "57PDb4WdM38yDf2",
+            "path": "/tag/home-showing/",
+            "fullURL": "https://www.2percentcommission.com/tag/home-showing/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "RT4ublNGUYDji0d",
+            "path": "/tag/homeowners-pride/",
+            "fullURL": "https://www.2percentcommission.com/tag/homeowners-pride/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "soyzzzoESC7iZ8Q",
+            "path": "/tag/investors/",
+            "fullURL": "https://www.2percentcommission.com/tag/investors/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "MD3BKmTeSfNH4bx",
+            "path": "/tag/seller-tips/",
+            "fullURL": "https://www.2percentcommission.com/tag/seller-tips/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Wzgv4jig6WRuJ5b",
+            "path": "/tag/seller-psychology/",
+            "fullURL": "https://www.2percentcommission.com/tag/seller-psychology/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jrdT239TxVnJ3gC",
+            "path": "/tag/staging/",
+            "fullURL": "https://www.2percentcommission.com/tag/staging/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "1tNAE7Xz7no2KH2",
+            "path": "/category/buyers/",
+            "fullURL": "https://www.2percentcommission.com/category/buyers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "GVpSF5poKboQDEg",
+            "path": "/category/investing/",
+            "fullURL": "https://www.2percentcommission.com/category/investing/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zhCjZ6TwfnG4OeT",
+            "path": "/category/sellers/",
+            "fullURL": "https://www.2percentcommission.com/category/sellers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "nYx8hgb0qBILxTB",
+            "path": "/",
+            "fullURL": "https://www.2percentcommission.com/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "wAxe9Q65t2cS5XJ",
+            "path": "/thank-you/thank-you/",
+            "fullURL": "https://www.2percentcommission.com/thank-you/thank-you/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Gbx837SJq6LgKln",
+            "path": "/sellers/contact/",
+            "fullURL": "https://www.2percentcommission.com/sellers/contact/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "VXSyVMKMBajw7sj",
+            "path": "/buyers/rebates/",
+            "fullURL": "https://www.2percentcommission.com/buyers/rebates/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "4dVyaKrnIGHlTIc",
+            "path": "/buyers/buyer-contact-form/",
+            "fullURL": "https://www.2percentcommission.com/buyers/buyer-contact-form/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "PTwdyQ9XYvVhDOw",
+            "path": "/blog-2/",
+            "fullURL": "https://www.2percentcommission.com/blog-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "iDUKkarBfMVmWD0",
+            "path": "/buyers/",
+            "fullURL": "https://www.2percentcommission.com/buyers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "KtfRZRu16QzNOJr",
+            "path": "/contact-us/",
+            "fullURL": "https://www.2percentcommission.com/contact-us/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "L67y2lEVsDkfXd9",
+            "path": "/disclaimer-privacy-policy/",
+            "fullURL": "https://www.2percentcommission.com/disclaimer-privacy-policy/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "c6HFJg2zJxiQjRA",
+            "path": "/procuring-cause/",
+            "fullURL": "https://www.2percentcommission.com/procuring-cause/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "IHYiI8VIKBwA2Cd",
+            "path": "/blog/",
+            "fullURL": "https://www.2percentcommission.com/blog/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "cilHMnbIBlSDKql",
+            "path": "/secret/",
+            "fullURL": "https://www.2percentcommission.com/secret/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "vEhoeoR5w6kJVyj",
+            "path": "/about/",
+            "fullURL": "https://www.2percentcommission.com/about/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "vQhWm1PGOgFdLHR",
+            "path": "/sellers/",
+            "fullURL": "https://www.2percentcommission.com/sellers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "VajxNoqoDc5uiTU",
+            "path": "/thank-you-contact/",
+            "fullURL": "https://www.2percentcommission.com/thank-you-contact/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "WrzdCmVmS9rGH76",
+            "path": "/thank-you/",
+            "fullURL": "https://www.2percentcommission.com/thank-you/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "HnlTbcdsPljfblj",
+            "path": "/buyers/characteristics-you-want-in-an-agent/",
+            "fullURL": "https://www.2percentcommission.com/buyers/characteristics-you-want-in-an-agent/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "l5c91EqolwcMa4g",
+            "path": "/investing/investing-in-denver-real-estate/",
+            "fullURL": "https://www.2percentcommission.com/investing/investing-in-denver-real-estate/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "AmnIOnz40rACAJT",
+            "path": "/sellers/making-home-improvements-before-selling/",
+            "fullURL": "https://www.2percentcommission.com/sellers/making-home-improvements-before-selling/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ZNP7XaJGaqf40wk",
+            "path": "/investing/smart-real-estate-investing-tips/",
+            "fullURL": "https://www.2percentcommission.com/investing/smart-real-estate-investing-tips/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "RecLxUib8xsPdJO",
+            "path": "/investing/doubling-your-home-size/",
+            "fullURL": "https://www.2percentcommission.com/investing/doubling-your-home-size/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "WIVfzeHaoiyJaId",
+            "path": "/sellers/selling-home-dont-make-mistake-93-sellers-made-last-year/",
+            "fullURL": "https://www.2percentcommission.com/sellers/selling-home-dont-make-mistake-93-sellers-made-last-year/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "azl7KoHkcHgSz0A",
+            "path": "/sellers/what-actually-gets-your-home-sold/",
+            "fullURL": "https://www.2percentcommission.com/sellers/what-actually-gets-your-home-sold/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "A7kd57an2UOmX0V",
+            "path": "/sellers/skip-the-listing-agent/",
+            "fullURL": "https://www.2percentcommission.com/sellers/skip-the-listing-agent/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "c9sTPNDniITbkE3",
+            "path": "/sellers/full-service-agent-vs-sale-owner/",
+            "fullURL": "https://www.2percentcommission.com/sellers/full-service-agent-vs-sale-owner/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "uix5iWl7Aaa0bjB",
+            "path": "/sellers/get-to-know-the-competition/",
+            "fullURL": "https://www.2percentcommission.com/sellers/get-to-know-the-competition/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xgtrwwCzL3aiFnN",
+            "path": "/investing/anyone-can-invest/",
+            "fullURL": "https://www.2percentcommission.com/investing/anyone-can-invest/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "N1uX5tO3mYKsvAh",
+            "path": "/sellers/list-your-home-and-save-in-commissions/",
+            "fullURL": "https://www.2percentcommission.com/sellers/list-your-home-and-save-in-commissions/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "cL8lfi4ScnKP2pE",
+            "path": "/sellers/home-showing-by-owner-mistakes/",
+            "fullURL": "https://www.2percentcommission.com/sellers/home-showing-by-owner-mistakes/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "4QOZI8DSTlc49NQ",
+            "path": "/sellers/how-to-attract-bad-buyers/",
+            "fullURL": "https://www.2percentcommission.com/sellers/how-to-attract-bad-buyers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Y8TwzP1zg7EzmHm",
+            "path": "/sellers/selling-a-home-in-2012/",
+            "fullURL": "https://www.2percentcommission.com/sellers/selling-a-home-in-2012/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "70kR8p2l8qI8Ryo",
+            "path": "/sellers/how-to-save-money-when-you-sell-your-home/",
+            "fullURL": "https://www.2percentcommission.com/sellers/how-to-save-money-when-you-sell-your-home/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "nQNYctrjVgiYdW9",
+            "path": "/sellers/location-in-real-estate/",
+            "fullURL": "https://www.2percentcommission.com/sellers/location-in-real-estate/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "O1gPLTc8NLvSCqw",
+            "path": "/sellers/protect-yourself-with-independent-appraisal/",
+            "fullURL": "https://www.2percentcommission.com/sellers/protect-yourself-with-independent-appraisal/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "MubqYnDYai4Bppi",
+            "path": "/sellers/boost-home-sales-market-insights-for-higher-selling-rates/",
+            "fullURL": "https://www.2percentcommission.com/sellers/boost-home-sales-market-insights-for-higher-selling-rates/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        }
+    ],
+    "runs": [
+        {
+            "id": "run_2percentcommission.com_20240327_015843_5c51",
+            "folder_path": "screenshots\\2percentcommission.com\\run_2percentcommission.com_20240327_015843_5c51",
+            "started": "2024-03-26T17:58:43.548Z",
+            "finished": null,
+            "screenshots": [
+                {
+                    "page_name": "www.2percentcommission.com_tag/diy",
+                    "url": "https://www.2percentcommission.com/tag/diy/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_tag/diy/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_tag/by-owner",
+                    "url": "https://www.2percentcommission.com/tag/by-owner/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_tag/by-owner/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_tag/fsbo",
+                    "url": "https://www.2percentcommission.com/tag/fsbo/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_tag/fsbo/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_author/2pcc",
+                    "url": "https://www.2percentcommission.com/author/2pcc/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_author/2pcc/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_tag/buyer-psychology",
+                    "url": "https://www.2percentcommission.com/tag/buyer-psychology/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_tag/buyer-psychology/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_tag/home-showing",
+                    "url": "https://www.2percentcommission.com/tag/home-showing/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_tag/home-showing/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_tag/homeowners-pride",
+                    "url": "https://www.2percentcommission.com/tag/homeowners-pride/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_tag/homeowners-pride/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_tag/investors",
+                    "url": "https://www.2percentcommission.com/tag/investors/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_tag/investors/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_tag/seller-tips",
+                    "url": "https://www.2percentcommission.com/tag/seller-tips/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_tag/seller-tips/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_tag/seller-psychology",
+                    "url": "https://www.2percentcommission.com/tag/seller-psychology/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_tag/seller-psychology/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_tag/staging",
+                    "url": "https://www.2percentcommission.com/tag/staging/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_tag/staging/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_category/buyers",
+                    "url": "https://www.2percentcommission.com/category/buyers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_category/buyers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_category/investing",
+                    "url": "https://www.2percentcommission.com/category/investing/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_category/investing/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_category/sellers",
+                    "url": "https://www.2percentcommission.com/category/sellers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_category/sellers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_",
+                    "url": "https://www.2percentcommission.com/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_thank-you/thank-you",
+                    "url": "https://www.2percentcommission.com/thank-you/thank-you/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_thank-you/thank-you/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/contact",
+                    "url": "https://www.2percentcommission.com/sellers/contact/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/contact/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_buyers/rebates",
+                    "url": "https://www.2percentcommission.com/buyers/rebates/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_buyers/rebates/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_buyers/buyer-contact-form",
+                    "url": "https://www.2percentcommission.com/buyers/buyer-contact-form/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_buyers/buyer-contact-form/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_blog-2",
+                    "url": "https://www.2percentcommission.com/blog-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_blog-2/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_buyers",
+                    "url": "https://www.2percentcommission.com/buyers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_buyers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_contact-us",
+                    "url": "https://www.2percentcommission.com/contact-us/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_contact-us/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_disclaimer-privacy-policy",
+                    "url": "https://www.2percentcommission.com/disclaimer-privacy-policy/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_disclaimer-privacy-policy/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_procuring-cause",
+                    "url": "https://www.2percentcommission.com/procuring-cause/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_procuring-cause/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_blog",
+                    "url": "https://www.2percentcommission.com/blog/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_blog/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_secret",
+                    "url": "https://www.2percentcommission.com/secret/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_secret/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_about",
+                    "url": "https://www.2percentcommission.com/about/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_about/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers",
+                    "url": "https://www.2percentcommission.com/sellers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_thank-you-contact",
+                    "url": "https://www.2percentcommission.com/thank-you-contact/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_thank-you-contact/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_thank-you",
+                    "url": "https://www.2percentcommission.com/thank-you/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_thank-you/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_buyers/characteristics-you-want-in-an-agent",
+                    "url": "https://www.2percentcommission.com/buyers/characteristics-you-want-in-an-agent/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_buyers/characteristics-you-want-in-an-agent/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_investing/investing-in-denver-real-estate",
+                    "url": "https://www.2percentcommission.com/investing/investing-in-denver-real-estate/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_investing/investing-in-denver-real-estate/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/making-home-improvements-before-selling",
+                    "url": "https://www.2percentcommission.com/sellers/making-home-improvements-before-selling/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/making-home-improvements-before-selling/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_investing/smart-real-estate-investing-tips",
+                    "url": "https://www.2percentcommission.com/investing/smart-real-estate-investing-tips/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_investing/smart-real-estate-investing-tips/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_investing/doubling-your-home-size",
+                    "url": "https://www.2percentcommission.com/investing/doubling-your-home-size/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_investing/doubling-your-home-size/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/selling-home-dont-make-mistake-93-sellers-made-last-year",
+                    "url": "https://www.2percentcommission.com/sellers/selling-home-dont-make-mistake-93-sellers-made-last-year/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/selling-home-dont-make-mistake-93-sellers-made-last-year/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/what-actually-gets-your-home-sold",
+                    "url": "https://www.2percentcommission.com/sellers/what-actually-gets-your-home-sold/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/what-actually-gets-your-home-sold/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/skip-the-listing-agent",
+                    "url": "https://www.2percentcommission.com/sellers/skip-the-listing-agent/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/skip-the-listing-agent/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/full-service-agent-vs-sale-owner",
+                    "url": "https://www.2percentcommission.com/sellers/full-service-agent-vs-sale-owner/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/full-service-agent-vs-sale-owner/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/get-to-know-the-competition",
+                    "url": "https://www.2percentcommission.com/sellers/get-to-know-the-competition/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/get-to-know-the-competition/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_investing/anyone-can-invest",
+                    "url": "https://www.2percentcommission.com/investing/anyone-can-invest/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_investing/anyone-can-invest/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/list-your-home-and-save-in-commissions",
+                    "url": "https://www.2percentcommission.com/sellers/list-your-home-and-save-in-commissions/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/list-your-home-and-save-in-commissions/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/home-showing-by-owner-mistakes",
+                    "url": "https://www.2percentcommission.com/sellers/home-showing-by-owner-mistakes/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/home-showing-by-owner-mistakes/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/how-to-attract-bad-buyers",
+                    "url": "https://www.2percentcommission.com/sellers/how-to-attract-bad-buyers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/how-to-attract-bad-buyers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/selling-a-home-in-2012",
+                    "url": "https://www.2percentcommission.com/sellers/selling-a-home-in-2012/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/selling-a-home-in-2012/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/how-to-save-money-when-you-sell-your-home",
+                    "url": "https://www.2percentcommission.com/sellers/how-to-save-money-when-you-sell-your-home/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/how-to-save-money-when-you-sell-your-home/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/location-in-real-estate",
+                    "url": "https://www.2percentcommission.com/sellers/location-in-real-estate/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/location-in-real-estate/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/protect-yourself-with-independent-appraisal",
+                    "url": "https://www.2percentcommission.com/sellers/protect-yourself-with-independent-appraisal/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/protect-yourself-with-independent-appraisal/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.2percentcommission.com_sellers/boost-home-sales-market-insights-for-higher-selling-rates",
+                    "url": "https://www.2percentcommission.com/sellers/boost-home-sales-market-insights-for-higher-selling-rates/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.2percentcommission.com/run_2percentcommission.com_20240327_015843_5c51/www.2percentcommission.com_sellers/boost-home-sales-market-insights-for-higher-selling-rates/_prod_before_update.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "current_run": "run_2percentcommission.com_20240327_015843_5c51"
+}

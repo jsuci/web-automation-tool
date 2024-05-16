@@ -1,0 +1,233 @@
+{
+    "production_domain": "https://concreteburnattorneys.com",
+    "staging_domain": "",
+    "urls": [
+        {
+            "id": "tELhgPHkiQOjBte",
+            "path": "/the-dangers/",
+            "fullURL": "https://concreteburnattorneys.com/the-dangers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "w5CX68At9dZBgxT",
+            "path": "/category/uncategorized/",
+            "fullURL": "https://concreteburnattorneys.com/category/uncategorized/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "bfGMUXY85OJowIM",
+            "path": "/author/angellet/",
+            "fullURL": "https://concreteburnattorneys.com/author/angellet/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zeqrC9jaPv5MQFc",
+            "path": "/who-is-responsible/",
+            "fullURL": "https://concreteburnattorneys.com/who-is-responsible/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "HL3XZ9CyY30eP0s",
+            "path": "/",
+            "fullURL": "https://concreteburnattorneys.com/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "8n2w54nfK582etl",
+            "path": "/how-we-help/",
+            "fullURL": "https://concreteburnattorneys.com/how-we-help/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "AaGIUwxyMMDbTnB",
+            "path": "/resources/",
+            "fullURL": "https://concreteburnattorneys.com/resources/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "hrsJIgm5hfL31YB",
+            "path": "/wet-concrete-burns-the-problem/",
+            "fullURL": "https://concreteburnattorneys.com/wet-concrete-burns-the-problem/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "L5PPlPpv5dprXSZ",
+            "path": "/why-do-concrete-and-cement-burn/",
+            "fullURL": "https://concreteburnattorneys.com/why-do-concrete-and-cement-burn/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "t5BosV4We5uTBg4",
+            "path": "/concrete-vs-cement-whats-the-difference/",
+            "fullURL": "https://concreteburnattorneys.com/concrete-vs-cement-whats-the-difference/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "s8z5C52FBmYteLn",
+            "path": "/i-have-an-injury-from-working-with-concrete-whos-responsible/",
+            "fullURL": "https://concreteburnattorneys.com/i-have-an-injury-from-working-with-concrete-whos-responsible/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xzM3LLTzyXIfQCX",
+            "path": "/common-treatments-for-concrete-burns/",
+            "fullURL": "https://concreteburnattorneys.com/common-treatments-for-concrete-burns/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        }
+    ],
+    "runs": [
+        {
+            "id": "run_concreteburnattorneys.com_20240327_022433_3a58",
+            "folder_path": "screenshots\\concreteburnattorneys.com\\run_concreteburnattorneys.com_20240327_022433_3a58",
+            "started": "2024-03-26T18:24:33.853Z",
+            "finished": null,
+            "screenshots": [
+                {
+                    "page_name": "concreteburnattorneys.com_the-dangers",
+                    "url": "https://concreteburnattorneys.com/the-dangers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_the-dangers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "concreteburnattorneys.com_category/uncategorized",
+                    "url": "https://concreteburnattorneys.com/category/uncategorized/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_category/uncategorized/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "concreteburnattorneys.com_author/angellet",
+                    "url": "https://concreteburnattorneys.com/author/angellet/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_author/angellet/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "concreteburnattorneys.com_who-is-responsible",
+                    "url": "https://concreteburnattorneys.com/who-is-responsible/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_who-is-responsible/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "concreteburnattorneys.com_",
+                    "url": "https://concreteburnattorneys.com/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "concreteburnattorneys.com_how-we-help",
+                    "url": "https://concreteburnattorneys.com/how-we-help/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_how-we-help/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "concreteburnattorneys.com_resources",
+                    "url": "https://concreteburnattorneys.com/resources/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_resources/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "concreteburnattorneys.com_wet-concrete-burns-the-problem",
+                    "url": "https://concreteburnattorneys.com/wet-concrete-burns-the-problem/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_wet-concrete-burns-the-problem/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "concreteburnattorneys.com_why-do-concrete-and-cement-burn",
+                    "url": "https://concreteburnattorneys.com/why-do-concrete-and-cement-burn/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_why-do-concrete-and-cement-burn/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "concreteburnattorneys.com_concrete-vs-cement-whats-the-difference",
+                    "url": "https://concreteburnattorneys.com/concrete-vs-cement-whats-the-difference/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_concrete-vs-cement-whats-the-difference/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "concreteburnattorneys.com_i-have-an-injury-from-working-with-concrete-whos-responsible",
+                    "url": "https://concreteburnattorneys.com/i-have-an-injury-from-working-with-concrete-whos-responsible/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_i-have-an-injury-from-working-with-concrete-whos-responsible/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "concreteburnattorneys.com_common-treatments-for-concrete-burns",
+                    "url": "https://concreteburnattorneys.com/common-treatments-for-concrete-burns/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/concreteburnattorneys.com/run_concreteburnattorneys.com_20240327_022433_3a58/concreteburnattorneys.com_common-treatments-for-concrete-burns/_prod_before_update.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "current_run": "run_concreteburnattorneys.com_20240327_022433_3a58"
+}

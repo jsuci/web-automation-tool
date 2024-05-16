@@ -1,0 +1,1634 @@
+{
+    "production_domain": "https://instoneco.com",
+    "staging_domain": "https://instonestaging.wpengine.com",
+    "urls": [
+        {
+            "id": "pbSg1Ylrpg7ozUD",
+            "path": "/interloc-cost/",
+            "fullURL": "https://instoneco.com/interloc-cost/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Uyxggps314QG8yG",
+            "path": "/get-aura-stone/",
+            "fullURL": "https://instoneco.com/get-aura-stone/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "DYSF6q2geyTZUDZ",
+            "path": "/",
+            "fullURL": "https://instoneco.com/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "u07XwyfPwhxdnmz",
+            "path": "/contact/",
+            "fullURL": "https://instoneco.com/contact/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "uMCccHnrI01nlI1",
+            "path": "/product-installation-videos/",
+            "fullURL": "https://instoneco.com/product-installation-videos/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jk0AOHW7OzZCnwt",
+            "path": "/meet-the-instone-team/",
+            "fullURL": "https://instoneco.com/meet-the-instone-team/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "tC1pSTa8B8PqWDr",
+            "path": "/dealer-professional-partner-application/",
+            "fullURL": "https://instoneco.com/dealer-professional-partner-application/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "RADY4XBr2x1Diur",
+            "path": "/contact-us-today/",
+            "fullURL": "https://instoneco.com/contact-us-today/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "oCKTmMpvsQafpaZ",
+            "path": "/50941-2/",
+            "fullURL": "https://instoneco.com/50941-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Ix7EEAj7pibllX2",
+            "path": "/contact-us-artepiso/",
+            "fullURL": "https://instoneco.com/contact-us-artepiso/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9QrNyM5lm67e4QD",
+            "path": "/let-us-help-you-create-your-next-project/",
+            "fullURL": "https://instoneco.com/let-us-help-you-create-your-next-project/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "TQvIkrrqyalqd1H",
+            "path": "/get-featured/",
+            "fullURL": "https://instoneco.com/get-featured/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "STwfXfWZ055BjCI",
+            "path": "/find-a-dealer-near-you/",
+            "fullURL": "https://instoneco.com/find-a-dealer-near-you/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "sOn6trqbg9bO5if",
+            "path": "/episode-page/",
+            "fullURL": "https://instoneco.com/episode-page/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "siHyiTBmpw9hvoY",
+            "path": "/claims/",
+            "fullURL": "https://instoneco.com/claims/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "EYNDytsuw9eJwA0",
+            "path": "/portfolio/",
+            "fullURL": "https://instoneco.com/portfolio/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "vKYOvR11lCALQzp",
+            "path": "/technical-installation-guides/",
+            "fullURL": "https://instoneco.com/technical-installation-guides/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "6rMJ6Ut15QnR3mp",
+            "path": "/careers/",
+            "fullURL": "https://instoneco.com/careers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "vdPxngunbWBV2pg",
+            "path": "/instone-educational-videos-2/",
+            "fullURL": "https://instoneco.com/instone-educational-videos-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "5C8FAzQLjyRn7hq",
+            "path": "/pangaea-quality/",
+            "fullURL": "https://instoneco.com/pangaea-quality/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "t5TPHOLeCQci40B",
+            "path": "/pangaea-natural-stone/",
+            "fullURL": "https://instoneco.com/pangaea-natural-stone/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "p9K64XCPF7IRWm5",
+            "path": "/dutch-quality/",
+            "fullURL": "https://instoneco.com/dutch-quality/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "0XS7W2Bi8PW5TNd",
+            "path": "/artepiso/",
+            "fullURL": "https://instoneco.com/artepiso/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "uf1FsHKhNYU25WX",
+            "path": "/beon-stone/",
+            "fullURL": "https://instoneco.com/beon-stone/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "20ds9xL9DQVKfda",
+            "path": "/instones-fabrication-and-design-services/",
+            "fullURL": "https://instoneco.com/instones-fabrication-and-design-services/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "VDMscwSBuOkmT6U",
+            "path": "/masonry-saw-blades/",
+            "fullURL": "https://instoneco.com/masonry-saw-blades/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "nOTbKZngrFbAqz8",
+            "path": "/professionals/",
+            "fullURL": "https://instoneco.com/professionals/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "qDioY2BmBuPcuCg",
+            "path": "/blog/",
+            "fullURL": "https://instoneco.com/blog/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Cjy6ehykCIMCG2b",
+            "path": "/isokern-fireplaces/",
+            "fullURL": "https://instoneco.com/isokern-fireplaces/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "0nGHdJBgnS2tXLT",
+            "path": "/instone-army/",
+            "fullURL": "https://instoneco.com/instone-army/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "brsoSN3Ujz2w1bw",
+            "path": "/instone-home-design-visualizer/",
+            "fullURL": "https://instoneco.com/instone-home-design-visualizer/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "GAwdcrXUdDavV2L",
+            "path": "/inbuilding-design-new-guy-new-patio/",
+            "fullURL": "https://instoneco.com/inbuilding-design-new-guy-new-patio/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "QpnUUflpRtUZGoy",
+            "path": "/inbuilding-design-whats-the-story-with-natural-stone/",
+            "fullURL": "https://instoneco.com/inbuilding-design-whats-the-story-with-natural-stone/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "XzMh5y0pAahwUym",
+            "path": "/inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/",
+            "fullURL": "https://instoneco.com/inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "NswhvaKsoJnw50R",
+            "path": "/inbuilding-design-quick-and-easy-fireplace-with-isokern/",
+            "fullURL": "https://instoneco.com/inbuilding-design-quick-and-easy-fireplace-with-isokern/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "LmMA1usIgoSpBAi",
+            "path": "/inbuilding-design-backyard-makeover-with-aura-natural-landscapes/",
+            "fullURL": "https://instoneco.com/inbuilding-design-backyard-makeover-with-aura-natural-landscapes/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TeiQi27aGJkJdJh",
+            "path": "/inbuilding-design-the-show/",
+            "fullURL": "https://instoneco.com/inbuilding-design-the-show/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "k4NGYR2w1XpD7B9",
+            "path": "/inbuilding-design-invasion-of-the-clone-stones/",
+            "fullURL": "https://instoneco.com/inbuilding-design-invasion-of-the-clone-stones/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "AEZywquAROaK0Pw",
+            "path": "/inbuilding-design-like-a-rolling-stone/",
+            "fullURL": "https://instoneco.com/inbuilding-design-like-a-rolling-stone/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "6Q8PVM65Jv3Uwon",
+            "path": "/inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/",
+            "fullURL": "https://instoneco.com/inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "gaYBcv34qVaDkj3",
+            "path": "/certified-installer-database/",
+            "fullURL": "https://instoneco.com/certified-installer-database/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "3dTWhXl1CD4H9i1",
+            "path": "/going-big-with-isokern-fireplaces/",
+            "fullURL": "https://instoneco.com/going-big-with-isokern-fireplaces/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "FpHd1xnh7p8Nd5G",
+            "path": "/inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/",
+            "fullURL": "https://instoneco.com/inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "7yJ2jcPKxsdCSDw",
+            "path": "/aura/",
+            "fullURL": "https://instoneco.com/aura/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "u2tVfP8Pb84Yqjh",
+            "path": "/interloc/",
+            "fullURL": "https://instoneco.com/interloc/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "8isiwxqaamxRbZ2",
+            "path": "/cultured-stone/",
+            "fullURL": "https://instoneco.com/cultured-stone/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ncABPeWUhhzqbqZ",
+            "path": "/about/",
+            "fullURL": "https://instoneco.com/about/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "IlV41eLu72O4eMo",
+            "path": "/homeowners/",
+            "fullURL": "https://instoneco.com/homeowners/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "N5SZQ0x0jli769i",
+            "path": "/certified-installer-program/",
+            "fullURL": "https://instoneco.com/certified-installer-program/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        }
+    ],
+    "runs": [
+        {
+            "id": "run_instoneco.com_20240327_025043_8363",
+            "folder_path": "screenshots\\instoneco.com\\run_instoneco.com_20240327_025043_8363",
+            "started": "2024-03-26T18:50:43.351Z",
+            "finished": null,
+            "screenshots": [
+                {
+                    "page_name": "instoneco.com_interloc-cost",
+                    "url": "https://instoneco.com/interloc-cost/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc-cost/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc-cost/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc-cost/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc-cost/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc-cost/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc-cost/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc-cost/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc-cost/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc-cost/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc-cost/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_get-aura-stone",
+                    "url": "https://instoneco.com/get-aura-stone/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-aura-stone/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-aura-stone/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-aura-stone/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-aura-stone/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-aura-stone/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-aura-stone/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-aura-stone/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-aura-stone/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-aura-stone/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-aura-stone/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_",
+                    "url": "https://instoneco.com/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_contact",
+                    "url": "https://instoneco.com/contact/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 198365,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_product-installation-videos",
+                    "url": "https://instoneco.com/product-installation-videos/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_product-installation-videos/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_product-installation-videos/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_product-installation-videos/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_product-installation-videos/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_product-installation-videos/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_product-installation-videos/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_product-installation-videos/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_product-installation-videos/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_product-installation-videos/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_product-installation-videos/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_meet-the-instone-team",
+                    "url": "https://instoneco.com/meet-the-instone-team/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_meet-the-instone-team/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_meet-the-instone-team/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_meet-the-instone-team/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_meet-the-instone-team/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_meet-the-instone-team/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_meet-the-instone-team/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_meet-the-instone-team/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_meet-the-instone-team/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_meet-the-instone-team/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_meet-the-instone-team/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_dealer-professional-partner-application",
+                    "url": "https://instoneco.com/dealer-professional-partner-application/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dealer-professional-partner-application/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dealer-professional-partner-application/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dealer-professional-partner-application/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dealer-professional-partner-application/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dealer-professional-partner-application/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dealer-professional-partner-application/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dealer-professional-partner-application/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dealer-professional-partner-application/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dealer-professional-partner-application/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dealer-professional-partner-application/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_contact-us-today",
+                    "url": "https://instoneco.com/contact-us-today/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-today/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-today/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-today/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-today/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-today/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-today/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-today/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-today/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-today/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-today/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_50941-2",
+                    "url": "https://instoneco.com/50941-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_50941-2/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_50941-2/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_50941-2/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_50941-2/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_50941-2/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_50941-2/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_50941-2/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_50941-2/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_50941-2/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_50941-2/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_contact-us-artepiso",
+                    "url": "https://instoneco.com/contact-us-artepiso/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-artepiso/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-artepiso/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-artepiso/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-artepiso/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-artepiso/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-artepiso/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-artepiso/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-artepiso/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-artepiso/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_contact-us-artepiso/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_let-us-help-you-create-your-next-project",
+                    "url": "https://instoneco.com/let-us-help-you-create-your-next-project/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_let-us-help-you-create-your-next-project/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_let-us-help-you-create-your-next-project/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_let-us-help-you-create-your-next-project/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_let-us-help-you-create-your-next-project/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_let-us-help-you-create-your-next-project/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_let-us-help-you-create-your-next-project/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_let-us-help-you-create-your-next-project/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_let-us-help-you-create-your-next-project/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_let-us-help-you-create-your-next-project/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_let-us-help-you-create-your-next-project/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_get-featured",
+                    "url": "https://instoneco.com/get-featured/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-featured/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-featured/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-featured/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-featured/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-featured/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-featured/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-featured/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-featured/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-featured/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_get-featured/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_find-a-dealer-near-you",
+                    "url": "https://instoneco.com/find-a-dealer-near-you/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_find-a-dealer-near-you/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_find-a-dealer-near-you/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_find-a-dealer-near-you/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_find-a-dealer-near-you/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_find-a-dealer-near-you/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_find-a-dealer-near-you/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_find-a-dealer-near-you/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_find-a-dealer-near-you/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_find-a-dealer-near-you/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_find-a-dealer-near-you/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_episode-page",
+                    "url": "https://instoneco.com/episode-page/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_episode-page/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_episode-page/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_episode-page/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_episode-page/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_episode-page/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_episode-page/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_episode-page/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_episode-page/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_episode-page/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_episode-page/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_claims",
+                    "url": "https://instoneco.com/claims/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_claims/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_claims/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_claims/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_claims/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_claims/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_claims/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_claims/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_claims/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_claims/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_claims/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_portfolio",
+                    "url": "https://instoneco.com/portfolio/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_portfolio/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_portfolio/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_portfolio/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_portfolio/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_portfolio/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_portfolio/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_portfolio/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_portfolio/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_portfolio/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_portfolio/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 385190,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 251412,
+                        "m_prod_after_vs_prod_before": 2738966
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_technical-installation-guides",
+                    "url": "https://instoneco.com/technical-installation-guides/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_technical-installation-guides/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_technical-installation-guides/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_technical-installation-guides/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_technical-installation-guides/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_technical-installation-guides/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_technical-installation-guides/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_technical-installation-guides/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_technical-installation-guides/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_technical-installation-guides/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_technical-installation-guides/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_careers",
+                    "url": "https://instoneco.com/careers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_careers/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_careers/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_careers/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_careers/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_careers/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_careers/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_careers/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_careers/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_careers/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_careers/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_instone-educational-videos-2",
+                    "url": "https://instoneco.com/instone-educational-videos-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-educational-videos-2/_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-educational-videos-2/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-educational-videos-2/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-educational-videos-2/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-educational-videos-2/_prod_after_vs_prod_before.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-educational-videos-2/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-educational-videos-2/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-educational-videos-2/_m_prod_before_update.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-educational-videos-2/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-educational-videos-2/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 1416946,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 398839,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_pangaea-quality",
+                    "url": "https://instoneco.com/pangaea-quality/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-quality/_prod_before_update.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-quality/_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-quality/_staging.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-quality/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-quality/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-quality/_m_prod_before_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-quality/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-quality/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-quality/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-quality/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 1242778,
+                        "prod_after_vs_prod_before": 3381,
+                        "m_staging_vs_prod_before": 56130,
+                        "m_prod_after_vs_prod_before": 56091
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_pangaea-natural-stone",
+                    "url": "https://instoneco.com/pangaea-natural-stone/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-natural-stone/_prod_before_update.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-natural-stone/_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-natural-stone/_staging.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-natural-stone/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-natural-stone/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-natural-stone/_m_prod_before_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-natural-stone/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-natural-stone/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-natural-stone/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_pangaea-natural-stone/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 1035652,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 658422,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_dutch-quality",
+                    "url": "https://instoneco.com/dutch-quality/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dutch-quality/_prod_before_update.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dutch-quality/_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dutch-quality/_staging.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dutch-quality/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dutch-quality/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dutch-quality/_m_prod_before_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dutch-quality/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dutch-quality/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dutch-quality/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_dutch-quality/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 401663,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 212646,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_artepiso",
+                    "url": "https://instoneco.com/artepiso/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_artepiso/_prod_before_update.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_artepiso/_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_artepiso/_staging.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_artepiso/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_artepiso/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_artepiso/_m_prod_before_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_artepiso/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_artepiso/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_artepiso/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_artepiso/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 495435,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 181109,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_beon-stone",
+                    "url": "https://instoneco.com/beon-stone/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_beon-stone/_prod_before_update.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_beon-stone/_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_beon-stone/_staging.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_beon-stone/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_beon-stone/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_beon-stone/_m_prod_before_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_beon-stone/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_beon-stone/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_beon-stone/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_beon-stone/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 584170,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 377403,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_instones-fabrication-and-design-services",
+                    "url": "https://instoneco.com/instones-fabrication-and-design-services/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instones-fabrication-and-design-services/_prod_before_update.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instones-fabrication-and-design-services/_prod_after_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instones-fabrication-and-design-services/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instones-fabrication-and-design-services/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instones-fabrication-and-design-services/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instones-fabrication-and-design-services/_staging.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instones-fabrication-and-design-services/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instones-fabrication-and-design-services/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instones-fabrication-and-design-services/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instones-fabrication-and-design-services/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 1887573,
+                        "prod_after_vs_prod_before": 425949,
+                        "m_staging_vs_prod_before": 1641482,
+                        "m_prod_after_vs_prod_before": 108035
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_masonry-saw-blades",
+                    "url": "https://instoneco.com/masonry-saw-blades/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_masonry-saw-blades/_prod_before_update.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_masonry-saw-blades/_prod_after_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_masonry-saw-blades/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_masonry-saw-blades/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_masonry-saw-blades/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_masonry-saw-blades/_staging.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_masonry-saw-blades/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_masonry-saw-blades/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_masonry-saw-blades/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_masonry-saw-blades/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_professionals",
+                    "url": "https://instoneco.com/professionals/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_professionals/_prod_before_update.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_professionals/_prod_after_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_professionals/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_professionals/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_professionals/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_professionals/_staging.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_professionals/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_professionals/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_professionals/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_professionals/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_blog",
+                    "url": "https://instoneco.com/blog/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_blog/_prod_before_update.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_blog/_prod_after_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_blog/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_blog/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_blog/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_blog/_staging.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_blog/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_blog/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_blog/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_blog/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 709303,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 798158,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_isokern-fireplaces",
+                    "url": "https://instoneco.com/isokern-fireplaces/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_isokern-fireplaces/_prod_before_update.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_isokern-fireplaces/_prod_after_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_isokern-fireplaces/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_isokern-fireplaces/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_isokern-fireplaces/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_isokern-fireplaces/_staging.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_isokern-fireplaces/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_isokern-fireplaces/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_isokern-fireplaces/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_isokern-fireplaces/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 542501,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 369377,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_instone-army",
+                    "url": "https://instoneco.com/instone-army/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-army/_prod_before_update.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-army/_prod_after_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-army/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-army/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-army/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-army/_staging.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-army/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-army/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-army/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-army/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 818387,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 1505042,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_instone-home-design-visualizer",
+                    "url": "https://instoneco.com/instone-home-design-visualizer/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-home-design-visualizer/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-home-design-visualizer/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-home-design-visualizer/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-home-design-visualizer/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-home-design-visualizer/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-home-design-visualizer/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-home-design-visualizer/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-home-design-visualizer/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-home-design-visualizer/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_instone-home-design-visualizer/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 1425747,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 1216726,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_inbuilding-design-new-guy-new-patio",
+                    "url": "https://instoneco.com/inbuilding-design-new-guy-new-patio/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-new-guy-new-patio/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-new-guy-new-patio/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-new-guy-new-patio/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-new-guy-new-patio/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-new-guy-new-patio/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-new-guy-new-patio/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-new-guy-new-patio/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-new-guy-new-patio/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-new-guy-new-patio/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-new-guy-new-patio/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 56158,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_inbuilding-design-whats-the-story-with-natural-stone",
+                    "url": "https://instoneco.com/inbuilding-design-whats-the-story-with-natural-stone/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-whats-the-story-with-natural-stone/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-whats-the-story-with-natural-stone/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-whats-the-story-with-natural-stone/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-whats-the-story-with-natural-stone/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-whats-the-story-with-natural-stone/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-whats-the-story-with-natural-stone/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-whats-the-story-with-natural-stone/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-whats-the-story-with-natural-stone/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-whats-the-story-with-natural-stone/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-whats-the-story-with-natural-stone/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 17595,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone",
+                    "url": "https://instoneco.com/inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-s1e1-manufactured-vs-natural-stone-could-you-name-that-stone/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_inbuilding-design-quick-and-easy-fireplace-with-isokern",
+                    "url": "https://instoneco.com/inbuilding-design-quick-and-easy-fireplace-with-isokern/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-quick-and-easy-fireplace-with-isokern/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-quick-and-easy-fireplace-with-isokern/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-quick-and-easy-fireplace-with-isokern/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-quick-and-easy-fireplace-with-isokern/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-quick-and-easy-fireplace-with-isokern/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-quick-and-easy-fireplace-with-isokern/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-quick-and-easy-fireplace-with-isokern/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-quick-and-easy-fireplace-with-isokern/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-quick-and-easy-fireplace-with-isokern/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-quick-and-easy-fireplace-with-isokern/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_inbuilding-design-backyard-makeover-with-aura-natural-landscapes",
+                    "url": "https://instoneco.com/inbuilding-design-backyard-makeover-with-aura-natural-landscapes/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-backyard-makeover-with-aura-natural-landscapes/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-backyard-makeover-with-aura-natural-landscapes/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-backyard-makeover-with-aura-natural-landscapes/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-backyard-makeover-with-aura-natural-landscapes/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-backyard-makeover-with-aura-natural-landscapes/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-backyard-makeover-with-aura-natural-landscapes/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-backyard-makeover-with-aura-natural-landscapes/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-backyard-makeover-with-aura-natural-landscapes/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-backyard-makeover-with-aura-natural-landscapes/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-backyard-makeover-with-aura-natural-landscapes/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_inbuilding-design-the-show",
+                    "url": "https://instoneco.com/inbuilding-design-the-show/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-the-show/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-the-show/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-the-show/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-the-show/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-the-show/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-the-show/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-the-show/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-the-show/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-the-show/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-the-show/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 1568673,
+                        "prod_after_vs_prod_before": 56848,
+                        "m_staging_vs_prod_before": 1739323,
+                        "m_prod_after_vs_prod_before": 395145
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_inbuilding-design-invasion-of-the-clone-stones",
+                    "url": "https://instoneco.com/inbuilding-design-invasion-of-the-clone-stones/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-invasion-of-the-clone-stones/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-invasion-of-the-clone-stones/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-invasion-of-the-clone-stones/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-invasion-of-the-clone-stones/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-invasion-of-the-clone-stones/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-invasion-of-the-clone-stones/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-invasion-of-the-clone-stones/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-invasion-of-the-clone-stones/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-invasion-of-the-clone-stones/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-invasion-of-the-clone-stones/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 18738,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_inbuilding-design-like-a-rolling-stone",
+                    "url": "https://instoneco.com/inbuilding-design-like-a-rolling-stone/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-like-a-rolling-stone/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-like-a-rolling-stone/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-like-a-rolling-stone/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-like-a-rolling-stone/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-like-a-rolling-stone/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-like-a-rolling-stone/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-like-a-rolling-stone/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-like-a-rolling-stone/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-like-a-rolling-stone/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-like-a-rolling-stone/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 18596,
+                        "prod_after_vs_prod_before": 18596,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 8
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile",
+                    "url": "https://instoneco.com/inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-getting-creative-with-artepiso-indoor-3d-tile/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_certified-installer-database",
+                    "url": "https://instoneco.com/certified-installer-database/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-database/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-database/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-database/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-database/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-database/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-database/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-database/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-database/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-database/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-database/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_going-big-with-isokern-fireplaces",
+                    "url": "https://instoneco.com/going-big-with-isokern-fireplaces/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_going-big-with-isokern-fireplaces/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_going-big-with-isokern-fireplaces/_m_staging.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_going-big-with-isokern-fireplaces/_m_prod_after_update.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_going-big-with-isokern-fireplaces/_m_prod_before_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_going-big-with-isokern-fireplaces/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_going-big-with-isokern-fireplaces/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_going-big-with-isokern-fireplaces/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_going-big-with-isokern-fireplaces/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_going-big-with-isokern-fireplaces/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_going-big-with-isokern-fireplaces/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 18759,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 15777,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_inbuilding-design-behind-the-scenes-with-pangaea-natural-stone",
+                    "url": "https://instoneco.com/inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/_m_staging.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/_m_prod_before_update.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/_m_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_inbuilding-design-behind-the-scenes-with-pangaea-natural-stone/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 18706,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_aura",
+                    "url": "https://instoneco.com/aura/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_aura/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_aura/_m_staging.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_aura/_m_prod_before_update.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_aura/_m_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_aura/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_aura/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_aura/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_aura/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_aura/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_aura/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 825844,
+                        "prod_after_vs_prod_before": 1442,
+                        "m_staging_vs_prod_before": 492706,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_interloc",
+                    "url": "https://instoneco.com/interloc/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc/_m_staging.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc/_m_prod_before_update.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc/_m_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_interloc/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 380679,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 218979,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_cultured-stone",
+                    "url": "https://instoneco.com/cultured-stone/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_cultured-stone/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_cultured-stone/_m_staging.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_cultured-stone/_m_prod_before_update.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_cultured-stone/_m_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_cultured-stone/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_cultured-stone/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_cultured-stone/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_cultured-stone/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_cultured-stone/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_cultured-stone/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 476882,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 261857,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_about",
+                    "url": "https://instoneco.com/about/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_about/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_about/_m_staging.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_about/_m_prod_before_update.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_about/_m_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_about/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_about/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_about/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_about/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_about/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_about/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 0,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 0,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_homeowners",
+                    "url": "https://instoneco.com/homeowners/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_homeowners/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_homeowners/_m_staging.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_homeowners/_m_prod_before_update.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_homeowners/_m_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_homeowners/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_homeowners/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_homeowners/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_homeowners/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_homeowners/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_homeowners/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 1731327,
+                        "prod_after_vs_prod_before": 11,
+                        "m_staging_vs_prod_before": 1147360,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                },
+                {
+                    "page_name": "instoneco.com_certified-installer-program",
+                    "url": "https://instoneco.com/certified-installer-program/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-program/_prod_before_update.png",
+                        "m_staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-program/_m_staging.png",
+                        "m_prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-program/_m_prod_before_update.png",
+                        "m_prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-program/_m_prod_after_update.png",
+                        "staging": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-program/_staging.png",
+                        "prod_after_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-program/_prod_after_update.png",
+                        "staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-program/_staging_vs_prod_before.png",
+                        "prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-program/_prod_after_vs_prod_before.png",
+                        "m_staging_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-program/_m_staging_vs_prod_before.png",
+                        "m_prod_after_vs_prod_before": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/instoneco.com/run_instoneco.com_20240327_025043_8363/instoneco.com_certified-installer-program/_m_prod_after_vs_prod_before.png"
+                    },
+                    "comparison_score": {
+                        "staging_vs_prod_before": 1238866,
+                        "prod_after_vs_prod_before": 0,
+                        "m_staging_vs_prod_before": 846554,
+                        "m_prod_after_vs_prod_before": 0
+                    }
+                }
+            ]
+        }
+    ],
+    "current_run": "run_instoneco.com_20240327_025043_8363"
+}

@@ -1,0 +1,827 @@
+{
+    "production_domain": "https://www.crresearch.com",
+    "staging_domain": "",
+    "urls": [
+        {
+            "id": "As2Q3doljMF2t9G",
+            "path": "/",
+            "fullURL": "https://www.crresearch.com/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "fk9mMNDBXzRRr6R",
+            "path": "/research/qualitative/",
+            "fullURL": "https://www.crresearch.com/research/qualitative/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "KG8DslHB4Zc8gRQ",
+            "path": "/research/",
+            "fullURL": "https://www.crresearch.com/research/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "paD4a90xpE4LPfX",
+            "path": "/research/quantitative/",
+            "fullURL": "https://www.crresearch.com/research/quantitative/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "FktgH1ilUsMRRxp",
+            "path": "/research/attitude-usage/",
+            "fullURL": "https://www.crresearch.com/research/attitude-usage/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "5KLbJdzAKOfeyvE",
+            "path": "/research/agile/",
+            "fullURL": "https://www.crresearch.com/research/agile/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "CS22v8s5PXxVMm6",
+            "path": "/research/communities-and-panels/",
+            "fullURL": "https://www.crresearch.com/research/communities-and-panels/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "SX6MWhqQ1OyodmO",
+            "path": "/research/global/",
+            "fullURL": "https://www.crresearch.com/research/global/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "eLKafq6yGulHblz",
+            "path": "/research/product-testing/",
+            "fullURL": "https://www.crresearch.com/research/product-testing/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "LFtfSBnGBh2Lsro",
+            "path": "/research/segmentation/",
+            "fullURL": "https://www.crresearch.com/research/segmentation/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "1omtRB399YEeMit",
+            "path": "/research/strategy-workshops/",
+            "fullURL": "https://www.crresearch.com/research/strategy-workshops/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Ss4zxgZrj2xtibj",
+            "path": "/audiences/",
+            "fullURL": "https://www.crresearch.com/audiences/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "KnHj4FXneISqABW",
+            "path": "/audiences/b2b/",
+            "fullURL": "https://www.crresearch.com/audiences/b2b/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "lqplBmKNVFpltkB",
+            "path": "/audiences/lgbtq-plus/",
+            "fullURL": "https://www.crresearch.com/audiences/lgbtq-plus/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "2hO63adQmVMQvVv",
+            "path": "/audiences/multicultural/",
+            "fullURL": "https://www.crresearch.com/audiences/multicultural/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Ki0X6db7lHSrvAf",
+            "path": "/audiences/generational/",
+            "fullURL": "https://www.crresearch.com/audiences/generational/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "eRZ8sYnGQgrfASS",
+            "path": "/audiences/shopper/",
+            "fullURL": "https://www.crresearch.com/audiences/shopper/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "IgVeNLYQAc17sUV",
+            "path": "/audiences/youth-and-family/",
+            "fullURL": "https://www.crresearch.com/audiences/youth-and-family/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "eWDvsaGoSWqWeok",
+            "path": "/industries/",
+            "fullURL": "https://www.crresearch.com/industries/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "nJAFQCJRNnB9iI4",
+            "path": "/industries/alcohol/",
+            "fullURL": "https://www.crresearch.com/industries/alcohol/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "nbhDlZdifByJyRB",
+            "path": "/industries/consumer-durables/",
+            "fullURL": "https://www.crresearch.com/industries/consumer-durables/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "q0nXXtE4y4VUQ7q",
+            "path": "/industries/financial-services/",
+            "fullURL": "https://www.crresearch.com/industries/financial-services/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "4MJlBfZlmVZdzSG",
+            "path": "/industries/health-insurance/",
+            "fullURL": "https://www.crresearch.com/industries/health-insurance/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "QQQPWL4Ss4p5pbz",
+            "path": "/industries/food-beverage/",
+            "fullURL": "https://www.crresearch.com/industries/food-beverage/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "WjpNrhPegNRyspC",
+            "path": "/industries/cpg/",
+            "fullURL": "https://www.crresearch.com/industries/cpg/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "vDXbZECf2No6Uby",
+            "path": "/industries/market-research-for-non-profit-organizations-and-associations/",
+            "fullURL": "https://www.crresearch.com/industries/market-research-for-non-profit-organizations-and-associations/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "2T9GzmUos05HDZT",
+            "path": "/industries/market-research-for-the-healthcare-industry/",
+            "fullURL": "https://www.crresearch.com/industries/market-research-for-the-healthcare-industry/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "4BMvJ2tt1Fft62F",
+            "path": "/industries/technology-telecom/",
+            "fullURL": "https://www.crresearch.com/industries/technology-telecom/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "i28uUMvjU5RLOmw",
+            "path": "/industries/retail/",
+            "fullURL": "https://www.crresearch.com/industries/retail/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "apfqS61ecbiVB9l",
+            "path": "/industries/restaurants/",
+            "fullURL": "https://www.crresearch.com/industries/restaurants/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zdhC97IRz2r48jm",
+            "path": "/industries/utilities/",
+            "fullURL": "https://www.crresearch.com/industries/utilities/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "U6fiSdBIerIpytf",
+            "path": "/case-studies/",
+            "fullURL": "https://www.crresearch.com/case-studies/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "YVl18HQ4w1nhSbt",
+            "path": "/resources/",
+            "fullURL": "https://www.crresearch.com/resources/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "aSf5ByMRD6POvG0",
+            "path": "/blog/",
+            "fullURL": "https://www.crresearch.com/blog/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "rYrkewCfqe3GoAT",
+            "path": "/events/",
+            "fullURL": "https://www.crresearch.com/events/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "I5026iaZsHF5z84",
+            "path": "/webinars/",
+            "fullURL": "https://www.crresearch.com/webinars/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jQQA5BCsGRncFfr",
+            "path": "/about/",
+            "fullURL": "https://www.crresearch.com/about/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "D1l7teDIXMwDLGS",
+            "path": "/careers/",
+            "fullURL": "https://www.crresearch.com/careers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "JMlUC2ehaUJvHhE",
+            "path": "/news/",
+            "fullURL": "https://www.crresearch.com/news/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "DdzERw5RVX7XaUi",
+            "path": "/about/commitment-to-diversity/",
+            "fullURL": "https://www.crresearch.com/about/commitment-to-diversity/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Ku22SJfVp4GJdm5",
+            "path": "/about/csr/",
+            "fullURL": "https://www.crresearch.com/about/csr/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "E4Pyh2eaWyTq43M",
+            "path": "/about/certifications/",
+            "fullURL": "https://www.crresearch.com/about/certifications/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "idMmZcIWRgQ2WVj",
+            "path": "/contact-us/",
+            "fullURL": "https://www.crresearch.com/contact-us/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9FKQG6ndqIIEQoy",
+            "path": "/our-team/",
+            "fullURL": "https://www.crresearch.com/our-team/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "qA7aavuiMW1jskU",
+            "path": "/data-quality/",
+            "fullURL": "https://www.crresearch.com/data-quality/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        }
+    ],
+    "runs": [
+        {
+            "id": "run_www.crresearch.com_20240328_223430_f38a",
+            "folder_path": "screenshots\\www.crresearch.com\\run_www.crresearch.com_20240328_223430_f38a",
+            "started": "2024-03-28T14:34:30.285Z",
+            "finished": null,
+            "screenshots": [
+                {
+                    "page_name": "www.crresearch.com_",
+                    "url": "https://www.crresearch.com/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_research/qualitative",
+                    "url": "https://www.crresearch.com/research/qualitative/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_research/qualitative/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_research",
+                    "url": "https://www.crresearch.com/research/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_research/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_research/quantitative",
+                    "url": "https://www.crresearch.com/research/quantitative/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_research/quantitative/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_research/attitude-usage",
+                    "url": "https://www.crresearch.com/research/attitude-usage/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_research/attitude-usage/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_research/agile",
+                    "url": "https://www.crresearch.com/research/agile/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_research/agile/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_research/communities-and-panels",
+                    "url": "https://www.crresearch.com/research/communities-and-panels/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_research/communities-and-panels/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_research/global",
+                    "url": "https://www.crresearch.com/research/global/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_research/global/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_research/product-testing",
+                    "url": "https://www.crresearch.com/research/product-testing/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_research/product-testing/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_research/segmentation",
+                    "url": "https://www.crresearch.com/research/segmentation/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_research/segmentation/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_research/strategy-workshops",
+                    "url": "https://www.crresearch.com/research/strategy-workshops/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_research/strategy-workshops/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_audiences",
+                    "url": "https://www.crresearch.com/audiences/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_audiences/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_audiences/b2b",
+                    "url": "https://www.crresearch.com/audiences/b2b/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_audiences/b2b/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_audiences/lgbtq-plus",
+                    "url": "https://www.crresearch.com/audiences/lgbtq-plus/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_audiences/lgbtq-plus/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_audiences/multicultural",
+                    "url": "https://www.crresearch.com/audiences/multicultural/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_audiences/multicultural/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_audiences/generational",
+                    "url": "https://www.crresearch.com/audiences/generational/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_audiences/generational/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_audiences/shopper",
+                    "url": "https://www.crresearch.com/audiences/shopper/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_audiences/shopper/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_audiences/youth-and-family",
+                    "url": "https://www.crresearch.com/audiences/youth-and-family/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_audiences/youth-and-family/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries",
+                    "url": "https://www.crresearch.com/industries/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/alcohol",
+                    "url": "https://www.crresearch.com/industries/alcohol/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/alcohol/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/consumer-durables",
+                    "url": "https://www.crresearch.com/industries/consumer-durables/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/consumer-durables/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/financial-services",
+                    "url": "https://www.crresearch.com/industries/financial-services/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/financial-services/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/health-insurance",
+                    "url": "https://www.crresearch.com/industries/health-insurance/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/health-insurance/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/food-beverage",
+                    "url": "https://www.crresearch.com/industries/food-beverage/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/food-beverage/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/cpg",
+                    "url": "https://www.crresearch.com/industries/cpg/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/cpg/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/market-research-for-non-profit-organizations-and-associations",
+                    "url": "https://www.crresearch.com/industries/market-research-for-non-profit-organizations-and-associations/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/market-research-for-non-profit-organizations-and-associations/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/market-research-for-the-healthcare-industry",
+                    "url": "https://www.crresearch.com/industries/market-research-for-the-healthcare-industry/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/market-research-for-the-healthcare-industry/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/technology-telecom",
+                    "url": "https://www.crresearch.com/industries/technology-telecom/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/technology-telecom/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/retail",
+                    "url": "https://www.crresearch.com/industries/retail/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/retail/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/restaurants",
+                    "url": "https://www.crresearch.com/industries/restaurants/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/restaurants/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_industries/utilities",
+                    "url": "https://www.crresearch.com/industries/utilities/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_industries/utilities/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_case-studies",
+                    "url": "https://www.crresearch.com/case-studies/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_case-studies/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_resources",
+                    "url": "https://www.crresearch.com/resources/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_resources/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_blog",
+                    "url": "https://www.crresearch.com/blog/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_blog/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_events",
+                    "url": "https://www.crresearch.com/events/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_events/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_webinars",
+                    "url": "https://www.crresearch.com/webinars/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_webinars/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_about",
+                    "url": "https://www.crresearch.com/about/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_about/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_careers",
+                    "url": "https://www.crresearch.com/careers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_careers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_news",
+                    "url": "https://www.crresearch.com/news/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_news/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_about/commitment-to-diversity",
+                    "url": "https://www.crresearch.com/about/commitment-to-diversity/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_about/commitment-to-diversity/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_about/csr",
+                    "url": "https://www.crresearch.com/about/csr/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_about/csr/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_about/certifications",
+                    "url": "https://www.crresearch.com/about/certifications/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_about/certifications/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_contact-us",
+                    "url": "https://www.crresearch.com/contact-us/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_contact-us/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_our-team",
+                    "url": "https://www.crresearch.com/our-team/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_our-team/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.crresearch.com_data-quality",
+                    "url": "https://www.crresearch.com/data-quality/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.crresearch.com/run_www.crresearch.com_20240328_223430_f38a/www.crresearch.com_data-quality/_prod_before_update.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "current_run": "run_www.crresearch.com_20240328_223430_f38a"
+}

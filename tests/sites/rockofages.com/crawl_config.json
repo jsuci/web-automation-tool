@@ -1,0 +1,19 @@
+{
+  "production_domain": "https://rockofages.com",
+  "staging_domain": "",
+  "website_name": "rockofages.com",
+  "website_login": {
+    "username": "admin",
+    "password": "admin"
+  },
+  "sitemap_list": [
+    "https://rockofages.com/page-sitemap.xml",
+    "https://rockofages.com/stones-sitemap.xml"
+  ],
+  "exlcude_url_patterns": ["#\\.*"],
+  "include_url_patterns": [],
+  "include_images": false,
+  "use_sitemaps": true,
+  "strict_crawl": false,
+  "crawl_type": "same-hostname"
+}

@@ -1,0 +1,3167 @@
+{
+    "production_domain": "https://tuckbarreyoga.com",
+    "staging_domain": "",
+    "urls": [
+        {
+            "id": "SUK2kJrx8GoqqO9",
+            "path": "/tag/advanced/",
+            "fullURL": "https://tuckbarreyoga.com/tag/advanced/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TiWP4wfcC2xrNUx",
+            "path": "/tag/arm-balance/",
+            "fullURL": "https://tuckbarreyoga.com/tag/arm-balance/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xpQjACr5gefU4YR",
+            "path": "/tag/ball/",
+            "fullURL": "https://tuckbarreyoga.com/tag/ball/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ZkIF4AUV0wha375",
+            "path": "/author/tuckbarre/",
+            "fullURL": "https://tuckbarreyoga.com/author/tuckbarre/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "GWULnaQJREOggdN",
+            "path": "/tag/arms/",
+            "fullURL": "https://tuckbarreyoga.com/tag/arms/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "HYpdlUHLyHJp4A0",
+            "path": "/tag/balance/",
+            "fullURL": "https://tuckbarreyoga.com/tag/balance/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kfjGiXsJNfQBPY5",
+            "path": "/tag/band/",
+            "fullURL": "https://tuckbarreyoga.com/tag/band/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kuTHqHa7fMxXBU8",
+            "path": "/tag/barre-bounce/",
+            "fullURL": "https://tuckbarreyoga.com/tag/barre-bounce/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "N2ZraA0mGoaWHLV",
+            "path": "/tag/barre/",
+            "fullURL": "https://tuckbarreyoga.com/tag/barre/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "sWWPwsEMQjVpqDj",
+            "path": "/tag/barreshred/",
+            "fullURL": "https://tuckbarreyoga.com/tag/barreshred/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "814Yll9xkhkFbG1",
+            "path": "/tag/beginner/",
+            "fullURL": "https://tuckbarreyoga.com/tag/beginner/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Z6FngxKcN2ZSDm3",
+            "path": "/tag/butt-stuff/",
+            "fullURL": "https://tuckbarreyoga.com/tag/butt-stuff/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "YcHML59bZ4RPuyf",
+            "path": "/tag/basics/",
+            "fullURL": "https://tuckbarreyoga.com/tag/basics/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "lrl8a6ABbkInOvY",
+            "path": "/tag/cardio/",
+            "fullURL": "https://tuckbarreyoga.com/tag/cardio/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "qlcdqUhegOZ0EHw",
+            "path": "/tag/challenge/",
+            "fullURL": "https://tuckbarreyoga.com/tag/challenge/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "D2acNqrimRisdBy",
+            "path": "/tag/core/",
+            "fullURL": "https://tuckbarreyoga.com/tag/core/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "udKvesaGXmZcrHE",
+            "path": "/tag/foam-rolling/",
+            "fullURL": "https://tuckbarreyoga.com/tag/foam-rolling/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "q5cUQhdcuYjBxPu",
+            "path": "/tag/floor-only/",
+            "fullURL": "https://tuckbarreyoga.com/tag/floor-only/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "C5V4uCYnWgb1e5X",
+            "path": "/tag/hamstrings/",
+            "fullURL": "https://tuckbarreyoga.com/tag/hamstrings/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "8x2xyNK5Q8fldQ4",
+            "path": "/tag/hips/",
+            "fullURL": "https://tuckbarreyoga.com/tag/hips/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xYEBaDw9n84laNf",
+            "path": "/tag/meditation/",
+            "fullURL": "https://tuckbarreyoga.com/tag/meditation/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TdJsF1PpcthEjWo",
+            "path": "/tag/intermediate/",
+            "fullURL": "https://tuckbarreyoga.com/tag/intermediate/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "KLvyROQb0ESZ5cs",
+            "path": "/tag/lower-body/",
+            "fullURL": "https://tuckbarreyoga.com/tag/lower-body/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "garVzUpNLOmZc1W",
+            "path": "/tag/loop-band/",
+            "fullURL": "https://tuckbarreyoga.com/tag/loop-band/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "LFXsudPZtvu9H6F",
+            "path": "/tag/low-impact/",
+            "fullURL": "https://tuckbarreyoga.com/tag/low-impact/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "szD1WMVVEPp5RJn",
+            "path": "/tag/neck/",
+            "fullURL": "https://tuckbarreyoga.com/tag/neck/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "MZhOtFofcr4A6bA",
+            "path": "/tag/no-equipment/",
+            "fullURL": "https://tuckbarreyoga.com/tag/no-equipment/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "VxoUPSDL62nxGtq",
+            "path": "/tag/pep-talk/",
+            "fullURL": "https://tuckbarreyoga.com/tag/pep-talk/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "NWxWn7hUngmWcMl",
+            "path": "/tag/pilates/",
+            "fullURL": "https://tuckbarreyoga.com/tag/pilates/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "B6Kq6oWOfLltJU2",
+            "path": "/tag/power-flow/",
+            "fullURL": "https://tuckbarreyoga.com/tag/power-flow/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "QwE1G3GKmBPB6SH",
+            "path": "/tag/sculpt/",
+            "fullURL": "https://tuckbarreyoga.com/tag/sculpt/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "V4CXlwc0vANNH8e",
+            "path": "/tag/shoulders/",
+            "fullURL": "https://tuckbarreyoga.com/tag/shoulders/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9hIJwX69HIhAcgY",
+            "path": "/tag/prenatal/",
+            "fullURL": "https://tuckbarreyoga.com/tag/prenatal/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "KsjxULj0bHEg5vK",
+            "path": "/tag/sliders/",
+            "fullURL": "https://tuckbarreyoga.com/tag/sliders/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "6jO5PpxWJi0Xt0C",
+            "path": "/tag/snack/",
+            "fullURL": "https://tuckbarreyoga.com/tag/snack/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "53nvoYuT74eoQ8o",
+            "path": "/tag/standing-only/",
+            "fullURL": "https://tuckbarreyoga.com/tag/standing-only/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "eWhGVr1QVGUaAiC",
+            "path": "/tag/stretching/",
+            "fullURL": "https://tuckbarreyoga.com/tag/stretching/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "f8DggCAEHaB4U3w",
+            "path": "/tag/theme/",
+            "fullURL": "https://tuckbarreyoga.com/tag/theme/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "V2tBVXoaMgTtSbe",
+            "path": "/tag/travel-friendly/",
+            "fullURL": "https://tuckbarreyoga.com/tag/travel-friendly/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "h8lVR4mMN7da2dt",
+            "path": "/tag/twists/",
+            "fullURL": "https://tuckbarreyoga.com/tag/twists/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "nvEPrqH7PQGAJZ5",
+            "path": "/tag/under-30-mins/",
+            "fullURL": "https://tuckbarreyoga.com/tag/under-30-mins/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "a1SXo08E6gasCFm",
+            "path": "/tag/unsitting/",
+            "fullURL": "https://tuckbarreyoga.com/tag/unsitting/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xNwRFxR574cE7tG",
+            "path": "/tag/workshop/",
+            "fullURL": "https://tuckbarreyoga.com/tag/workshop/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "f3xJvksw0eXX3CQ",
+            "path": "/tag/vinyasa/",
+            "fullURL": "https://tuckbarreyoga.com/tag/vinyasa/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "wY8CrwePY3oTIQe",
+            "path": "/tag/yin-yoga/",
+            "fullURL": "https://tuckbarreyoga.com/tag/yin-yoga/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "T3CM7B9UeOoLdV6",
+            "path": "/tag/yoga/",
+            "fullURL": "https://tuckbarreyoga.com/tag/yoga/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "uN97MhksxU8bT87",
+            "path": "/category/barre/",
+            "fullURL": "https://tuckbarreyoga.com/category/barre/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "0DnBOMauISJj1st",
+            "path": "/tag/yoga-block/",
+            "fullURL": "https://tuckbarreyoga.com/tag/yoga-block/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "n6KHeySzyNtgjNB",
+            "path": "/category/untuck/",
+            "fullURL": "https://tuckbarreyoga.com/category/untuck/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "x22tZxT10kosApK",
+            "path": "/groups/",
+            "fullURL": "https://tuckbarreyoga.com/groups/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "pfRO85TVBHb0iTu",
+            "path": "/series/",
+            "fullURL": "https://tuckbarreyoga.com/series/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "QOg0ZfSeXwhm4Zt",
+            "path": "/series/self-care-challenge/",
+            "fullURL": "https://tuckbarreyoga.com/series/self-care-challenge/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "EOAaRgrXRVNMDeG",
+            "path": "/team/corey-r/",
+            "fullURL": "https://tuckbarreyoga.com/team/corey-r/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "yM1OWNCufrY16K3",
+            "path": "/team/barbara-m/",
+            "fullURL": "https://tuckbarreyoga.com/team/barbara-m/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jV6OE2ahfeySwFW",
+            "path": "/team/amanda-b/",
+            "fullURL": "https://tuckbarreyoga.com/team/amanda-b/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "y9V6f5hHStGQL3t",
+            "path": "/team/kate-p/",
+            "fullURL": "https://tuckbarreyoga.com/team/kate-p/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "WWOT5SA0XZeKPqK",
+            "path": "/team/jami-c/",
+            "fullURL": "https://tuckbarreyoga.com/team/jami-c/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "T96SBNrC5RPnWWP",
+            "path": "/team/taft-b/",
+            "fullURL": "https://tuckbarreyoga.com/team/taft-b/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "eesZ4QdmbGG7PYn",
+            "path": "/team/katie-h/",
+            "fullURL": "https://tuckbarreyoga.com/team/katie-h/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zDrjUxsVqQfPIDP",
+            "path": "/team/meagan-g/",
+            "fullURL": "https://tuckbarreyoga.com/team/meagan-g/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "NoAukp595rgqt9A",
+            "path": "/team/jasmine-j/",
+            "fullURL": "https://tuckbarreyoga.com/team/jasmine-j/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "6I3LiaDoU9PaTrW",
+            "path": "/team/rachael-j/",
+            "fullURL": "https://tuckbarreyoga.com/team/rachael-j/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "dZVYp2SLLtKrgqu",
+            "path": "/team/alexandria-c/",
+            "fullURL": "https://tuckbarreyoga.com/team/alexandria-c/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "SmwJNBxNaT5j9gz",
+            "path": "/team/jordyn-l/",
+            "fullURL": "https://tuckbarreyoga.com/team/jordyn-l/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "SZjCZiaZ6kjJx8m",
+            "path": "/team/vanessa-g/",
+            "fullURL": "https://tuckbarreyoga.com/team/vanessa-g/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "1o6aloacRrBHtDu",
+            "path": "/team/amy-r/",
+            "fullURL": "https://tuckbarreyoga.com/team/amy-r/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "oImX6Yr4lgkJqw1",
+            "path": "/team/megan-m/",
+            "fullURL": "https://tuckbarreyoga.com/team/megan-m/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "s2DGYnFnC7tkvJP",
+            "path": "/team/emily-g/",
+            "fullURL": "https://tuckbarreyoga.com/team/emily-g/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kVujTatFUSGgO62",
+            "path": "/team/caitlin-o/",
+            "fullURL": "https://tuckbarreyoga.com/team/caitlin-o/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "6YLVvyTZGDIJMvv",
+            "path": "/team/camden-c/",
+            "fullURL": "https://tuckbarreyoga.com/team/camden-c/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "qRWE41o3ltwSdsk",
+            "path": "/team/becca-c/",
+            "fullURL": "https://tuckbarreyoga.com/team/becca-c/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "oKK2M5bzRjeiYSm",
+            "path": "/team/chloe-g/",
+            "fullURL": "https://tuckbarreyoga.com/team/chloe-g/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jk3F4If11ZcYQ4p",
+            "path": "/team/jule-l/",
+            "fullURL": "https://tuckbarreyoga.com/team/jule-l/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "3n87pZSHwvZ11iY",
+            "path": "/team/sarah-c/",
+            "fullURL": "https://tuckbarreyoga.com/team/sarah-c/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "im6H9SDmZcO3IWj",
+            "path": "/team/yulani-s/",
+            "fullURL": "https://tuckbarreyoga.com/team/yulani-s/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "oCBT5S5jdQWXgXe",
+            "path": "/team/melissa-j/",
+            "fullURL": "https://tuckbarreyoga.com/team/melissa-j/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9X1iK9GHHuwWXa6",
+            "path": "/team/callie-k/",
+            "fullURL": "https://tuckbarreyoga.com/team/callie-k/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "8L6Y0i1UGYlk4bY",
+            "path": "/team/ann-s/",
+            "fullURL": "https://tuckbarreyoga.com/team/ann-s/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "hNmsAvdTcXGPgFS",
+            "path": "/team/hana-g/",
+            "fullURL": "https://tuckbarreyoga.com/team/hana-g/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "YpVqDXa0lZ2hNzW",
+            "path": "/team/mary-h/",
+            "fullURL": "https://tuckbarreyoga.com/team/mary-h/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "SUx0baOy2JoLnIL",
+            "path": "/team/jessi-s/",
+            "fullURL": "https://tuckbarreyoga.com/team/jessi-s/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "hfD7QRhRdCmJOWM",
+            "path": "/about/testimonials/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TpSjT4jL4po04OC",
+            "path": "/about/testimonials/gorka-m/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/gorka-m/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Q0nr4gBJdka8JAU",
+            "path": "/about/testimonials/alyssa/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/alyssa/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "10e3n6plMePh6Y7",
+            "path": "/about/testimonials/rebecca-c/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/rebecca-c/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "J0M317zRATfVQJF",
+            "path": "/about/testimonials/a-j/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/a-j/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "IFeMzMApY5VwzgZ",
+            "path": "/about/testimonials/molly-p/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/molly-p/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "gLye8uV4Fa9bGGU",
+            "path": "/about/testimonials/nick-s/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/nick-s/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "v7LF5Q5GS7ZpBX8",
+            "path": "/about/testimonials/mel-i/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/mel-i/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "16N0pnspIxR6yjM",
+            "path": "/about/testimonials/suzanne-m/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/suzanne-m/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "eLsLAfCv2cJeS4w",
+            "path": "/about/testimonials/autumn-g/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/autumn-g/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9o3F5kf83v9swMg",
+            "path": "/about/testimonials/katie-a/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/katie-a/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "rXEBqEkB3aqCi7j",
+            "path": "/plans/annual-plans/",
+            "fullURL": "https://tuckbarreyoga.com/plans/annual-plans/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "XReJVlwJ2gmcatj",
+            "path": "/plans/monthly-plans/",
+            "fullURL": "https://tuckbarreyoga.com/plans/monthly-plans/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "YBakiLkLrdv0Rli",
+            "path": "/about/testimonials/jenna-b/",
+            "fullURL": "https://tuckbarreyoga.com/about/testimonials/jenna-b/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "NKa7mJPJz0nrzgE",
+            "path": "/landing/tuck-online/",
+            "fullURL": "https://tuckbarreyoga.com/landing/tuck-online/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "IX22fe1qpAFG6YH",
+            "path": "/landing/",
+            "fullURL": "https://tuckbarreyoga.com/landing/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "c1YUKKJaGrL8In8",
+            "path": "/landing/elite-barre-training/",
+            "fullURL": "https://tuckbarreyoga.com/landing/elite-barre-training/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "qXInUOhJ1AGzDza",
+            "path": "/",
+            "fullURL": "https://tuckbarreyoga.com/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kS2mwfq1pXJFj2r",
+            "path": "/barre-is-better/",
+            "fullURL": "https://tuckbarreyoga.com/barre-is-better/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "80pocHd5cEj16hL",
+            "path": "/about/press/",
+            "fullURL": "https://tuckbarreyoga.com/about/press/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "8AJNsoBrNiCFL45",
+            "path": "/online-barre-training/",
+            "fullURL": "https://tuckbarreyoga.com/online-barre-training/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xysfIiSXJP1G8sK",
+            "path": "/our-locations/",
+            "fullURL": "https://tuckbarreyoga.com/our-locations/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "pnqmtXvRaVyTXtD",
+            "path": "/west-philly-barre/",
+            "fullURL": "https://tuckbarreyoga.com/west-philly-barre/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9xgEiD8yLM4QVkI",
+            "path": "/thanks/",
+            "fullURL": "https://tuckbarreyoga.com/thanks/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "2SbF4ToDXsKOl38",
+            "path": "/823-2/",
+            "fullURL": "https://tuckbarreyoga.com/823-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "yNk99oXK2OWLonO",
+            "path": "/account/",
+            "fullURL": "https://tuckbarreyoga.com/account/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ZX48IgQWfOzJ9aM",
+            "path": "/terms-of-service/",
+            "fullURL": "https://tuckbarreyoga.com/terms-of-service/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "EGqKUsNE2nT7NqV",
+            "path": "/online/faqs/",
+            "fullURL": "https://tuckbarreyoga.com/online/faqs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Zv2689HZMfBevSp",
+            "path": "/online/becca-c/",
+            "fullURL": "https://tuckbarreyoga.com/online/becca-c/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zt70bYtKXoScx2S",
+            "path": "/online/maddy-b/",
+            "fullURL": "https://tuckbarreyoga.com/online/maddy-b/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "gokV3G9flvqCOno",
+            "path": "/online/jami-c/",
+            "fullURL": "https://tuckbarreyoga.com/online/jami-c/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zTIsuauYDDficAM",
+            "path": "/login/",
+            "fullURL": "https://tuckbarreyoga.com/login/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "QiXiB4dmVqfMLWZ",
+            "path": "/privacy-policy/",
+            "fullURL": "https://tuckbarreyoga.com/privacy-policy/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "x171R8pvZp5u6ZR",
+            "path": "/online/bree-m/",
+            "fullURL": "https://tuckbarreyoga.com/online/bree-m/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "To3bnPgaOV68zpk",
+            "path": "/online/",
+            "fullURL": "https://tuckbarreyoga.com/online/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "YPrPfmNyxrioRhZ",
+            "path": "/online/vikki-k/",
+            "fullURL": "https://tuckbarreyoga.com/online/vikki-k/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9dPUi3lFwJzhsll",
+            "path": "/online/live/with-ann/",
+            "fullURL": "https://tuckbarreyoga.com/online/live/with-ann/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "m23u5EFcU0FuGxi",
+            "path": "/online/favorites/",
+            "fullURL": "https://tuckbarreyoga.com/online/favorites/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "aBHFaaHfSB7QFyW",
+            "path": "/online/live/with-callie/",
+            "fullURL": "https://tuckbarreyoga.com/online/live/with-callie/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "5qjw0SzW8SR7vEw",
+            "path": "/thanks-2/",
+            "fullURL": "https://tuckbarreyoga.com/thanks-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "4mpdb8uEGlOvGWr",
+            "path": "/online/antonia-s/",
+            "fullURL": "https://tuckbarreyoga.com/online/antonia-s/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "L0P3qqJfwTKYfWr",
+            "path": "/online/sarah-g/",
+            "fullURL": "https://tuckbarreyoga.com/online/sarah-g/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "hGySuLr6pFzXgd4",
+            "path": "/online/khandi-w/",
+            "fullURL": "https://tuckbarreyoga.com/online/khandi-w/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ZfDod8pYhqNinzo",
+            "path": "/online/janessa-j/",
+            "fullURL": "https://tuckbarreyoga.com/online/janessa-j/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "cYlKErvdKet6uFX",
+            "path": "/buy-a-barre-box/",
+            "fullURL": "https://tuckbarreyoga.com/buy-a-barre-box/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "WONpgWNthFk6DQA",
+            "path": "/online/elise-d/",
+            "fullURL": "https://tuckbarreyoga.com/online/elise-d/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "86brvPcextzFiQW",
+            "path": "/online/ashley-h/",
+            "fullURL": "https://tuckbarreyoga.com/online/ashley-h/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "cMIkUSjsTxPQ3YT",
+            "path": "/online/callie-k/",
+            "fullURL": "https://tuckbarreyoga.com/online/callie-k/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "0fxREnvvZHHg9wN",
+            "path": "/january-2021-challenge/",
+            "fullURL": "https://tuckbarreyoga.com/january-2021-challenge/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "MVPUCx2rHhDOMDy",
+            "path": "/online/ann-t/",
+            "fullURL": "https://tuckbarreyoga.com/online/ann-t/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "6AoI1YMRuVgNflk",
+            "path": "/thank-you/",
+            "fullURL": "https://tuckbarreyoga.com/thank-you/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "gHiH37qPHa4ZqNa",
+            "path": "/about/events/",
+            "fullURL": "https://tuckbarreyoga.com/about/events/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "M4gEuliXuWTLOb8",
+            "path": "/online/live/",
+            "fullURL": "https://tuckbarreyoga.com/online/live/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "eULAIJnOUg1DABD",
+            "path": "/thanks-workout-challenge/",
+            "fullURL": "https://tuckbarreyoga.com/thanks-workout-challenge/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9REfAnuMdEHqvSK",
+            "path": "/workout-challenge/",
+            "fullURL": "https://tuckbarreyoga.com/workout-challenge/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "2Xdw1vrUoXrN7vo",
+            "path": "/register/",
+            "fullURL": "https://tuckbarreyoga.com/register/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "w0BcRMQyQuBUL6v",
+            "path": "/1727-2/",
+            "fullURL": "https://tuckbarreyoga.com/1727-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "3DG0GY9cDPuJCUH",
+            "path": "/online/alex-c/",
+            "fullURL": "https://tuckbarreyoga.com/online/alex-c/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "pNcr9EcPGubaLEK",
+            "path": "/online/cassie-w/",
+            "fullURL": "https://tuckbarreyoga.com/online/cassie-w/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "bUnKIeQvM6GZJkt",
+            "path": "/ebony-b/",
+            "fullURL": "https://tuckbarreyoga.com/ebony-b/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "FGUkLxoXqjptRX7",
+            "path": "/our-dogs/",
+            "fullURL": "https://tuckbarreyoga.com/our-dogs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "XHWp8RI7nFbGQYE",
+            "path": "/new-tuck-online-homepage/",
+            "fullURL": "https://tuckbarreyoga.com/new-tuck-online-homepage/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "LqVnfpAhRRIVVHg",
+            "path": "/haverford-schedule/",
+            "fullURL": "https://tuckbarreyoga.com/haverford-schedule/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "RHR3qb3D15iOQ23",
+            "path": "/haverford-pricing/",
+            "fullURL": "https://tuckbarreyoga.com/haverford-pricing/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "P6H0L8bbkVGs7wN",
+            "path": "/point-breeze-pricing/",
+            "fullURL": "https://tuckbarreyoga.com/point-breeze-pricing/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "LpiilVzvfvmHdMr",
+            "path": "/no-libs-schedule/",
+            "fullURL": "https://tuckbarreyoga.com/no-libs-schedule/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xFsAstsQ81Vqiq1",
+            "path": "/mainline/",
+            "fullURL": "https://tuckbarreyoga.com/mainline/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "RUXipksSrjSL104",
+            "path": "/online/jasmine-j/",
+            "fullURL": "https://tuckbarreyoga.com/online/jasmine-j/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "q4dJmYzAQ7QAa6i",
+            "path": "/no-libs-pricing/",
+            "fullURL": "https://tuckbarreyoga.com/no-libs-pricing/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "4uGx33O1PzZ3YMY",
+            "path": "/wash-west-pricing/",
+            "fullURL": "https://tuckbarreyoga.com/wash-west-pricing/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "8QTBOFM9hQUsTta",
+            "path": "/online/corey-r/",
+            "fullURL": "https://tuckbarreyoga.com/online/corey-r/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "e7pLW6BJVKLHfDg",
+            "path": "/online/amy-r/",
+            "fullURL": "https://tuckbarreyoga.com/online/amy-r/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "7JCUyOq6vZJNRQd",
+            "path": "/january-2022-challenge/",
+            "fullURL": "https://tuckbarreyoga.com/january-2022-challenge/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "cfdnmSEPvgrTijz",
+            "path": "/online/julia-s/",
+            "fullURL": "https://tuckbarreyoga.com/online/julia-s/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "d8yUOgdDuWwbNJa",
+            "path": "/pricing/",
+            "fullURL": "https://tuckbarreyoga.com/pricing/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "LdTNwdEvgWl8lNM",
+            "path": "/contact/",
+            "fullURL": "https://tuckbarreyoga.com/contact/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "fPK4dEEy6JHBBL2",
+            "path": "/thank-you-2/",
+            "fullURL": "https://tuckbarreyoga.com/thank-you-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "yO285qCarFOLWS3",
+            "path": "/registration/",
+            "fullURL": "https://tuckbarreyoga.com/registration/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kyUM8dDbhXtB6hI",
+            "path": "/registration-success/",
+            "fullURL": "https://tuckbarreyoga.com/registration-success/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TFUnodf4mBrsonm",
+            "path": "/courses/",
+            "fullURL": "https://tuckbarreyoga.com/courses/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "IZrHLemsyc13lLr",
+            "path": "/about/meet-callie-hagana/",
+            "fullURL": "https://tuckbarreyoga.com/about/meet-callie-hagana/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "M6FBlpORthzWurH",
+            "path": "/our-team/",
+            "fullURL": "https://tuckbarreyoga.com/our-team/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "C7sGit9CLqM1DVh",
+            "path": "/wash-west-schedule/",
+            "fullURL": "https://tuckbarreyoga.com/wash-west-schedule/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "bsG3KWKujyLhbHu",
+            "path": "/2788-2/",
+            "fullURL": "https://tuckbarreyoga.com/2788-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "UtSHyCvggE5MBpF",
+            "path": "/self-care-challenge/",
+            "fullURL": "https://tuckbarreyoga.com/self-care-challenge/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "f5at0DTQ3yQcbp6",
+            "path": "/about/",
+            "fullURL": "https://tuckbarreyoga.com/about/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ls10vdfG5Ee5Ush",
+            "path": "/about/class-descriptions/",
+            "fullURL": "https://tuckbarreyoga.com/about/class-descriptions/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TI6sccoOyOvmntW",
+            "path": "/buy-classes/",
+            "fullURL": "https://tuckbarreyoga.com/buy-classes/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "99EmY0ov2UiNzYx",
+            "path": "/training/",
+            "fullURL": "https://tuckbarreyoga.com/training/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xS58fPMLFiZjEKt",
+            "path": "/about/faqs/",
+            "fullURL": "https://tuckbarreyoga.com/about/faqs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ZPbyaOmyOtT1Y9L",
+            "path": "/766-2/",
+            "fullURL": "https://tuckbarreyoga.com/766-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Qv6H7gx3NxWrJKp",
+            "path": "/813-2/",
+            "fullURL": "https://tuckbarreyoga.com/813-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "mzm926yc4C5BanK",
+            "path": "/point-breeze-schedule/",
+            "fullURL": "https://tuckbarreyoga.com/point-breeze-schedule/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "3E2Ee47SVTJz6N7",
+            "path": "/videos/",
+            "fullURL": "https://tuckbarreyoga.com/videos/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        }
+    ],
+    "runs": [
+        {
+            "id": "run_tuckbarreyoga.com_20240328_190809_46e6",
+            "folder_path": "screenshots\\tuckbarreyoga.com\\run_tuckbarreyoga.com_20240328_190809_46e6",
+            "started": "2024-03-28T11:08:09.698Z",
+            "finished": null,
+            "screenshots": [
+                {
+                    "page_name": "tuckbarreyoga.com_tag/advanced",
+                    "url": "https://tuckbarreyoga.com/tag/advanced/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/advanced/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/arm-balance",
+                    "url": "https://tuckbarreyoga.com/tag/arm-balance/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/arm-balance/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/ball",
+                    "url": "https://tuckbarreyoga.com/tag/ball/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/ball/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_author/tuckbarre",
+                    "url": "https://tuckbarreyoga.com/author/tuckbarre/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_author/tuckbarre/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/arms",
+                    "url": "https://tuckbarreyoga.com/tag/arms/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/arms/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/balance",
+                    "url": "https://tuckbarreyoga.com/tag/balance/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/balance/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/band",
+                    "url": "https://tuckbarreyoga.com/tag/band/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/band/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/barre-bounce",
+                    "url": "https://tuckbarreyoga.com/tag/barre-bounce/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/barre-bounce/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/barre",
+                    "url": "https://tuckbarreyoga.com/tag/barre/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/barre/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/barreshred",
+                    "url": "https://tuckbarreyoga.com/tag/barreshred/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/barreshred/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/beginner",
+                    "url": "https://tuckbarreyoga.com/tag/beginner/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/beginner/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/butt-stuff",
+                    "url": "https://tuckbarreyoga.com/tag/butt-stuff/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/butt-stuff/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/basics",
+                    "url": "https://tuckbarreyoga.com/tag/basics/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/basics/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/cardio",
+                    "url": "https://tuckbarreyoga.com/tag/cardio/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/cardio/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/challenge",
+                    "url": "https://tuckbarreyoga.com/tag/challenge/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/challenge/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/core",
+                    "url": "https://tuckbarreyoga.com/tag/core/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/core/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/foam-rolling",
+                    "url": "https://tuckbarreyoga.com/tag/foam-rolling/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/foam-rolling/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/floor-only",
+                    "url": "https://tuckbarreyoga.com/tag/floor-only/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/floor-only/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/hamstrings",
+                    "url": "https://tuckbarreyoga.com/tag/hamstrings/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/hamstrings/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/hips",
+                    "url": "https://tuckbarreyoga.com/tag/hips/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/hips/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/meditation",
+                    "url": "https://tuckbarreyoga.com/tag/meditation/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/meditation/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/intermediate",
+                    "url": "https://tuckbarreyoga.com/tag/intermediate/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/intermediate/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/lower-body",
+                    "url": "https://tuckbarreyoga.com/tag/lower-body/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/lower-body/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/loop-band",
+                    "url": "https://tuckbarreyoga.com/tag/loop-band/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/loop-band/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/low-impact",
+                    "url": "https://tuckbarreyoga.com/tag/low-impact/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/low-impact/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/neck",
+                    "url": "https://tuckbarreyoga.com/tag/neck/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/neck/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/no-equipment",
+                    "url": "https://tuckbarreyoga.com/tag/no-equipment/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/no-equipment/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/pep-talk",
+                    "url": "https://tuckbarreyoga.com/tag/pep-talk/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/pep-talk/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/pilates",
+                    "url": "https://tuckbarreyoga.com/tag/pilates/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/pilates/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/power-flow",
+                    "url": "https://tuckbarreyoga.com/tag/power-flow/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/power-flow/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/sculpt",
+                    "url": "https://tuckbarreyoga.com/tag/sculpt/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/sculpt/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/shoulders",
+                    "url": "https://tuckbarreyoga.com/tag/shoulders/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/shoulders/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/prenatal",
+                    "url": "https://tuckbarreyoga.com/tag/prenatal/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/prenatal/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/sliders",
+                    "url": "https://tuckbarreyoga.com/tag/sliders/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/sliders/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/snack",
+                    "url": "https://tuckbarreyoga.com/tag/snack/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/snack/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/standing-only",
+                    "url": "https://tuckbarreyoga.com/tag/standing-only/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/standing-only/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/stretching",
+                    "url": "https://tuckbarreyoga.com/tag/stretching/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/stretching/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/theme",
+                    "url": "https://tuckbarreyoga.com/tag/theme/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/theme/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/travel-friendly",
+                    "url": "https://tuckbarreyoga.com/tag/travel-friendly/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/travel-friendly/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/twists",
+                    "url": "https://tuckbarreyoga.com/tag/twists/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/twists/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/under-30-mins",
+                    "url": "https://tuckbarreyoga.com/tag/under-30-mins/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/under-30-mins/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/unsitting",
+                    "url": "https://tuckbarreyoga.com/tag/unsitting/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/unsitting/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/workshop",
+                    "url": "https://tuckbarreyoga.com/tag/workshop/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/workshop/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/vinyasa",
+                    "url": "https://tuckbarreyoga.com/tag/vinyasa/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/vinyasa/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/yin-yoga",
+                    "url": "https://tuckbarreyoga.com/tag/yin-yoga/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/yin-yoga/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/yoga",
+                    "url": "https://tuckbarreyoga.com/tag/yoga/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/yoga/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_category/barre",
+                    "url": "https://tuckbarreyoga.com/category/barre/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_category/barre/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_tag/yoga-block",
+                    "url": "https://tuckbarreyoga.com/tag/yoga-block/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_tag/yoga-block/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_category/untuck",
+                    "url": "https://tuckbarreyoga.com/category/untuck/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_category/untuck/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_groups",
+                    "url": "https://tuckbarreyoga.com/groups/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_groups/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_series",
+                    "url": "https://tuckbarreyoga.com/series/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_series/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_series/self-care-challenge",
+                    "url": "https://tuckbarreyoga.com/series/self-care-challenge/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_series/self-care-challenge/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/corey-r",
+                    "url": "https://tuckbarreyoga.com/team/corey-r/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/corey-r/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/barbara-m",
+                    "url": "https://tuckbarreyoga.com/team/barbara-m/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/barbara-m/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/amanda-b",
+                    "url": "https://tuckbarreyoga.com/team/amanda-b/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/amanda-b/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/kate-p",
+                    "url": "https://tuckbarreyoga.com/team/kate-p/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/kate-p/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/jami-c",
+                    "url": "https://tuckbarreyoga.com/team/jami-c/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/jami-c/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/taft-b",
+                    "url": "https://tuckbarreyoga.com/team/taft-b/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/taft-b/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/katie-h",
+                    "url": "https://tuckbarreyoga.com/team/katie-h/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/katie-h/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/meagan-g",
+                    "url": "https://tuckbarreyoga.com/team/meagan-g/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/meagan-g/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/jasmine-j",
+                    "url": "https://tuckbarreyoga.com/team/jasmine-j/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/jasmine-j/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/rachael-j",
+                    "url": "https://tuckbarreyoga.com/team/rachael-j/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/rachael-j/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/alexandria-c",
+                    "url": "https://tuckbarreyoga.com/team/alexandria-c/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/alexandria-c/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/jordyn-l",
+                    "url": "https://tuckbarreyoga.com/team/jordyn-l/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/jordyn-l/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/vanessa-g",
+                    "url": "https://tuckbarreyoga.com/team/vanessa-g/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/vanessa-g/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/amy-r",
+                    "url": "https://tuckbarreyoga.com/team/amy-r/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/amy-r/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/megan-m",
+                    "url": "https://tuckbarreyoga.com/team/megan-m/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/megan-m/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/emily-g",
+                    "url": "https://tuckbarreyoga.com/team/emily-g/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/emily-g/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/caitlin-o",
+                    "url": "https://tuckbarreyoga.com/team/caitlin-o/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/caitlin-o/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/camden-c",
+                    "url": "https://tuckbarreyoga.com/team/camden-c/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/camden-c/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/becca-c",
+                    "url": "https://tuckbarreyoga.com/team/becca-c/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/becca-c/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/chloe-g",
+                    "url": "https://tuckbarreyoga.com/team/chloe-g/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/chloe-g/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/jule-l",
+                    "url": "https://tuckbarreyoga.com/team/jule-l/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/jule-l/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/sarah-c",
+                    "url": "https://tuckbarreyoga.com/team/sarah-c/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/sarah-c/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/yulani-s",
+                    "url": "https://tuckbarreyoga.com/team/yulani-s/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/yulani-s/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/melissa-j",
+                    "url": "https://tuckbarreyoga.com/team/melissa-j/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/melissa-j/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/callie-k",
+                    "url": "https://tuckbarreyoga.com/team/callie-k/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/callie-k/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/ann-s",
+                    "url": "https://tuckbarreyoga.com/team/ann-s/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/ann-s/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/hana-g",
+                    "url": "https://tuckbarreyoga.com/team/hana-g/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/hana-g/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/mary-h",
+                    "url": "https://tuckbarreyoga.com/team/mary-h/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/mary-h/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_team/jessi-s",
+                    "url": "https://tuckbarreyoga.com/team/jessi-s/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_team/jessi-s/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials/gorka-m",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/gorka-m/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/gorka-m/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials/alyssa",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/alyssa/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/alyssa/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials/rebecca-c",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/rebecca-c/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/rebecca-c/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials/a-j",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/a-j/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/a-j/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials/molly-p",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/molly-p/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/molly-p/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials/nick-s",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/nick-s/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/nick-s/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials/mel-i",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/mel-i/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/mel-i/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials/suzanne-m",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/suzanne-m/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/suzanne-m/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials/autumn-g",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/autumn-g/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/autumn-g/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials/katie-a",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/katie-a/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/katie-a/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_plans/annual-plans",
+                    "url": "https://tuckbarreyoga.com/plans/annual-plans/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_plans/annual-plans/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_plans/monthly-plans",
+                    "url": "https://tuckbarreyoga.com/plans/monthly-plans/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_plans/monthly-plans/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/testimonials/jenna-b",
+                    "url": "https://tuckbarreyoga.com/about/testimonials/jenna-b/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/testimonials/jenna-b/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_landing/tuck-online",
+                    "url": "https://tuckbarreyoga.com/landing/tuck-online/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_landing/tuck-online/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_landing",
+                    "url": "https://tuckbarreyoga.com/landing/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_landing/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_landing/elite-barre-training",
+                    "url": "https://tuckbarreyoga.com/landing/elite-barre-training/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_landing/elite-barre-training/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_",
+                    "url": "https://tuckbarreyoga.com/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_barre-is-better",
+                    "url": "https://tuckbarreyoga.com/barre-is-better/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_barre-is-better/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/press",
+                    "url": "https://tuckbarreyoga.com/about/press/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/press/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online-barre-training",
+                    "url": "https://tuckbarreyoga.com/online-barre-training/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online-barre-training/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_our-locations",
+                    "url": "https://tuckbarreyoga.com/our-locations/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_our-locations/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_west-philly-barre",
+                    "url": "https://tuckbarreyoga.com/west-philly-barre/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_west-philly-barre/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_thanks",
+                    "url": "https://tuckbarreyoga.com/thanks/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_thanks/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_823-2",
+                    "url": "https://tuckbarreyoga.com/823-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_823-2/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_account",
+                    "url": "https://tuckbarreyoga.com/account/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_account/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_terms-of-service",
+                    "url": "https://tuckbarreyoga.com/terms-of-service/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_terms-of-service/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/faqs",
+                    "url": "https://tuckbarreyoga.com/online/faqs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/faqs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/becca-c",
+                    "url": "https://tuckbarreyoga.com/online/becca-c/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/becca-c/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/maddy-b",
+                    "url": "https://tuckbarreyoga.com/online/maddy-b/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/maddy-b/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/jami-c",
+                    "url": "https://tuckbarreyoga.com/online/jami-c/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/jami-c/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_login",
+                    "url": "https://tuckbarreyoga.com/login/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_login/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_privacy-policy",
+                    "url": "https://tuckbarreyoga.com/privacy-policy/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_privacy-policy/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/bree-m",
+                    "url": "https://tuckbarreyoga.com/online/bree-m/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/bree-m/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online",
+                    "url": "https://tuckbarreyoga.com/online/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/vikki-k",
+                    "url": "https://tuckbarreyoga.com/online/vikki-k/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/vikki-k/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/live/with-ann",
+                    "url": "https://tuckbarreyoga.com/online/live/with-ann/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/live/with-ann/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/favorites",
+                    "url": "https://tuckbarreyoga.com/online/favorites/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/favorites/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/live/with-callie",
+                    "url": "https://tuckbarreyoga.com/online/live/with-callie/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/live/with-callie/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_thanks-2",
+                    "url": "https://tuckbarreyoga.com/thanks-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_thanks-2/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/antonia-s",
+                    "url": "https://tuckbarreyoga.com/online/antonia-s/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/antonia-s/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/sarah-g",
+                    "url": "https://tuckbarreyoga.com/online/sarah-g/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/sarah-g/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/khandi-w",
+                    "url": "https://tuckbarreyoga.com/online/khandi-w/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/khandi-w/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/janessa-j",
+                    "url": "https://tuckbarreyoga.com/online/janessa-j/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/janessa-j/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_buy-a-barre-box",
+                    "url": "https://tuckbarreyoga.com/buy-a-barre-box/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_buy-a-barre-box/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/elise-d",
+                    "url": "https://tuckbarreyoga.com/online/elise-d/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/elise-d/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/ashley-h",
+                    "url": "https://tuckbarreyoga.com/online/ashley-h/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/ashley-h/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/callie-k",
+                    "url": "https://tuckbarreyoga.com/online/callie-k/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/callie-k/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_january-2021-challenge",
+                    "url": "https://tuckbarreyoga.com/january-2021-challenge/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_january-2021-challenge/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/ann-t",
+                    "url": "https://tuckbarreyoga.com/online/ann-t/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/ann-t/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_thank-you",
+                    "url": "https://tuckbarreyoga.com/thank-you/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_thank-you/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/events",
+                    "url": "https://tuckbarreyoga.com/about/events/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/events/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/live",
+                    "url": "https://tuckbarreyoga.com/online/live/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/live/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_thanks-workout-challenge",
+                    "url": "https://tuckbarreyoga.com/thanks-workout-challenge/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_thanks-workout-challenge/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_workout-challenge",
+                    "url": "https://tuckbarreyoga.com/workout-challenge/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_workout-challenge/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_register",
+                    "url": "https://tuckbarreyoga.com/register/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_register/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_1727-2",
+                    "url": "https://tuckbarreyoga.com/1727-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_1727-2/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/alex-c",
+                    "url": "https://tuckbarreyoga.com/online/alex-c/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/alex-c/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/cassie-w",
+                    "url": "https://tuckbarreyoga.com/online/cassie-w/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/cassie-w/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_ebony-b",
+                    "url": "https://tuckbarreyoga.com/ebony-b/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_ebony-b/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_our-dogs",
+                    "url": "https://tuckbarreyoga.com/our-dogs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_our-dogs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_new-tuck-online-homepage",
+                    "url": "https://tuckbarreyoga.com/new-tuck-online-homepage/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_new-tuck-online-homepage/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_haverford-schedule",
+                    "url": "https://tuckbarreyoga.com/haverford-schedule/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_haverford-schedule/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_haverford-pricing",
+                    "url": "https://tuckbarreyoga.com/haverford-pricing/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_haverford-pricing/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_point-breeze-pricing",
+                    "url": "https://tuckbarreyoga.com/point-breeze-pricing/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_point-breeze-pricing/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_no-libs-schedule",
+                    "url": "https://tuckbarreyoga.com/no-libs-schedule/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_no-libs-schedule/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_mainline",
+                    "url": "https://tuckbarreyoga.com/mainline/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_mainline/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/jasmine-j",
+                    "url": "https://tuckbarreyoga.com/online/jasmine-j/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/jasmine-j/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_no-libs-pricing",
+                    "url": "https://tuckbarreyoga.com/no-libs-pricing/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_no-libs-pricing/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_wash-west-pricing",
+                    "url": "https://tuckbarreyoga.com/wash-west-pricing/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_wash-west-pricing/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/corey-r",
+                    "url": "https://tuckbarreyoga.com/online/corey-r/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/corey-r/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/amy-r",
+                    "url": "https://tuckbarreyoga.com/online/amy-r/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/amy-r/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_january-2022-challenge",
+                    "url": "https://tuckbarreyoga.com/january-2022-challenge/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_january-2022-challenge/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_online/julia-s",
+                    "url": "https://tuckbarreyoga.com/online/julia-s/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_online/julia-s/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_pricing",
+                    "url": "https://tuckbarreyoga.com/pricing/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_pricing/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_contact",
+                    "url": "https://tuckbarreyoga.com/contact/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_contact/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_thank-you-2",
+                    "url": "https://tuckbarreyoga.com/thank-you-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_thank-you-2/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_registration",
+                    "url": "https://tuckbarreyoga.com/registration/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_registration/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_registration-success",
+                    "url": "https://tuckbarreyoga.com/registration-success/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_registration-success/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_courses",
+                    "url": "https://tuckbarreyoga.com/courses/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_courses/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/meet-callie-hagana",
+                    "url": "https://tuckbarreyoga.com/about/meet-callie-hagana/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/meet-callie-hagana/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_our-team",
+                    "url": "https://tuckbarreyoga.com/our-team/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_our-team/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_wash-west-schedule",
+                    "url": "https://tuckbarreyoga.com/wash-west-schedule/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_wash-west-schedule/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_2788-2",
+                    "url": "https://tuckbarreyoga.com/2788-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_2788-2/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_self-care-challenge",
+                    "url": "https://tuckbarreyoga.com/self-care-challenge/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_self-care-challenge/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about",
+                    "url": "https://tuckbarreyoga.com/about/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/class-descriptions",
+                    "url": "https://tuckbarreyoga.com/about/class-descriptions/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/class-descriptions/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_buy-classes",
+                    "url": "https://tuckbarreyoga.com/buy-classes/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_buy-classes/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_training",
+                    "url": "https://tuckbarreyoga.com/training/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_training/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_about/faqs",
+                    "url": "https://tuckbarreyoga.com/about/faqs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_about/faqs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_766-2",
+                    "url": "https://tuckbarreyoga.com/766-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_766-2/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_813-2",
+                    "url": "https://tuckbarreyoga.com/813-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_813-2/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_point-breeze-schedule",
+                    "url": "https://tuckbarreyoga.com/point-breeze-schedule/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_point-breeze-schedule/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "tuckbarreyoga.com_videos",
+                    "url": "https://tuckbarreyoga.com/videos/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/tuckbarreyoga.com/run_tuckbarreyoga.com_20240328_190809_46e6/tuckbarreyoga.com_videos/_prod_before_update.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "current_run": "run_tuckbarreyoga.com_20240328_190809_46e6"
+}
