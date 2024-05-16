@@ -1,0 +1,1 @@
+export const TEST_MESSAGE = "This is a test message from the QA team at Inbound Found. Please ignore.";

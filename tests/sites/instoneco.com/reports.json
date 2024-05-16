@@ -1,0 +1,17 @@
+{
+  "totalTest": 53,
+  "failedTest": 1,
+  "passedTest": 4,
+  "skippedTest": 48,
+  "errors": [
+    {
+      "testName": "Facet",
+      "location": {
+        "file": "c:\\Users\\jsuci\\OneDrive\\Documents\\Backup\\INBOUNDFOUND\\projects\\wp-qa-playwright-tool\\tests\\sites\\instoneco.com\\interactivity_tests.spec.ts",
+        "column": 7,
+        "line": 1419
+      },
+      "message": "TimeoutError: locator.check: Timeout 10000ms exceeded.\nCall log:\n  \u001b[2m- waiting for locator('input#input_AvailabilityAvailabl')\u001b[22m\n"
+    }
+  ]
+}

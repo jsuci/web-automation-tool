@@ -1,0 +1,2195 @@
+{
+    "production_domain": "https://rockofages.com",
+    "staging_domain": "",
+    "urls": [
+        {
+            "id": "sUrVY3cWxSmuZ1q",
+            "path": "/stones/cambrian-black-granite/",
+            "fullURL": "https://rockofages.com/stones/cambrian-black-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "58JttBrGJXW4S07",
+            "path": "/en-ca/stones/jet-black/",
+            "fullURL": "https://rockofages.com/en-ca/stones/jet-black/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TbM50tp0YiIdVJl",
+            "path": "/stones/starlight-black-granite/",
+            "fullURL": "https://rockofages.com/stones/starlight-black-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "GLEYowRBUUk3aBb",
+            "path": "/stones/galaxy-black-granite/",
+            "fullURL": "https://rockofages.com/stones/galaxy-black-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9UHPvFln3VlkY0m",
+            "path": "/stones/velvet-red-granite/",
+            "fullURL": "https://rockofages.com/stones/velvet-red-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "cipvJz3cF7zzjAg",
+            "path": "/stones/laurentian-green-granite/",
+            "fullURL": "https://rockofages.com/stones/laurentian-green-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "KcElWwAT0NIFlOU",
+            "path": "/stones/blue-gray-granite/",
+            "fullURL": "https://rockofages.com/stones/blue-gray-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "8Os4ilJd8AGv1hs",
+            "path": "/stones/bethel-white-granite/",
+            "fullURL": "https://rockofages.com/stones/bethel-white-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "k3sjjH8C7m2i3nr",
+            "path": "/stones/medium-gray-granite/",
+            "fullURL": "https://rockofages.com/stones/medium-gray-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "5VLDrjeaVVMRejK",
+            "path": "/stones/white-cherokee-marble/",
+            "fullURL": "https://rockofages.com/stones/white-cherokee-marble/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Vtg7OH1p2UCNTrR",
+            "path": "/stones/canadian-mahogany-granite/",
+            "fullURL": "https://rockofages.com/stones/canadian-mahogany-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "AaYwAZVVi0ggKcx",
+            "path": "/stones/crimson-red-granite/",
+            "fullURL": "https://rockofages.com/stones/crimson-red-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "gaPp7Q4p1FiTzKr",
+            "path": "/stones/cameo-rose-granite/",
+            "fullURL": "https://rockofages.com/stones/cameo-rose-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kQIE8XNWC3ZaLjd",
+            "path": "/stones/wild-rose-granite/",
+            "fullURL": "https://rockofages.com/stones/wild-rose-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "x16UDxS6RbAX9Ze",
+            "path": "/stones/black-mist-granite/",
+            "fullURL": "https://rockofages.com/stones/black-mist-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "AGDzwul5M754dNq",
+            "path": "/fr/stones/noir-cambrian/",
+            "fullURL": "https://rockofages.com/fr/stones/noir-cambrian/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "XzxtQ4PZojkcA9K",
+            "path": "/en-ca/stones/laurentian-green/",
+            "fullURL": "https://rockofages.com/en-ca/stones/laurentian-green/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "FCCnk0wKcniO7ny",
+            "path": "/en-ca/stones/dark-barre/",
+            "fullURL": "https://rockofages.com/en-ca/stones/dark-barre/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "BscQi5JK1akeUkA",
+            "path": "/fr/stones/vert-laurentien/",
+            "fullURL": "https://rockofages.com/fr/stones/vert-laurentien/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "aZ9f0KkL7eJEIiL",
+            "path": "/fr/stones/jet-black/",
+            "fullURL": "https://rockofages.com/fr/stones/jet-black/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "S7JsZgIdqm1Y7Ka",
+            "path": "/fr/stones/dark-bar/",
+            "fullURL": "https://rockofages.com/fr/stones/dark-bar/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "15m6cdLlBb4tkJ3",
+            "path": "/stones/midnight-black-granite/",
+            "fullURL": "https://rockofages.com/stones/midnight-black-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9e0usR7DIbpuSy0",
+            "path": "/en-ca/stones/bethel-white/",
+            "fullURL": "https://rockofages.com/en-ca/stones/bethel-white/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "AnZY9k5APKqCeX2",
+            "path": "/en-ca/stones/brits-blue/",
+            "fullURL": "https://rockofages.com/en-ca/stones/brits-blue/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "RPcFWk23qLIsMNl",
+            "path": "/en-ca/stones/white-cherokee-marble/",
+            "fullURL": "https://rockofages.com/en-ca/stones/white-cherokee-marble/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "0IDx1D61S5Wk5uf",
+            "path": "/en-ca/stones/canadian-mahogany/",
+            "fullURL": "https://rockofages.com/en-ca/stones/canadian-mahogany/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "iC21UZYVvBem9HT",
+            "path": "/fr/stones/white-cherokee-marbre/",
+            "fullURL": "https://rockofages.com/fr/stones/white-cherokee-marbre/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "SRfD8DWtQkewUJm",
+            "path": "/fr/stones/mahoganie-canadien/",
+            "fullURL": "https://rockofages.com/fr/stones/mahoganie-canadien/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "f69zFdalga0IH3M",
+            "path": "/fr/stones/rouge-ecarlate/",
+            "fullURL": "https://rockofages.com/fr/stones/rouge-ecarlate/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "K6vnPjw2Mhv6W2q",
+            "path": "/en-ca/stones/scarlet-red-2/",
+            "fullURL": "https://rockofages.com/en-ca/stones/scarlet-red-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jOMcYAvARpd6QxY",
+            "path": "/en-ca/stones/laurentian-pink/",
+            "fullURL": "https://rockofages.com/en-ca/stones/laurentian-pink/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "CkOqPEfEf4yDgRl",
+            "path": "/en-ca/stones/mountain-rose/",
+            "fullURL": "https://rockofages.com/en-ca/stones/mountain-rose/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "7WINM51R8vxlqXt",
+            "path": "/fr/stones/rose-montagne/",
+            "fullURL": "https://rockofages.com/fr/stones/rose-montagne/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "65PgcmCzBZ1mqOL",
+            "path": "/fr/stones/laurentian-pink/",
+            "fullURL": "https://rockofages.com/fr/stones/laurentian-pink/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "oIzycVXJMCMdJc5",
+            "path": "/en-ca/stones/salisbury-pink/",
+            "fullURL": "https://rockofages.com/en-ca/stones/salisbury-pink/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "U1ze1qfOr2zewXL",
+            "path": "/fr/stones/salisbury-pink/",
+            "fullURL": "https://rockofages.com/fr/stones/salisbury-pink/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "7DB4YUaCbZ3xNPL",
+            "path": "/en-ca/stones/gem-mist/",
+            "fullURL": "https://rockofages.com/en-ca/stones/gem-mist/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "QTPNnbwtCjMB7TJ",
+            "path": "/en-ca/stones/light-barre/",
+            "fullURL": "https://rockofages.com/en-ca/stones/light-barre/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "w3S644GBWPice59",
+            "path": "/fr/stones/barre-pale/",
+            "fullURL": "https://rockofages.com/fr/stones/barre-pale/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "diauvB1JDQTNtMZ",
+            "path": "/fr/stones/noir-voile/",
+            "fullURL": "https://rockofages.com/fr/stones/noir-voile/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "8GCW4RCieakkpc2",
+            "path": "/fr/stones/bethel-white-granite/",
+            "fullURL": "https://rockofages.com/fr/stones/bethel-white-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "uUlTCU2N4XReQB8",
+            "path": "/stones/light-barre/",
+            "fullURL": "https://rockofages.com/stones/light-barre/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "wfgtnUDtxdfK5iD",
+            "path": "/fr/stones/barre-pale-2/",
+            "fullURL": "https://rockofages.com/fr/stones/barre-pale-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "nzFCYzYEJ94PJk6",
+            "path": "/en-ca/stones/light-barre-2/",
+            "fullURL": "https://rockofages.com/en-ca/stones/light-barre-2/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "qnIikcH5iGHaeeb",
+            "path": "/fr/stones/bleu-de-brits/",
+            "fullURL": "https://rockofages.com/fr/stones/bleu-de-brits/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "yKfAtP7IkvunBs6",
+            "path": "/en-ca/stones/cambrian-black-granite/",
+            "fullURL": "https://rockofages.com/en-ca/stones/cambrian-black-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "JA6UZEXc2ejPdWS",
+            "path": "/products/",
+            "fullURL": "https://rockofages.com/products/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "F9XaP6e4XyO40xQ",
+            "path": "/blog/",
+            "fullURL": "https://rockofages.com/blog/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "RvshnvGUrB9sh6X",
+            "path": "/",
+            "fullURL": "https://rockofages.com/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kNOwvwkMzcbcLcS",
+            "path": "/en-ca/products/",
+            "fullURL": "https://rockofages.com/en-ca/products/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "sTTX6IYtyLKctYt",
+            "path": "/creative-process-civic-memorials/",
+            "fullURL": "https://rockofages.com/creative-process-civic-memorials/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "rVh2FOXq2Gs1sGy",
+            "path": "/creative-process-mausoleum/",
+            "fullURL": "https://rockofages.com/creative-process-mausoleum/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "tCJNQH040gE00p7",
+            "path": "/creative-process-columbaria/",
+            "fullURL": "https://rockofages.com/creative-process-columbaria/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "UHUnSvrl8s6R0uS",
+            "path": "/fr/about/",
+            "fullURL": "https://rockofages.com/fr/about/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "0thpfxd7n04n1Ar",
+            "path": "/creative-process-monument/",
+            "fullURL": "https://rockofages.com/creative-process-monument/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "qqDGkukfAFhBsmR",
+            "path": "/en-ca/creative-process-columbaria/",
+            "fullURL": "https://rockofages.com/en-ca/creative-process-columbaria/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "LOZYu9Cxevft51s",
+            "path": "/en-ca/creative-process-monument/",
+            "fullURL": "https://rockofages.com/en-ca/creative-process-monument/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "JThsDKNU3ormfYw",
+            "path": "/fr/creative-process-columbaria/",
+            "fullURL": "https://rockofages.com/fr/creative-process-columbaria/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "73PADMq4FG1Xe6W",
+            "path": "/en-ca/creative-process-civic-memorials/",
+            "fullURL": "https://rockofages.com/en-ca/creative-process-civic-memorials/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "mblHgo3GaV4CJkM",
+            "path": "/en-ca/about/",
+            "fullURL": "https://rockofages.com/en-ca/about/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ObG2CYbkM31jmBP",
+            "path": "/warranty/",
+            "fullURL": "https://rockofages.com/warranty/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "GPx6phcPjRD0xHF",
+            "path": "/en-ca/creative-process-mausoleum/",
+            "fullURL": "https://rockofages.com/en-ca/creative-process-mausoleum/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "gqZzy4wkDcGDi6r",
+            "path": "/fr/processus-creation-monuments-historiques/",
+            "fullURL": "https://rockofages.com/fr/processus-creation-monuments-historiques/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Rdw2tjZMiDcNu5f",
+            "path": "/fr/produits/",
+            "fullURL": "https://rockofages.com/fr/produits/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jM7DMEZVOnucVT3",
+            "path": "/fr/garantie/",
+            "fullURL": "https://rockofages.com/fr/garantie/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "yb2cQVCdHMN6UPq",
+            "path": "/en-ca/warranty/",
+            "fullURL": "https://rockofages.com/en-ca/warranty/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "wpD8cJYRvVTet1N",
+            "path": "/en-ca/careers/",
+            "fullURL": "https://rockofages.com/en-ca/careers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "8DR3w0WuJvKTDA4",
+            "path": "/fr/carrieres/",
+            "fullURL": "https://rockofages.com/fr/carrieres/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "3thWwogOIRak0oi",
+            "path": "/fr/processus-creation-mausolees/",
+            "fullURL": "https://rockofages.com/fr/processus-creation-mausolees/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "hUG7WP4yDNBuDhm",
+            "path": "/fr/processus-creation-monuments/",
+            "fullURL": "https://rockofages.com/fr/processus-creation-monuments/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9GFhAIFuAQ9VS3k",
+            "path": "/en-ca/precision-products/",
+            "fullURL": "https://rockofages.com/en-ca/precision-products/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "YItWCRNJpH2kx0f",
+            "path": "/fr/produits-precision/",
+            "fullURL": "https://rockofages.com/fr/produits-precision/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "7rRSlCxHxJjOo8P",
+            "path": "/en-ca/contact-us/",
+            "fullURL": "https://rockofages.com/en-ca/contact-us/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "1EvQSb4xLBiADRC",
+            "path": "/fr/contactez-nous/",
+            "fullURL": "https://rockofages.com/fr/contactez-nous/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Y92TztXdTYTM8KG",
+            "path": "/precision-granite-industrial-products/",
+            "fullURL": "https://rockofages.com/precision-granite-industrial-products/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "BpuV4FObX0TEJEl",
+            "path": "/our-world/",
+            "fullURL": "https://rockofages.com/our-world/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "tRnkLaPbDYHmE39",
+            "path": "/en-ca/our-world/",
+            "fullURL": "https://rockofages.com/en-ca/our-world/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "dLFuTfsWyRXaOYh",
+            "path": "/fr/notre-univers/",
+            "fullURL": "https://rockofages.com/fr/notre-univers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "IWaaxdP0Ikn3088",
+            "path": "/en-ca/people/",
+            "fullURL": "https://rockofages.com/en-ca/people/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "lwwKYaJv9xOkMRY",
+            "path": "/stories/",
+            "fullURL": "https://rockofages.com/stories/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "MumELrKiqcSXetE",
+            "path": "/fr/histoires/andy-herbert/",
+            "fullURL": "https://rockofages.com/fr/histoires/andy-herbert/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ilXpo2fp5aCDi7w",
+            "path": "/stories/stories-david-fournier/",
+            "fullURL": "https://rockofages.com/stories/stories-david-fournier/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "qs0ayccKXHh0LwL",
+            "path": "/stories/stories-andy-herbert/",
+            "fullURL": "https://rockofages.com/stories/stories-andy-herbert/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "MKIjAJ2wCQwwXoe",
+            "path": "/en-ca/people/stories-andy-herbert/",
+            "fullURL": "https://rockofages.com/en-ca/people/stories-andy-herbert/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "InI4vEz5DxQvvXh",
+            "path": "/fr/histoires/",
+            "fullURL": "https://rockofages.com/fr/histoires/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "B94rg2aRO13AJUb",
+            "path": "/en-ca/people/stories-david-fournier/",
+            "fullURL": "https://rockofages.com/en-ca/people/stories-david-fournier/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "7zBMve69J84G77J",
+            "path": "/fr/histoires/david-fournier/",
+            "fullURL": "https://rockofages.com/fr/histoires/david-fournier/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "0wjlkS43VzjxDVj",
+            "path": "/en-ca/people/stories-mike-celley/",
+            "fullURL": "https://rockofages.com/en-ca/people/stories-mike-celley/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "47MRhiH7UzCZc8g",
+            "path": "/fr/histoires/mike-celley/",
+            "fullURL": "https://rockofages.com/fr/histoires/mike-celley/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TV2EoIyenNG2FQl",
+            "path": "/stories/stories-nick-dubois/",
+            "fullURL": "https://rockofages.com/stories/stories-nick-dubois/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "0xKTgkwYezFIxv3",
+            "path": "/fr/histoires/nick-dubois/",
+            "fullURL": "https://rockofages.com/fr/histoires/nick-dubois/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "3200D13i8qBml66",
+            "path": "/en-ca/people/stories-nick-dubois/",
+            "fullURL": "https://rockofages.com/en-ca/people/stories-nick-dubois/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "UfyIptmsNiJCBYX",
+            "path": "/en-ca/products/civic-memorials/",
+            "fullURL": "https://rockofages.com/en-ca/products/civic-memorials/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "j268oHo6kCyyWsL",
+            "path": "/fr/produits/monuments-historiques/",
+            "fullURL": "https://rockofages.com/fr/produits/monuments-historiques/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "WagRvOdJHXqa9Gp",
+            "path": "/products/civic-memorials/",
+            "fullURL": "https://rockofages.com/products/civic-memorials/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "p32Pm0B9TbVQmtW",
+            "path": "/en-ca/products/columbaria/",
+            "fullURL": "https://rockofages.com/en-ca/products/columbaria/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "NbkSsW8tBIBxe2N",
+            "path": "/fr/produits/columbariums/",
+            "fullURL": "https://rockofages.com/fr/produits/columbariums/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kiDlCaCsJKnUpo1",
+            "path": "/products/columbaria/",
+            "fullURL": "https://rockofages.com/products/columbaria/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "NPvbkZyK2pO3z7Z",
+            "path": "/products/mausoleums/",
+            "fullURL": "https://rockofages.com/products/mausoleums/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Vw4i9uI1o3mCyBH",
+            "path": "/fr/produits/mausolees/",
+            "fullURL": "https://rockofages.com/fr/produits/mausolees/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "DrV3lZblIvaqJCg",
+            "path": "/about/",
+            "fullURL": "https://rockofages.com/about/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ZzodY4hk0IOnOKH",
+            "path": "/stories/stories-mike-celley/",
+            "fullURL": "https://rockofages.com/stories/stories-mike-celley/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "lNXZOJLOglhABws",
+            "path": "/en-ca/products/mausoleums/",
+            "fullURL": "https://rockofages.com/en-ca/products/mausoleums/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "5JICcemj2NnDKv6",
+            "path": "/mauso-guide/",
+            "fullURL": "https://rockofages.com/mauso-guide/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "6YNSYyQH3SeG2Wf",
+            "path": "/careers/",
+            "fullURL": "https://rockofages.com/careers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "USUGlB96vOyfaFp",
+            "path": "/contact-us/",
+            "fullURL": "https://rockofages.com/contact-us/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "Op3udoM9g2maU51",
+            "path": "/fr/tour/",
+            "fullURL": "https://rockofages.com/fr/tour/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "pOy33QlMlQOoin1",
+            "path": "/dealers/",
+            "fullURL": "https://rockofages.com/dealers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "3PQw5IJPewDQq6I",
+            "path": "/fr/dealers/",
+            "fullURL": "https://rockofages.com/fr/dealers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "u8ZCYFXD9X4raXU",
+            "path": "/en-ca/dealers/",
+            "fullURL": "https://rockofages.com/en-ca/dealers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "hhQIODmfzlvj80D",
+            "path": "/en-ca/tours/",
+            "fullURL": "https://rockofages.com/en-ca/tours/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "6ZKlcc1SAHIfs64",
+            "path": "/stones/",
+            "fullURL": "https://rockofages.com/stones/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "faPVi5SMounLlTa",
+            "path": "/products/monuments/",
+            "fullURL": "https://rockofages.com/products/monuments/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "UgbbgMi6iwAGDpw",
+            "path": "/fr/pierres/",
+            "fullURL": "https://rockofages.com/fr/pierres/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TmwSD0hjXBraimS",
+            "path": "/fr/produits/monuments/",
+            "fullURL": "https://rockofages.com/fr/produits/monuments/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "cJh3jd3brvMIscz",
+            "path": "/en-ca/stones/",
+            "fullURL": "https://rockofages.com/en-ca/stones/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "AGmhQRU3sXtLZ59",
+            "path": "/group-tours/",
+            "fullURL": "https://rockofages.com/group-tours/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "trt2ytQ2IujvJui",
+            "path": "/en-ca/products/monuments/",
+            "fullURL": "https://rockofages.com/en-ca/products/monuments/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9GQF2vvdvRysJvp",
+            "path": "/en-ca/",
+            "fullURL": "https://rockofages.com/en-ca/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ZGmxB1v5XJOlCx6",
+            "path": "/tours/",
+            "fullURL": "https://rockofages.com/tours/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Mfwd8iDoxqlGSr9",
+            "path": "/fr/",
+            "fullURL": "https://rockofages.com/fr/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": false,
+            "with_captcha": false,
+            "screenshots": null
+        }
+    ],
+    "runs": [
+        {
+            "id": "run_rockofages.com_20240328_005535_59a4",
+            "folder_path": "screenshots\\rockofages.com\\run_rockofages.com_20240328_005535_59a4",
+            "started": "2024-03-27T16:55:35.098Z",
+            "finished": null,
+            "screenshots": [
+                {
+                    "page_name": "rockofages.com_stones/cambrian-black-granite",
+                    "url": "https://rockofages.com/stones/cambrian-black-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/cambrian-black-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/jet-black",
+                    "url": "https://rockofages.com/en-ca/stones/jet-black/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/jet-black/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/starlight-black-granite",
+                    "url": "https://rockofages.com/stones/starlight-black-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/starlight-black-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/galaxy-black-granite",
+                    "url": "https://rockofages.com/stones/galaxy-black-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/galaxy-black-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/velvet-red-granite",
+                    "url": "https://rockofages.com/stones/velvet-red-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/velvet-red-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/laurentian-green-granite",
+                    "url": "https://rockofages.com/stones/laurentian-green-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/laurentian-green-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/blue-gray-granite",
+                    "url": "https://rockofages.com/stones/blue-gray-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/blue-gray-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/bethel-white-granite",
+                    "url": "https://rockofages.com/stones/bethel-white-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/bethel-white-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/medium-gray-granite",
+                    "url": "https://rockofages.com/stones/medium-gray-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/medium-gray-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/white-cherokee-marble",
+                    "url": "https://rockofages.com/stones/white-cherokee-marble/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/white-cherokee-marble/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/canadian-mahogany-granite",
+                    "url": "https://rockofages.com/stones/canadian-mahogany-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/canadian-mahogany-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/crimson-red-granite",
+                    "url": "https://rockofages.com/stones/crimson-red-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/crimson-red-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/cameo-rose-granite",
+                    "url": "https://rockofages.com/stones/cameo-rose-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/cameo-rose-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/wild-rose-granite",
+                    "url": "https://rockofages.com/stones/wild-rose-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/wild-rose-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/black-mist-granite",
+                    "url": "https://rockofages.com/stones/black-mist-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/black-mist-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/noir-cambrian",
+                    "url": "https://rockofages.com/fr/stones/noir-cambrian/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/noir-cambrian/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/laurentian-green",
+                    "url": "https://rockofages.com/en-ca/stones/laurentian-green/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/laurentian-green/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/dark-barre",
+                    "url": "https://rockofages.com/en-ca/stones/dark-barre/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/dark-barre/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/vert-laurentien",
+                    "url": "https://rockofages.com/fr/stones/vert-laurentien/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/vert-laurentien/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/jet-black",
+                    "url": "https://rockofages.com/fr/stones/jet-black/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/jet-black/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/dark-bar",
+                    "url": "https://rockofages.com/fr/stones/dark-bar/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/dark-bar/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/midnight-black-granite",
+                    "url": "https://rockofages.com/stones/midnight-black-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/midnight-black-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/bethel-white",
+                    "url": "https://rockofages.com/en-ca/stones/bethel-white/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/bethel-white/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/brits-blue",
+                    "url": "https://rockofages.com/en-ca/stones/brits-blue/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/brits-blue/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/white-cherokee-marble",
+                    "url": "https://rockofages.com/en-ca/stones/white-cherokee-marble/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/white-cherokee-marble/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/canadian-mahogany",
+                    "url": "https://rockofages.com/en-ca/stones/canadian-mahogany/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/canadian-mahogany/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/white-cherokee-marbre",
+                    "url": "https://rockofages.com/fr/stones/white-cherokee-marbre/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/white-cherokee-marbre/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/mahoganie-canadien",
+                    "url": "https://rockofages.com/fr/stones/mahoganie-canadien/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/mahoganie-canadien/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/rouge-ecarlate",
+                    "url": "https://rockofages.com/fr/stones/rouge-ecarlate/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/rouge-ecarlate/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/scarlet-red-2",
+                    "url": "https://rockofages.com/en-ca/stones/scarlet-red-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/scarlet-red-2/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/laurentian-pink",
+                    "url": "https://rockofages.com/en-ca/stones/laurentian-pink/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/laurentian-pink/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/mountain-rose",
+                    "url": "https://rockofages.com/en-ca/stones/mountain-rose/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/mountain-rose/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/rose-montagne",
+                    "url": "https://rockofages.com/fr/stones/rose-montagne/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/rose-montagne/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/laurentian-pink",
+                    "url": "https://rockofages.com/fr/stones/laurentian-pink/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/laurentian-pink/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/salisbury-pink",
+                    "url": "https://rockofages.com/en-ca/stones/salisbury-pink/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/salisbury-pink/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/salisbury-pink",
+                    "url": "https://rockofages.com/fr/stones/salisbury-pink/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/salisbury-pink/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/gem-mist",
+                    "url": "https://rockofages.com/en-ca/stones/gem-mist/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/gem-mist/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/light-barre",
+                    "url": "https://rockofages.com/en-ca/stones/light-barre/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/light-barre/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/barre-pale",
+                    "url": "https://rockofages.com/fr/stones/barre-pale/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/barre-pale/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/noir-voile",
+                    "url": "https://rockofages.com/fr/stones/noir-voile/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/noir-voile/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/bethel-white-granite",
+                    "url": "https://rockofages.com/fr/stones/bethel-white-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/bethel-white-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones/light-barre",
+                    "url": "https://rockofages.com/stones/light-barre/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/light-barre/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/barre-pale-2",
+                    "url": "https://rockofages.com/fr/stones/barre-pale-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/barre-pale-2/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/light-barre-2",
+                    "url": "https://rockofages.com/en-ca/stones/light-barre-2/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/light-barre-2/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/stones/bleu-de-brits",
+                    "url": "https://rockofages.com/fr/stones/bleu-de-brits/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/stones/bleu-de-brits/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones/cambrian-black-granite",
+                    "url": "https://rockofages.com/en-ca/stones/cambrian-black-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/cambrian-black-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_products",
+                    "url": "https://rockofages.com/products/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_products/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_blog",
+                    "url": "https://rockofages.com/blog/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_blog/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_",
+                    "url": "https://rockofages.com/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/products",
+                    "url": "https://rockofages.com/en-ca/products/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/products/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_creative-process-civic-memorials",
+                    "url": "https://rockofages.com/creative-process-civic-memorials/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_creative-process-civic-memorials/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_creative-process-mausoleum",
+                    "url": "https://rockofages.com/creative-process-mausoleum/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_creative-process-mausoleum/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_creative-process-columbaria",
+                    "url": "https://rockofages.com/creative-process-columbaria/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_creative-process-columbaria/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/about",
+                    "url": "https://rockofages.com/fr/about/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/about/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_creative-process-monument",
+                    "url": "https://rockofages.com/creative-process-monument/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_creative-process-monument/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/creative-process-columbaria",
+                    "url": "https://rockofages.com/en-ca/creative-process-columbaria/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/creative-process-columbaria/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/creative-process-monument",
+                    "url": "https://rockofages.com/en-ca/creative-process-monument/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/creative-process-monument/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/creative-process-columbaria",
+                    "url": "https://rockofages.com/fr/creative-process-columbaria/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/creative-process-columbaria/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/creative-process-civic-memorials",
+                    "url": "https://rockofages.com/en-ca/creative-process-civic-memorials/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/creative-process-civic-memorials/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/about",
+                    "url": "https://rockofages.com/en-ca/about/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/about/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_warranty",
+                    "url": "https://rockofages.com/warranty/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_warranty/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/creative-process-mausoleum",
+                    "url": "https://rockofages.com/en-ca/creative-process-mausoleum/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/creative-process-mausoleum/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/processus-creation-monuments-historiques",
+                    "url": "https://rockofages.com/fr/processus-creation-monuments-historiques/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/processus-creation-monuments-historiques/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/produits",
+                    "url": "https://rockofages.com/fr/produits/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/produits/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/garantie",
+                    "url": "https://rockofages.com/fr/garantie/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/garantie/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/warranty",
+                    "url": "https://rockofages.com/en-ca/warranty/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/warranty/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/careers",
+                    "url": "https://rockofages.com/en-ca/careers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/careers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/carrieres",
+                    "url": "https://rockofages.com/fr/carrieres/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/carrieres/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/processus-creation-mausolees",
+                    "url": "https://rockofages.com/fr/processus-creation-mausolees/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/processus-creation-mausolees/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/processus-creation-monuments",
+                    "url": "https://rockofages.com/fr/processus-creation-monuments/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/processus-creation-monuments/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/precision-products",
+                    "url": "https://rockofages.com/en-ca/precision-products/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/precision-products/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/produits-precision",
+                    "url": "https://rockofages.com/fr/produits-precision/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/produits-precision/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/contact-us",
+                    "url": "https://rockofages.com/en-ca/contact-us/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/contact-us/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/contactez-nous",
+                    "url": "https://rockofages.com/fr/contactez-nous/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/contactez-nous/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_precision-granite-industrial-products",
+                    "url": "https://rockofages.com/precision-granite-industrial-products/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_precision-granite-industrial-products/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_our-world",
+                    "url": "https://rockofages.com/our-world/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_our-world/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/our-world",
+                    "url": "https://rockofages.com/en-ca/our-world/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/our-world/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/notre-univers",
+                    "url": "https://rockofages.com/fr/notre-univers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/notre-univers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/people",
+                    "url": "https://rockofages.com/en-ca/people/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/people/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stories",
+                    "url": "https://rockofages.com/stories/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stories/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/histoires/andy-herbert",
+                    "url": "https://rockofages.com/fr/histoires/andy-herbert/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/histoires/andy-herbert/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stories/stories-david-fournier",
+                    "url": "https://rockofages.com/stories/stories-david-fournier/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stories/stories-david-fournier/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stories/stories-andy-herbert",
+                    "url": "https://rockofages.com/stories/stories-andy-herbert/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stories/stories-andy-herbert/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/people/stories-andy-herbert",
+                    "url": "https://rockofages.com/en-ca/people/stories-andy-herbert/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/people/stories-andy-herbert/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/histoires",
+                    "url": "https://rockofages.com/fr/histoires/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/histoires/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/people/stories-david-fournier",
+                    "url": "https://rockofages.com/en-ca/people/stories-david-fournier/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/people/stories-david-fournier/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/histoires/david-fournier",
+                    "url": "https://rockofages.com/fr/histoires/david-fournier/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/histoires/david-fournier/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/people/stories-mike-celley",
+                    "url": "https://rockofages.com/en-ca/people/stories-mike-celley/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/people/stories-mike-celley/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/histoires/mike-celley",
+                    "url": "https://rockofages.com/fr/histoires/mike-celley/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/histoires/mike-celley/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stories/stories-nick-dubois",
+                    "url": "https://rockofages.com/stories/stories-nick-dubois/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stories/stories-nick-dubois/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/histoires/nick-dubois",
+                    "url": "https://rockofages.com/fr/histoires/nick-dubois/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/histoires/nick-dubois/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/people/stories-nick-dubois",
+                    "url": "https://rockofages.com/en-ca/people/stories-nick-dubois/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/people/stories-nick-dubois/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/products/civic-memorials",
+                    "url": "https://rockofages.com/en-ca/products/civic-memorials/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/products/civic-memorials/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/produits/monuments-historiques",
+                    "url": "https://rockofages.com/fr/produits/monuments-historiques/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/produits/monuments-historiques/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_products/civic-memorials",
+                    "url": "https://rockofages.com/products/civic-memorials/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_products/civic-memorials/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/products/columbaria",
+                    "url": "https://rockofages.com/en-ca/products/columbaria/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/products/columbaria/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/produits/columbariums",
+                    "url": "https://rockofages.com/fr/produits/columbariums/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/produits/columbariums/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_products/columbaria",
+                    "url": "https://rockofages.com/products/columbaria/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_products/columbaria/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_products/mausoleums",
+                    "url": "https://rockofages.com/products/mausoleums/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_products/mausoleums/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/produits/mausolees",
+                    "url": "https://rockofages.com/fr/produits/mausolees/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/produits/mausolees/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_about",
+                    "url": "https://rockofages.com/about/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_about/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stories/stories-mike-celley",
+                    "url": "https://rockofages.com/stories/stories-mike-celley/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stories/stories-mike-celley/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/products/mausoleums",
+                    "url": "https://rockofages.com/en-ca/products/mausoleums/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/products/mausoleums/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_mauso-guide",
+                    "url": "https://rockofages.com/mauso-guide/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_mauso-guide/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_careers",
+                    "url": "https://rockofages.com/careers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_careers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_contact-us",
+                    "url": "https://rockofages.com/contact-us/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_contact-us/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/tour",
+                    "url": "https://rockofages.com/fr/tour/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/tour/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_dealers",
+                    "url": "https://rockofages.com/dealers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_dealers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/dealers",
+                    "url": "https://rockofages.com/fr/dealers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/dealers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/dealers",
+                    "url": "https://rockofages.com/en-ca/dealers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/dealers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/tours",
+                    "url": "https://rockofages.com/en-ca/tours/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/tours/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_stones",
+                    "url": "https://rockofages.com/stones/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_stones/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_products/monuments",
+                    "url": "https://rockofages.com/products/monuments/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_products/monuments/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/pierres",
+                    "url": "https://rockofages.com/fr/pierres/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/pierres/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr/produits/monuments",
+                    "url": "https://rockofages.com/fr/produits/monuments/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/produits/monuments/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/stones",
+                    "url": "https://rockofages.com/en-ca/stones/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/stones/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_group-tours",
+                    "url": "https://rockofages.com/group-tours/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_group-tours/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca/products/monuments",
+                    "url": "https://rockofages.com/en-ca/products/monuments/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/products/monuments/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_en-ca",
+                    "url": "https://rockofages.com/en-ca/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_en-ca/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_tours",
+                    "url": "https://rockofages.com/tours/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_tours/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "rockofages.com_fr",
+                    "url": "https://rockofages.com/fr/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/rockofages.com/run_rockofages.com_20240328_005535_59a4/rockofages.com_fr/_prod_before_update.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "current_run": "run_rockofages.com_20240328_005535_59a4"
+}

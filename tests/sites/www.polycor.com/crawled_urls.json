@@ -1,0 +1,3689 @@
+{
+    "production_domain": "https://www.polycor.com",
+    "staging_domain": "",
+    "urls": [
+        {
+            "id": "yhEGKeUB9KHopvg",
+            "path": "/",
+            "fullURL": "https://www.polycor.com/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "RrfRstRTIUf7cWD",
+            "path": "/sustainability/",
+            "fullURL": "https://www.polycor.com/sustainability/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "DlgCpBjLRhbwpB3",
+            "path": "/architectural-urban-landscaping/",
+            "fullURL": "https://www.polycor.com/architectural-urban-landscaping/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zKI8D0MF5s8CDv1",
+            "path": "/slabs-tiles/",
+            "fullURL": "https://www.polycor.com/slabs-tiles/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "etgfs5tHz5aGz9K",
+            "path": "/careers/",
+            "fullURL": "https://www.polycor.com/careers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "j3D8lDhsfSf4jMZ",
+            "path": "/fr-ca/",
+            "fullURL": "https://www.polycor.com/fr-ca/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "qOvmKNtYm6FG9Tv",
+            "path": "/hardscapes-masonry/",
+            "fullURL": "https://www.polycor.com/hardscapes-masonry/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xSX2HMokOvpyOXz",
+            "path": "/quarries-blocks/",
+            "fullURL": "https://www.polycor.com/quarries-blocks/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ZPP2iNgzsjaGJyh",
+            "path": "/about/",
+            "fullURL": "https://www.polycor.com/about/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "XvSoUme5aDJECYp",
+            "path": "/events/",
+            "fullURL": "https://www.polycor.com/events/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "WasBsNiLRmwY7sJ",
+            "path": "/privacy-policy/",
+            "fullURL": "https://www.polycor.com/privacy-policy/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ZxBedZu5T8hFN3N",
+            "path": "/terms-of-use/",
+            "fullURL": "https://www.polycor.com/terms-of-use/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "z91FirfbqEWgTrL",
+            "path": "/news/",
+            "fullURL": "https://www.polycor.com/news/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "HErLPvyknVBZEtT",
+            "path": "/quarries-and-plants/",
+            "fullURL": "https://www.polycor.com/quarries-and-plants/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "COCcYmCtIMOhsiQ",
+            "path": "/vetrazzo-recycled-glass-surfaces/",
+            "fullURL": "https://www.polycor.com/vetrazzo-recycled-glass-surfaces/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "miBHbBxUbOdO8e7",
+            "path": "/legacy-brands/",
+            "fullURL": "https://www.polycor.com/legacy-brands/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9cSCh0F3ul0Xiso",
+            "path": "/legacy-brands/georgia-marble-company/",
+            "fullURL": "https://www.polycor.com/legacy-brands/georgia-marble-company/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "e7DjZxtU8SPnYtX",
+            "path": "/legacy-brands/indiana-limestone-company/",
+            "fullURL": "https://www.polycor.com/legacy-brands/indiana-limestone-company/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Yd1yI5cBsCoLEtZ",
+            "path": "/applications/",
+            "fullURL": "https://www.polycor.com/applications/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "QAQbcBP9PdNuz1q",
+            "path": "/applications/walls/",
+            "fullURL": "https://www.polycor.com/applications/walls/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "b1G1oiATqmQieON",
+            "path": "/applications/facades-cladding-and-walls/",
+            "fullURL": "https://www.polycor.com/applications/facades-cladding-and-walls/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "3pdjvY224FDzmJ2",
+            "path": "/legacy-brands/ncgranite/",
+            "fullURL": "https://www.polycor.com/legacy-brands/ncgranite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "1k0zb6P3DR3VFNu",
+            "path": "/applications/cut-to-size-veneer/",
+            "fullURL": "https://www.polycor.com/applications/cut-to-size-veneer/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "BnnVlFuYSNZKwe9",
+            "path": "/products/estate-veneer-series/",
+            "fullURL": "https://www.polycor.com/products/estate-veneer-series/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "CtZ4Bm1DFcel2Gs",
+            "path": "/applications/wall-tile/",
+            "fullURL": "https://www.polycor.com/applications/wall-tile/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "wtmg7pZoSyAnj7i",
+            "path": "/applications/urban-landscaping/",
+            "fullURL": "https://www.polycor.com/applications/urban-landscaping/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "XDPJAuVgzZX4sLQ",
+            "path": "/applications/commercial-pavers/",
+            "fullURL": "https://www.polycor.com/applications/commercial-pavers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "GPKz5EHcfAfwBCh",
+            "path": "/applications/landmarks/",
+            "fullURL": "https://www.polycor.com/applications/landmarks/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "MtvWckd7UegUrqf",
+            "path": "/applications/kitchen-countertops/",
+            "fullURL": "https://www.polycor.com/applications/kitchen-countertops/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Dr8xquvk0oSp1ZC",
+            "path": "/applications/outdoor-kitchen-countertops/",
+            "fullURL": "https://www.polycor.com/applications/outdoor-kitchen-countertops/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "hHebD5R3JHpJdCZ",
+            "path": "/applications/bathroom-countertops/",
+            "fullURL": "https://www.polycor.com/applications/bathroom-countertops/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "hjJGrYPMm4pzQx7",
+            "path": "/applications/aesthetic-or-design-elements/",
+            "fullURL": "https://www.polycor.com/applications/aesthetic-or-design-elements/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "UCv2nQd4NUHiijO",
+            "path": "/applications/raw-blocks/",
+            "fullURL": "https://www.polycor.com/applications/raw-blocks/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "0LXEAbeW9IxEPK3",
+            "path": "/applications/boulders/",
+            "fullURL": "https://www.polycor.com/applications/boulders/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "vQlJlglqCSruiA9",
+            "path": "/applications/crushed-stone-or-aggregate/",
+            "fullURL": "https://www.polycor.com/applications/crushed-stone-or-aggregate/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "a7QEZZHS9VNedt3",
+            "path": "/applications/thick-slabs/",
+            "fullURL": "https://www.polycor.com/applications/thick-slabs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "US84bT2PcJMjK8x",
+            "path": "/applications/granite-curbing/",
+            "fullURL": "https://www.polycor.com/applications/granite-curbing/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jzUHxeCS2lnDZmR",
+            "path": "/applications/monuments/",
+            "fullURL": "https://www.polycor.com/applications/monuments/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "3d3H23dVHZdIFcK",
+            "path": "/applications/commercial-flooring/",
+            "fullURL": "https://www.polycor.com/applications/commercial-flooring/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "arMf6IqUbk1q15C",
+            "path": "/products/walkways-and-patios/",
+            "fullURL": "https://www.polycor.com/products/walkways-and-patios/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xyIwgUmdPhHD2qw",
+            "path": "/applications/civic-memorials/",
+            "fullURL": "https://www.polycor.com/applications/civic-memorials/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "tb7YdIu8Wxwo5C4",
+            "path": "/applications/stone-for-special-projects/",
+            "fullURL": "https://www.polycor.com/applications/stone-for-special-projects/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "STsTrdLYmPjC0It",
+            "path": "/products/steps-treads/",
+            "fullURL": "https://www.polycor.com/products/steps-treads/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "sv3bcXZvmMNZDcS",
+            "path": "/products/walls-and-caps/",
+            "fullURL": "https://www.polycor.com/products/walls-and-caps/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Dyhi3uzdKHWDyGZ",
+            "path": "/stones/",
+            "fullURL": "https://www.polycor.com/stones/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "bZpQVrsyV1EOH1q",
+            "path": "/resources/",
+            "fullURL": "https://www.polycor.com/resources/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zIcnJ08ydnXx1ig",
+            "path": "/hardscapes-masonry/resources/project-visualizer/",
+            "fullURL": "https://www.polycor.com/hardscapes-masonry/resources/project-visualizer/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "XhLVnhbC4hovWVJ",
+            "path": "/stone-calculator/",
+            "fullURL": "https://www.polycor.com/stone-calculator/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "6zLIoCUUNP0XeLB",
+            "path": "/sustainability/leed-certified-projects/",
+            "fullURL": "https://www.polycor.com/sustainability/leed-certified-projects/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "dcgHwSQZBLpeshh",
+            "path": "/resources/design-tools/",
+            "fullURL": "https://www.polycor.com/resources/design-tools/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "7fjopjOb0xr47ra",
+            "path": "/resources/cad-bim/",
+            "fullURL": "https://www.polycor.com/resources/cad-bim/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "oFPCP8htxdlWUyM",
+            "path": "/resources/3d-models/",
+            "fullURL": "https://www.polycor.com/resources/3d-models/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "iqnPPC27YraWDbJ",
+            "path": "/resources/3d-textures/",
+            "fullURL": "https://www.polycor.com/resources/3d-textures/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "2WisKhGMr7OQOwz",
+            "path": "/resources/esamples/",
+            "fullURL": "https://www.polycor.com/resources/esamples/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "J32EztS9TzwUaB4",
+            "path": "/blog/",
+            "fullURL": "https://www.polycor.com/blog/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "BqCzNHLGyWTJvej",
+            "path": "/projects-by-type/",
+            "fullURL": "https://www.polycor.com/projects-by-type/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "RrmN5w5K4LV3BYt",
+            "path": "/resources/request-samples/",
+            "fullURL": "https://www.polycor.com/resources/request-samples/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Silx8hTzoQFFnCf",
+            "path": "/fr-ca/developpement_durable/",
+            "fullURL": "https://www.polycor.com/fr-ca/developpement_durable/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ukUoRbOimesuNtV",
+            "path": "/contact-us/",
+            "fullURL": "https://www.polycor.com/contact-us/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "sPlXhK8OzEiympK",
+            "path": "/projects/",
+            "fullURL": "https://www.polycor.com/projects/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "m40ty643IxuINYp",
+            "path": "/fr-ca/amenagements-architecturaux-et-urbains/",
+            "fullURL": "https://www.polycor.com/fr-ca/amenagements-architecturaux-et-urbains/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "IKodGHmwt5DxTbx",
+            "path": "/fr-ca/tranches-et-tuiles/",
+            "fullURL": "https://www.polycor.com/fr-ca/tranches-et-tuiles/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "FhWkYr2bpmMDCaP",
+            "path": "/fr-ca/emplois/",
+            "fullURL": "https://www.polycor.com/fr-ca/emplois/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "VfUd53dpadVlg63",
+            "path": "/fr-ca/medias/",
+            "fullURL": "https://www.polycor.com/fr-ca/medias/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "5gn0DwKLsntIXQ5",
+            "path": "/fr-ca/amenagement-paysager-et-maconnerie/",
+            "fullURL": "https://www.polycor.com/fr-ca/amenagement-paysager-et-maconnerie/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "tlEbhbOdZIonAiY",
+            "path": "/fr-ca/carrieres-et-blocs/",
+            "fullURL": "https://www.polycor.com/fr-ca/carrieres-et-blocs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "GoJQRpXcuudFEbP",
+            "path": "/fr-ca/evenements/",
+            "fullURL": "https://www.polycor.com/fr-ca/evenements/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "44oqdKb4RKqgeXn",
+            "path": "/fr-ca/a-propos/",
+            "fullURL": "https://www.polycor.com/fr-ca/a-propos/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "i11N6u4rLzgsbWT",
+            "path": "/fr-ca/carrieres-et-usines/",
+            "fullURL": "https://www.polycor.com/fr-ca/carrieres-et-usines/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Yinn9PToXl7Fj4V",
+            "path": "/fr-ca/marques-patrimoniales/compagnie-de-marbre-de-georgie/",
+            "fullURL": "https://www.polycor.com/fr-ca/marques-patrimoniales/compagnie-de-marbre-de-georgie/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "7SG2RTKDGZtTbhJ",
+            "path": "/fr-ca/surfaces-en-verre-recycle-vetrazzo/",
+            "fullURL": "https://www.polycor.com/fr-ca/surfaces-en-verre-recycle-vetrazzo/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "8Ll9CqOvk9Yl5ue",
+            "path": "/fr-ca/marques-patrimoniales/compagnie-de-calcaire-de-indiana/",
+            "fullURL": "https://www.polycor.com/fr-ca/marques-patrimoniales/compagnie-de-calcaire-de-indiana/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "bAgsgqiCheX22lh",
+            "path": "/fr-ca/marques-patrimoniales/ncgranite/",
+            "fullURL": "https://www.polycor.com/fr-ca/marques-patrimoniales/ncgranite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "2zWACwhPMzxdXEX",
+            "path": "/fr-ca/marques-patrimoniales/",
+            "fullURL": "https://www.polycor.com/fr-ca/marques-patrimoniales/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "CgvPZX9SgWASHfC",
+            "path": "/fr-ca/applications/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "nSWSy15WinPFxWF",
+            "path": "/fr-ca/applications/revetement-mural/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/revetement-mural/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "wrVxpmrKyo3Gsms",
+            "path": "/fr-ca/applications/facades-revetements-murs/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/facades-revetements-murs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "bUgv9Z7yvXl4cEV",
+            "path": "/fr-ca/applications/revetement-sur-mesure/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/revetement-sur-mesure/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "imFaSnqlp4l6XkE",
+            "path": "/fr-ca/applications/tuiles-murales/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/tuiles-murales/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "hXt9KqlBMeyxzX9",
+            "path": "/fr-ca/applications/dalles-commerciales/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/dalles-commerciales/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "OaDzEyZ3fTyvy4k",
+            "path": "/fr-ca/applications/monuments-emblematiques-pour-la-posterite/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/monuments-emblematiques-pour-la-posterite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "30iqeZWm8LdgbhP",
+            "path": "/fr-ca/applications/amenagement-urbain/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/amenagement-urbain/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "X2aC0eRzCypGScl",
+            "path": "/fr-ca/applications/pierre-decorative-exterieure/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/pierre-decorative-exterieure/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "T1663NbhUUaZAj2",
+            "path": "/fr-ca/applications/comptoirs-de-cuisine/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/comptoirs-de-cuisine/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "VKGAB0Y9hTP2bYT",
+            "path": "/fr-ca/produits/serie-revetement/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/serie-revetement/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ZtJyu525GohIWib",
+            "path": "/fr-ca/applications/comptoir-salle-de-bain/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/comptoir-salle-de-bain/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "x0x9yc2CRqnVRDy",
+            "path": "/fr-ca/applications/outdoor-kitchen-countertops/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/outdoor-kitchen-countertops/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Z46wDlDT0fXq3hV",
+            "path": "/fr-ca/applications/blocs-bruts/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/blocs-bruts/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "BNhAsUY3XpqhOhh",
+            "path": "/fr-ca/applications/rochers/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/rochers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "V2Jx76htAMLl1xq",
+            "path": "/fr-ca/applications/monuments-commemoratifs/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/monuments-commemoratifs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "wZRTD0EfMz3YhKt",
+            "path": "/fr-ca/applications/tranches-massives/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/tranches-massives/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "GXQp11ZV75yGPZz",
+            "path": "/fr-ca/applications/revetements-de-sol-commerciaux/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/revetements-de-sol-commerciaux/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TA4PHXzE7DtuMwK",
+            "path": "/fr-ca/applications/bordures-en-granite/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/bordures-en-granite/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "UCIcKLicCjCK6ab",
+            "path": "/fr-ca/applications/pierre-concassee-et-agregats/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/pierre-concassee-et-agregats/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "314WVg3E6S4z2jo",
+            "path": "/fr-ca/applications/monuments-historiques/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/monuments-historiques/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "tmo8gdKfQ5o3Icq",
+            "path": "/fr-ca/applications/projets-sur-mesure/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/projets-sur-mesure/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "xPYbLcplfdao9xc",
+            "path": "/fr-ca/produits/allees-et-terrasses/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/allees-et-terrasses/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Tjq7qZEObW4wFkz",
+            "path": "/fr-ca/produits/marches-massives-et-marches/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/marches-massives-et-marches/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "CU9Ec3yfqXjNG9S",
+            "path": "/fr-ca/produits/murs-et-chapeaux/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/murs-et-chapeaux/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "M1lu7tPQDePpPIY",
+            "path": "/fr-ca/developpement_durable/projets-certifies-leed/",
+            "fullURL": "https://www.polycor.com/fr-ca/developpement_durable/projets-certifies-leed/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "SLuT8SJXPr0MzWS",
+            "path": "/fr-ca/ressources/outils-de-conception/",
+            "fullURL": "https://www.polycor.com/fr-ca/ressources/outils-de-conception/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Rzg2mSsgZTjOPr8",
+            "path": "/fr-ca/ressources/",
+            "fullURL": "https://www.polycor.com/fr-ca/ressources/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "plvb6wXRXAUmAZm",
+            "path": "/fr-ca/pierres/",
+            "fullURL": "https://www.polycor.com/fr-ca/pierres/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "XoVyj8AALDoMnUx",
+            "path": "/fr-ca/ressources/dao-mdb/",
+            "fullURL": "https://www.polycor.com/fr-ca/ressources/dao-mdb/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TWqz5uwrMsDYkGo",
+            "path": "/fr-ca/ressources/textures-en-3d/",
+            "fullURL": "https://www.polycor.com/fr-ca/ressources/textures-en-3d/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "GBrlZGEbxEmHgPQ",
+            "path": "/fr-ca/ressources/modeles-3d/",
+            "fullURL": "https://www.polycor.com/fr-ca/ressources/modeles-3d/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "fLqe6oGI7fbymNE",
+            "path": "/fr-ca/ressources/echantillons-numeriques/",
+            "fullURL": "https://www.polycor.com/fr-ca/ressources/echantillons-numeriques/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "RwAM5WC74IRjD0L",
+            "path": "/fr-ca/projets/",
+            "fullURL": "https://www.polycor.com/fr-ca/projets/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "lLWQZINr8RmNkEK",
+            "path": "/fr-ca/parcourir-par-type-de-projet/",
+            "fullURL": "https://www.polycor.com/fr-ca/parcourir-par-type-de-projet/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "5EclRzqyanhUHjV",
+            "path": "/fr-ca/politique-de-confidentialite-de-polycor-inc/",
+            "fullURL": "https://www.polycor.com/fr-ca/politique-de-confidentialite-de-polycor-inc/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Qr86pqjOdtF5XrM",
+            "path": "/fr-ca/blogue/",
+            "fullURL": "https://www.polycor.com/fr-ca/blogue/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "pruvxFJ5pNwC4iX",
+            "path": "/fr-ca/nous-joindre/",
+            "fullURL": "https://www.polycor.com/fr-ca/nous-joindre/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": true,
+            "screenshots": null
+        },
+        {
+            "id": "mYO07eHVrNftQjt",
+            "path": "/fr-ca/conditions-generales-dutilisation/",
+            "fullURL": "https://www.polycor.com/fr-ca/conditions-generales-dutilisation/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "wxQO73VY4GvanAk",
+            "path": "/fr-ca/ressources/demander-echantillon-gratuit-polycor/",
+            "fullURL": "https://www.polycor.com/fr-ca/ressources/demander-echantillon-gratuit-polycor/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Ncr4m1cbGE7W22Q",
+            "path": "/applications/facades/",
+            "fullURL": "https://www.polycor.com/applications/facades/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "VnYT48hhpgqxtR8",
+            "path": "/applications/interior-walls/",
+            "fullURL": "https://www.polycor.com/applications/interior-walls/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TD81GrVZcWpUaN9",
+            "path": "/resources/architectural-urban-landscaping-brochure/",
+            "fullURL": "https://www.polycor.com/resources/architectural-urban-landscaping-brochure/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "BnhFbE6ovAepnR7",
+            "path": "/architectural-urban-landscaping/browse-by-project-types/",
+            "fullURL": "https://www.polycor.com/architectural-urban-landscaping/browse-by-project-types/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "fXAL7cmu0VLUXuI",
+            "path": "/applications/countertops/",
+            "fullURL": "https://www.polycor.com/applications/countertops/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jvgM06yQj0nE8zB",
+            "path": "/architectural-urban-landscaping/projects/",
+            "fullURL": "https://www.polycor.com/architectural-urban-landscaping/projects/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "LGbAh6wo4esLsAV",
+            "path": "/applications/floor-and-pavers/",
+            "fullURL": "https://www.polycor.com/applications/floor-and-pavers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "akKZRh5oAVJ4wXV",
+            "path": "/products/pavers/",
+            "fullURL": "https://www.polycor.com/products/pavers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "Nmz0pwds1j5wATA",
+            "path": "/virtual-products-portfolio/",
+            "fullURL": "https://www.polycor.com/virtual-products-portfolio/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "5SxeKewJ1bpJJpf",
+            "path": "/applications/floor-tile/",
+            "fullURL": "https://www.polycor.com/applications/floor-tile/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "YLtabv2uJZC6B1m",
+            "path": "/applications/custom-steps/",
+            "fullURL": "https://www.polycor.com/applications/custom-steps/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ia7Jr6lj14cq2Vq",
+            "path": "/applications/custom-pavers/",
+            "fullURL": "https://www.polycor.com/applications/custom-pavers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jEnlvsydHmohb9G",
+            "path": "/applications/custom-pool-coping/",
+            "fullURL": "https://www.polycor.com/applications/custom-pool-coping/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "45LGTgpq01D9A9V",
+            "path": "/products/pool-coping/",
+            "fullURL": "https://www.polycor.com/products/pool-coping/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "tGoKqafVrJdzrnn",
+            "path": "/products/xl-pavers/",
+            "fullURL": "https://www.polycor.com/products/xl-pavers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zJIANSOUkSDZz3u",
+            "path": "/products/pattern-pavers/",
+            "fullURL": "https://www.polycor.com/products/pattern-pavers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "keuYWYmIiXne0Qm",
+            "path": "/applications/backsplash/",
+            "fullURL": "https://www.polycor.com/applications/backsplash/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "E8XKsnP0qojTHXU",
+            "path": "/products/6-inch-steps/",
+            "fullURL": "https://www.polycor.com/products/6-inch-steps/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "UGPqwwaJ5dnPeRT",
+            "path": "/products/treads/",
+            "fullURL": "https://www.polycor.com/products/treads/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zGvvOUNT8CR3p23",
+            "path": "/applications/feature-walls/",
+            "fullURL": "https://www.polycor.com/applications/feature-walls/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "RTA6lYoxRGCC5hn",
+            "path": "/products/garden-walls/",
+            "fullURL": "https://www.polycor.com/products/garden-walls/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "yBDthckExXl5uxn",
+            "path": "/applications/fireplace/",
+            "fullURL": "https://www.polycor.com/applications/fireplace/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "70VK28RBcF0LB5K",
+            "path": "/applications/thin-1cm-slabs/",
+            "fullURL": "https://www.polycor.com/applications/thin-1cm-slabs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "JUkpzco55R3LMVk",
+            "path": "/applications/shower-walls/",
+            "fullURL": "https://www.polycor.com/applications/shower-walls/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "R9ZVqjr2Iu2KIxI",
+            "path": "/products/pillar-caps/",
+            "fullURL": "https://www.polycor.com/products/pillar-caps/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "gMdW2UMNY0WRElv",
+            "path": "/products/wall-caps/",
+            "fullURL": "https://www.polycor.com/products/wall-caps/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "dNMCxzptNjdkwoj",
+            "path": "/products/outdoor-elements/",
+            "fullURL": "https://www.polycor.com/products/outdoor-elements/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "LNLwT05jbcDYzvV",
+            "path": "/products/fire-pits/",
+            "fullURL": "https://www.polycor.com/products/fire-pits/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ABqzFTuuse1W9Co",
+            "path": "/resources/slabs-tile-brochure/",
+            "fullURL": "https://www.polycor.com/resources/slabs-tile-brochure/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "rYRUJHkA2T3A5NF",
+            "path": "/products/berkshire/",
+            "fullURL": "https://www.polycor.com/products/berkshire/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "B8hPFOsKTt4mu2D",
+            "path": "/products/vanderbilt-classic/",
+            "fullURL": "https://www.polycor.com/products/vanderbilt-classic/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "j0riVTVCalcrcic",
+            "path": "/products/sills/",
+            "fullURL": "https://www.polycor.com/products/sills/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "dvDtYiMoLaYYlCL",
+            "path": "/products/rockford-estate-blend/",
+            "fullURL": "https://www.polycor.com/products/rockford-estate-blend/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "eSzY7tpCFRe1mWH",
+            "path": "/hardscapes-masonry/stones/",
+            "fullURL": "https://www.polycor.com/hardscapes-masonry/stones/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "pHJvL8SMYxrl2Qb",
+            "path": "/hardscapes-masonry/resources/",
+            "fullURL": "https://www.polycor.com/hardscapes-masonry/resources/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "A9sJgIO6PTOAlNr",
+            "path": "/resources/hardscapes-masonry-product-brochure/",
+            "fullURL": "https://www.polycor.com/resources/hardscapes-masonry-product-brochure/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "i3FxOCdg0t5XR0B",
+            "path": "/resources/hardscapes-masonry-field-binder/",
+            "fullURL": "https://www.polycor.com/resources/hardscapes-masonry-field-binder/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "agN2oPzFkdrvp0F",
+            "path": "/slabs-tiles/projects/",
+            "fullURL": "https://www.polycor.com/slabs-tiles/projects/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "yfh8vKjwHIC2ASf",
+            "path": "/slabs-tiles/browse-by-project-types/",
+            "fullURL": "https://www.polycor.com/slabs-tiles/browse-by-project-types/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "2qbtz7t1uxMiS3e",
+            "path": "/resources/become-an-authorized-contractor/",
+            "fullURL": "https://www.polycor.com/resources/become-an-authorized-contractor/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "f2xvJtEcSfXu4AL",
+            "path": "/hardscapes-masonry/projects/",
+            "fullURL": "https://www.polycor.com/hardscapes-masonry/projects/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "QU1CnxptfHfIFNa",
+            "path": "/quarries-blocks/projects/",
+            "fullURL": "https://www.polycor.com/quarries-blocks/projects/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "uvUPmqChF39SGEG",
+            "path": "/hardscapes-masonry/browse-by-project-types/",
+            "fullURL": "https://www.polycor.com/hardscapes-masonry/browse-by-project-types/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "nDxjtxLZGfQIa9h",
+            "path": "/resources/become-an-authorized-dealer/",
+            "fullURL": "https://www.polycor.com/resources/become-an-authorized-dealer/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jkvLo27GZjsTCfE",
+            "path": "/find-a-dealer/",
+            "fullURL": "https://www.polycor.com/find-a-dealer/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "4iFDYpz61ngrYRj",
+            "path": "/quarries-blocks/browse-by-project-types/",
+            "fullURL": "https://www.polycor.com/quarries-blocks/browse-by-project-types/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "LznZEChN08A8Y8j",
+            "path": "/fr-ca/applications/comptoirs/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/comptoirs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "crhqK8ehIoDYoVq",
+            "path": "/fr-ca/applications/carrelage-et-dalles/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/carrelage-et-dalles/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "OH2eA9lDuHSjxM9",
+            "path": "/fr-ca/applications/carrelage/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/carrelage/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "zxn1VydaJbrGDTh",
+            "path": "/fr-ca/applications/dalles-sur-mesure/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/dalles-sur-mesure/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "0abYvEDUzkX3BJk",
+            "path": "/fr-ca/applications/marches-sur-mesure/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/marches-sur-mesure/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "bhU1wVy2DGitLyD",
+            "path": "/fr-ca/applications/pierre-decorative-murale/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/pierre-decorative-murale/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "L1sCIEy9tPkuwqp",
+            "path": "/fr-ca/applications/dosserets/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/dosserets/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "bAgpbIBuSzEwfr5",
+            "path": "/fr-ca/applications/murs-de-douche/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/murs-de-douche/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TTLTfoiocW2O6dH",
+            "path": "/fr-ca/applications/couronnement-de-piscine-sur-mesure/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/couronnement-de-piscine-sur-mesure/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "QoyMibDMg3VUYMS",
+            "path": "/fr-ca/applications/thin-1cm-slabs/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/thin-1cm-slabs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "L69QJJODZcuv6Wn",
+            "path": "/fr-ca/ressources/brochure-tranches-et-tuiles/",
+            "fullURL": "https://www.polycor.com/fr-ca/ressources/brochure-tranches-et-tuiles/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "WwQF8I5RIj8zhpq",
+            "path": "/fr-ca/applications/foyers/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/foyers/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "w4ZYkzLaLUdJAMA",
+            "path": "/fr-ca/tranches-et-tuiles/projets/",
+            "fullURL": "https://www.polycor.com/fr-ca/tranches-et-tuiles/projets/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "TxDiWxqnMC4AZfz",
+            "path": "/fr-ca/tranches-et-tuiles/parcourir-par-types-de-projet/",
+            "fullURL": "https://www.polycor.com/fr-ca/tranches-et-tuiles/parcourir-par-types-de-projet/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kQvCVcB4HVGRZDj",
+            "path": "/fr-ca/applications/revetement-mural-exterieur/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/revetement-mural-exterieur/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "pf6JxSivLjuXYwK",
+            "path": "/fr-ca/ressources/architecture-et-amenagement-urbain-brochure/",
+            "fullURL": "https://www.polycor.com/fr-ca/ressources/architecture-et-amenagement-urbain-brochure/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "4dol96NwaZqunkS",
+            "path": "/fr-ca/applications/murs-interieurs/",
+            "fullURL": "https://www.polycor.com/fr-ca/applications/murs-interieurs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "DEYrEqZjEcYgYa3",
+            "path": "/fr-ca/amenagements-architecturaux-et-urbains/projets/",
+            "fullURL": "https://www.polycor.com/fr-ca/amenagements-architecturaux-et-urbains/projets/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "nQk9fCAQv08dn2C",
+            "path": "/fr-ca/virtual-products-portfolio/",
+            "fullURL": "https://www.polycor.com/fr-ca/virtual-products-portfolio/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "awKAu1CycUg3doq",
+            "path": "/fr-ca/produits/dalles/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/dalles/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kZBu1LMUpQRCB8T",
+            "path": "/fr-ca/produits/dalles-xl/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/dalles-xl/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "R15siDGVDGY7TbY",
+            "path": "/fr-ca/amenagements-architecturaux-et-urbains/parcourir-par-types-de-projet/",
+            "fullURL": "https://www.polycor.com/fr-ca/amenagements-architecturaux-et-urbains/parcourir-par-types-de-projet/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "NLgZ1UfjsKurAg5",
+            "path": "/fr-ca/produits/dalles-en-motif/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/dalles-en-motif/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "rvG2mV8AbyGipuj",
+            "path": "/fr-ca/produits/couronnements-de-piscine/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/couronnements-de-piscine/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jDcNMjKkiVwDOlN",
+            "path": "/fr-ca/produits/marches-massives-exterieures-de-6-po/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/marches-massives-exterieures-de-6-po/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "JyILy9FCcBuov7F",
+            "path": "/fr-ca/produits/marches/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/marches/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "jYBpvX6Nr1coezf",
+            "path": "/fr-ca/produits/chapeaux-de-pilier/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/chapeaux-de-pilier/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "VFHTvEDVFYGXHFB",
+            "path": "/fr-ca/produits/berkshire/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/berkshire/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "3ufrri0cgOp8Cqp",
+            "path": "/fr-ca/produits/rockford-estate-blend/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/rockford-estate-blend/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "GsZRklvgtvFQx1w",
+            "path": "/fr-ca/produits/elements-exterieurs/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/elements-exterieurs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "0hn3CdTsoZup7nM",
+            "path": "/fr-ca/produits/foyers-exterieurs/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/foyers-exterieurs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "nj7q0v3Qii9EsGH",
+            "path": "/fr-ca/produits/couvre-murs/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/couvre-murs/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "fZqmjoSdxM6qzwW",
+            "path": "/fr-ca/produits/murs-de-jardin/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/murs-de-jardin/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "N5hrBhdUcyNslXX",
+            "path": "/fr-ca/produits/vanderbilt-classic/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/vanderbilt-classic/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "a2lsSwse9DC0M2z",
+            "path": "/fr-ca/produits/seuils-de-fenetre/",
+            "fullURL": "https://www.polycor.com/fr-ca/produits/seuils-de-fenetre/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "yZkp1mqhE0my03l",
+            "path": "/fr-ca/amenagement-paysager-et-maconnerie/pierres/",
+            "fullURL": "https://www.polycor.com/fr-ca/amenagement-paysager-et-maconnerie/pierres/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ILyoUd2ZIHgZhiq",
+            "path": "/fr-ca/amenagement-paysager-et-maconnerie/resources/",
+            "fullURL": "https://www.polycor.com/fr-ca/amenagement-paysager-et-maconnerie/resources/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "YCcS21SB1cz44Zw",
+            "path": "/fr-ca/amenagement-paysager-et-maconnerie/parcourir-par-types-de-projet/",
+            "fullURL": "https://www.polycor.com/fr-ca/amenagement-paysager-et-maconnerie/parcourir-par-types-de-projet/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "asICMvQvYzyOGQn",
+            "path": "/fr-ca/amenagement-paysager-et-maconnerie/projets/",
+            "fullURL": "https://www.polycor.com/fr-ca/amenagement-paysager-et-maconnerie/projets/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "kxPtQwnxOV8mAQb",
+            "path": "/fr-ca/ressources/amenagement-paysager-et-maconnerie-guide-des-produits/",
+            "fullURL": "https://www.polycor.com/fr-ca/ressources/amenagement-paysager-et-maconnerie-guide-des-produits/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "ZWnI8YO8U4Nu9mD",
+            "path": "/fr-ca/ressources/amenagements-paysager-et-maconnerie-brochure/",
+            "fullURL": "https://www.polycor.com/fr-ca/ressources/amenagements-paysager-et-maconnerie-brochure/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "9kbp0Vh3oFkUKWB",
+            "path": "/fr-ca/carrieres-et-blocs/projets/",
+            "fullURL": "https://www.polycor.com/fr-ca/carrieres-et-blocs/projets/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "BOe1FSbOt8tMEz4",
+            "path": "/fr-ca/trouver-un-fournisseur/",
+            "fullURL": "https://www.polycor.com/fr-ca/trouver-un-fournisseur/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        },
+        {
+            "id": "JFQNfNf5slH9qQy",
+            "path": "/fr-ca/carrieres-et-blocs/browse-by-project-types/",
+            "fullURL": "https://www.polycor.com/fr-ca/carrieres-et-blocs/browse-by-project-types/",
+            "content_type": "text/html; charset=UTF-8",
+            "status_code": 200,
+            "redirects_to": null,
+            "with_form": true,
+            "with_captcha": false,
+            "screenshots": null
+        }
+    ],
+    "runs": [
+        {
+            "id": "run_polycor.com_20240328_161654_a40b",
+            "folder_path": "screenshots\\polycor.com\\run_polycor.com_20240328_161654_a40b",
+            "started": "2024-03-28T08:16:54.077Z",
+            "finished": null,
+            "screenshots": [
+                {
+                    "page_name": "www.polycor.com_",
+                    "url": "https://www.polycor.com/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_sustainability",
+                    "url": "https://www.polycor.com/sustainability/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_sustainability/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_architectural-urban-landscaping",
+                    "url": "https://www.polycor.com/architectural-urban-landscaping/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_architectural-urban-landscaping/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_slabs-tiles",
+                    "url": "https://www.polycor.com/slabs-tiles/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_slabs-tiles/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_careers",
+                    "url": "https://www.polycor.com/careers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_careers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca",
+                    "url": "https://www.polycor.com/fr-ca/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_hardscapes-masonry",
+                    "url": "https://www.polycor.com/hardscapes-masonry/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_hardscapes-masonry/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_quarries-blocks",
+                    "url": "https://www.polycor.com/quarries-blocks/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_quarries-blocks/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_about",
+                    "url": "https://www.polycor.com/about/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_about/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_events",
+                    "url": "https://www.polycor.com/events/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_events/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_privacy-policy",
+                    "url": "https://www.polycor.com/privacy-policy/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_privacy-policy/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_terms-of-use",
+                    "url": "https://www.polycor.com/terms-of-use/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_terms-of-use/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_news",
+                    "url": "https://www.polycor.com/news/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_news/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_quarries-and-plants",
+                    "url": "https://www.polycor.com/quarries-and-plants/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_quarries-and-plants/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_vetrazzo-recycled-glass-surfaces",
+                    "url": "https://www.polycor.com/vetrazzo-recycled-glass-surfaces/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_vetrazzo-recycled-glass-surfaces/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_legacy-brands",
+                    "url": "https://www.polycor.com/legacy-brands/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_legacy-brands/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_legacy-brands/georgia-marble-company",
+                    "url": "https://www.polycor.com/legacy-brands/georgia-marble-company/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_legacy-brands/georgia-marble-company/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_legacy-brands/indiana-limestone-company",
+                    "url": "https://www.polycor.com/legacy-brands/indiana-limestone-company/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_legacy-brands/indiana-limestone-company/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications",
+                    "url": "https://www.polycor.com/applications/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/walls",
+                    "url": "https://www.polycor.com/applications/walls/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/walls/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/facades-cladding-and-walls",
+                    "url": "https://www.polycor.com/applications/facades-cladding-and-walls/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/facades-cladding-and-walls/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_legacy-brands/ncgranite",
+                    "url": "https://www.polycor.com/legacy-brands/ncgranite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_legacy-brands/ncgranite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/cut-to-size-veneer",
+                    "url": "https://www.polycor.com/applications/cut-to-size-veneer/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/cut-to-size-veneer/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/estate-veneer-series",
+                    "url": "https://www.polycor.com/products/estate-veneer-series/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/estate-veneer-series/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/wall-tile",
+                    "url": "https://www.polycor.com/applications/wall-tile/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/wall-tile/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/urban-landscaping",
+                    "url": "https://www.polycor.com/applications/urban-landscaping/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/urban-landscaping/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/commercial-pavers",
+                    "url": "https://www.polycor.com/applications/commercial-pavers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/commercial-pavers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/landmarks",
+                    "url": "https://www.polycor.com/applications/landmarks/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/landmarks/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/kitchen-countertops",
+                    "url": "https://www.polycor.com/applications/kitchen-countertops/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/kitchen-countertops/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/outdoor-kitchen-countertops",
+                    "url": "https://www.polycor.com/applications/outdoor-kitchen-countertops/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/outdoor-kitchen-countertops/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/bathroom-countertops",
+                    "url": "https://www.polycor.com/applications/bathroom-countertops/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/bathroom-countertops/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/aesthetic-or-design-elements",
+                    "url": "https://www.polycor.com/applications/aesthetic-or-design-elements/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/aesthetic-or-design-elements/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/raw-blocks",
+                    "url": "https://www.polycor.com/applications/raw-blocks/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/raw-blocks/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/boulders",
+                    "url": "https://www.polycor.com/applications/boulders/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/boulders/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/crushed-stone-or-aggregate",
+                    "url": "https://www.polycor.com/applications/crushed-stone-or-aggregate/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/crushed-stone-or-aggregate/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/thick-slabs",
+                    "url": "https://www.polycor.com/applications/thick-slabs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/thick-slabs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/granite-curbing",
+                    "url": "https://www.polycor.com/applications/granite-curbing/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/granite-curbing/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/monuments",
+                    "url": "https://www.polycor.com/applications/monuments/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/monuments/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/commercial-flooring",
+                    "url": "https://www.polycor.com/applications/commercial-flooring/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/commercial-flooring/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/walkways-and-patios",
+                    "url": "https://www.polycor.com/products/walkways-and-patios/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/walkways-and-patios/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/civic-memorials",
+                    "url": "https://www.polycor.com/applications/civic-memorials/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/civic-memorials/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/stone-for-special-projects",
+                    "url": "https://www.polycor.com/applications/stone-for-special-projects/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/stone-for-special-projects/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/steps-treads",
+                    "url": "https://www.polycor.com/products/steps-treads/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/steps-treads/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/walls-and-caps",
+                    "url": "https://www.polycor.com/products/walls-and-caps/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/walls-and-caps/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_stones",
+                    "url": "https://www.polycor.com/stones/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_stones/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources",
+                    "url": "https://www.polycor.com/resources/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_hardscapes-masonry/resources/project-visualizer",
+                    "url": "https://www.polycor.com/hardscapes-masonry/resources/project-visualizer/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_hardscapes-masonry/resources/project-visualizer/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_stone-calculator",
+                    "url": "https://www.polycor.com/stone-calculator/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_stone-calculator/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_sustainability/leed-certified-projects",
+                    "url": "https://www.polycor.com/sustainability/leed-certified-projects/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_sustainability/leed-certified-projects/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/design-tools",
+                    "url": "https://www.polycor.com/resources/design-tools/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/design-tools/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/cad-bim",
+                    "url": "https://www.polycor.com/resources/cad-bim/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/cad-bim/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/3d-models",
+                    "url": "https://www.polycor.com/resources/3d-models/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/3d-models/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/3d-textures",
+                    "url": "https://www.polycor.com/resources/3d-textures/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/3d-textures/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/esamples",
+                    "url": "https://www.polycor.com/resources/esamples/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/esamples/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_blog",
+                    "url": "https://www.polycor.com/blog/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_blog/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_projects-by-type",
+                    "url": "https://www.polycor.com/projects-by-type/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_projects-by-type/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/request-samples",
+                    "url": "https://www.polycor.com/resources/request-samples/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/request-samples/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/developpement_durable",
+                    "url": "https://www.polycor.com/fr-ca/developpement_durable/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/developpement_durable/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_contact-us",
+                    "url": "https://www.polycor.com/contact-us/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_contact-us/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_projects",
+                    "url": "https://www.polycor.com/projects/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_projects/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/amenagements-architecturaux-et-urbains",
+                    "url": "https://www.polycor.com/fr-ca/amenagements-architecturaux-et-urbains/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/amenagements-architecturaux-et-urbains/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/tranches-et-tuiles",
+                    "url": "https://www.polycor.com/fr-ca/tranches-et-tuiles/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/tranches-et-tuiles/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/emplois",
+                    "url": "https://www.polycor.com/fr-ca/emplois/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/emplois/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/medias",
+                    "url": "https://www.polycor.com/fr-ca/medias/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/medias/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/amenagement-paysager-et-maconnerie",
+                    "url": "https://www.polycor.com/fr-ca/amenagement-paysager-et-maconnerie/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/amenagement-paysager-et-maconnerie/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/carrieres-et-blocs",
+                    "url": "https://www.polycor.com/fr-ca/carrieres-et-blocs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/carrieres-et-blocs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/evenements",
+                    "url": "https://www.polycor.com/fr-ca/evenements/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/evenements/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/a-propos",
+                    "url": "https://www.polycor.com/fr-ca/a-propos/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/a-propos/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/carrieres-et-usines",
+                    "url": "https://www.polycor.com/fr-ca/carrieres-et-usines/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/carrieres-et-usines/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/marques-patrimoniales/compagnie-de-marbre-de-georgie",
+                    "url": "https://www.polycor.com/fr-ca/marques-patrimoniales/compagnie-de-marbre-de-georgie/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/marques-patrimoniales/compagnie-de-marbre-de-georgie/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/surfaces-en-verre-recycle-vetrazzo",
+                    "url": "https://www.polycor.com/fr-ca/surfaces-en-verre-recycle-vetrazzo/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/surfaces-en-verre-recycle-vetrazzo/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/marques-patrimoniales/compagnie-de-calcaire-de-indiana",
+                    "url": "https://www.polycor.com/fr-ca/marques-patrimoniales/compagnie-de-calcaire-de-indiana/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/marques-patrimoniales/compagnie-de-calcaire-de-indiana/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/marques-patrimoniales/ncgranite",
+                    "url": "https://www.polycor.com/fr-ca/marques-patrimoniales/ncgranite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/marques-patrimoniales/ncgranite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/marques-patrimoniales",
+                    "url": "https://www.polycor.com/fr-ca/marques-patrimoniales/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/marques-patrimoniales/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications",
+                    "url": "https://www.polycor.com/fr-ca/applications/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/revetement-mural",
+                    "url": "https://www.polycor.com/fr-ca/applications/revetement-mural/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/revetement-mural/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/facades-revetements-murs",
+                    "url": "https://www.polycor.com/fr-ca/applications/facades-revetements-murs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/facades-revetements-murs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/revetement-sur-mesure",
+                    "url": "https://www.polycor.com/fr-ca/applications/revetement-sur-mesure/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/revetement-sur-mesure/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/tuiles-murales",
+                    "url": "https://www.polycor.com/fr-ca/applications/tuiles-murales/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/tuiles-murales/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/dalles-commerciales",
+                    "url": "https://www.polycor.com/fr-ca/applications/dalles-commerciales/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/dalles-commerciales/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/monuments-emblematiques-pour-la-posterite",
+                    "url": "https://www.polycor.com/fr-ca/applications/monuments-emblematiques-pour-la-posterite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/monuments-emblematiques-pour-la-posterite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/amenagement-urbain",
+                    "url": "https://www.polycor.com/fr-ca/applications/amenagement-urbain/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/amenagement-urbain/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/pierre-decorative-exterieure",
+                    "url": "https://www.polycor.com/fr-ca/applications/pierre-decorative-exterieure/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/pierre-decorative-exterieure/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/comptoirs-de-cuisine",
+                    "url": "https://www.polycor.com/fr-ca/applications/comptoirs-de-cuisine/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/comptoirs-de-cuisine/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/serie-revetement",
+                    "url": "https://www.polycor.com/fr-ca/produits/serie-revetement/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/serie-revetement/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/comptoir-salle-de-bain",
+                    "url": "https://www.polycor.com/fr-ca/applications/comptoir-salle-de-bain/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/comptoir-salle-de-bain/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/outdoor-kitchen-countertops",
+                    "url": "https://www.polycor.com/fr-ca/applications/outdoor-kitchen-countertops/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/outdoor-kitchen-countertops/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/blocs-bruts",
+                    "url": "https://www.polycor.com/fr-ca/applications/blocs-bruts/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/blocs-bruts/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/rochers",
+                    "url": "https://www.polycor.com/fr-ca/applications/rochers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/rochers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/monuments-commemoratifs",
+                    "url": "https://www.polycor.com/fr-ca/applications/monuments-commemoratifs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/monuments-commemoratifs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/tranches-massives",
+                    "url": "https://www.polycor.com/fr-ca/applications/tranches-massives/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/tranches-massives/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/revetements-de-sol-commerciaux",
+                    "url": "https://www.polycor.com/fr-ca/applications/revetements-de-sol-commerciaux/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/revetements-de-sol-commerciaux/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/bordures-en-granite",
+                    "url": "https://www.polycor.com/fr-ca/applications/bordures-en-granite/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/bordures-en-granite/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/pierre-concassee-et-agregats",
+                    "url": "https://www.polycor.com/fr-ca/applications/pierre-concassee-et-agregats/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/pierre-concassee-et-agregats/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/monuments-historiques",
+                    "url": "https://www.polycor.com/fr-ca/applications/monuments-historiques/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/monuments-historiques/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/projets-sur-mesure",
+                    "url": "https://www.polycor.com/fr-ca/applications/projets-sur-mesure/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/projets-sur-mesure/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/allees-et-terrasses",
+                    "url": "https://www.polycor.com/fr-ca/produits/allees-et-terrasses/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/allees-et-terrasses/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/marches-massives-et-marches",
+                    "url": "https://www.polycor.com/fr-ca/produits/marches-massives-et-marches/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/marches-massives-et-marches/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/murs-et-chapeaux",
+                    "url": "https://www.polycor.com/fr-ca/produits/murs-et-chapeaux/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/murs-et-chapeaux/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/developpement_durable/projets-certifies-leed",
+                    "url": "https://www.polycor.com/fr-ca/developpement_durable/projets-certifies-leed/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/developpement_durable/projets-certifies-leed/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/ressources/outils-de-conception",
+                    "url": "https://www.polycor.com/fr-ca/ressources/outils-de-conception/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/ressources/outils-de-conception/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/ressources",
+                    "url": "https://www.polycor.com/fr-ca/ressources/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/ressources/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/pierres",
+                    "url": "https://www.polycor.com/fr-ca/pierres/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/pierres/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/ressources/dao-mdb",
+                    "url": "https://www.polycor.com/fr-ca/ressources/dao-mdb/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/ressources/dao-mdb/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/ressources/textures-en-3d",
+                    "url": "https://www.polycor.com/fr-ca/ressources/textures-en-3d/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/ressources/textures-en-3d/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/ressources/modeles-3d",
+                    "url": "https://www.polycor.com/fr-ca/ressources/modeles-3d/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/ressources/modeles-3d/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/ressources/echantillons-numeriques",
+                    "url": "https://www.polycor.com/fr-ca/ressources/echantillons-numeriques/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/ressources/echantillons-numeriques/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/projets",
+                    "url": "https://www.polycor.com/fr-ca/projets/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/projets/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/parcourir-par-type-de-projet",
+                    "url": "https://www.polycor.com/fr-ca/parcourir-par-type-de-projet/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/parcourir-par-type-de-projet/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/politique-de-confidentialite-de-polycor-inc",
+                    "url": "https://www.polycor.com/fr-ca/politique-de-confidentialite-de-polycor-inc/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/politique-de-confidentialite-de-polycor-inc/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/blogue",
+                    "url": "https://www.polycor.com/fr-ca/blogue/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/blogue/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/nous-joindre",
+                    "url": "https://www.polycor.com/fr-ca/nous-joindre/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/nous-joindre/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/conditions-generales-dutilisation",
+                    "url": "https://www.polycor.com/fr-ca/conditions-generales-dutilisation/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/conditions-generales-dutilisation/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/ressources/demander-echantillon-gratuit-polycor",
+                    "url": "https://www.polycor.com/fr-ca/ressources/demander-echantillon-gratuit-polycor/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/ressources/demander-echantillon-gratuit-polycor/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/facades",
+                    "url": "https://www.polycor.com/applications/facades/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/facades/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/interior-walls",
+                    "url": "https://www.polycor.com/applications/interior-walls/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/interior-walls/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/architectural-urban-landscaping-brochure",
+                    "url": "https://www.polycor.com/resources/architectural-urban-landscaping-brochure/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/architectural-urban-landscaping-brochure/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_architectural-urban-landscaping/browse-by-project-types",
+                    "url": "https://www.polycor.com/architectural-urban-landscaping/browse-by-project-types/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_architectural-urban-landscaping/browse-by-project-types/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/countertops",
+                    "url": "https://www.polycor.com/applications/countertops/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/countertops/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_architectural-urban-landscaping/projects",
+                    "url": "https://www.polycor.com/architectural-urban-landscaping/projects/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_architectural-urban-landscaping/projects/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/floor-and-pavers",
+                    "url": "https://www.polycor.com/applications/floor-and-pavers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/floor-and-pavers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/pavers",
+                    "url": "https://www.polycor.com/products/pavers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/pavers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_virtual-products-portfolio",
+                    "url": "https://www.polycor.com/virtual-products-portfolio/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_virtual-products-portfolio/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/floor-tile",
+                    "url": "https://www.polycor.com/applications/floor-tile/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/floor-tile/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/custom-steps",
+                    "url": "https://www.polycor.com/applications/custom-steps/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/custom-steps/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/custom-pavers",
+                    "url": "https://www.polycor.com/applications/custom-pavers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/custom-pavers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/custom-pool-coping",
+                    "url": "https://www.polycor.com/applications/custom-pool-coping/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/custom-pool-coping/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/pool-coping",
+                    "url": "https://www.polycor.com/products/pool-coping/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/pool-coping/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/xl-pavers",
+                    "url": "https://www.polycor.com/products/xl-pavers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/xl-pavers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/pattern-pavers",
+                    "url": "https://www.polycor.com/products/pattern-pavers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/pattern-pavers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/backsplash",
+                    "url": "https://www.polycor.com/applications/backsplash/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/backsplash/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/6-inch-steps",
+                    "url": "https://www.polycor.com/products/6-inch-steps/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/6-inch-steps/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/treads",
+                    "url": "https://www.polycor.com/products/treads/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/treads/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/feature-walls",
+                    "url": "https://www.polycor.com/applications/feature-walls/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/feature-walls/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/garden-walls",
+                    "url": "https://www.polycor.com/products/garden-walls/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/garden-walls/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/fireplace",
+                    "url": "https://www.polycor.com/applications/fireplace/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/fireplace/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/thin-1cm-slabs",
+                    "url": "https://www.polycor.com/applications/thin-1cm-slabs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/thin-1cm-slabs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_applications/shower-walls",
+                    "url": "https://www.polycor.com/applications/shower-walls/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_applications/shower-walls/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/pillar-caps",
+                    "url": "https://www.polycor.com/products/pillar-caps/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/pillar-caps/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/wall-caps",
+                    "url": "https://www.polycor.com/products/wall-caps/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/wall-caps/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/outdoor-elements",
+                    "url": "https://www.polycor.com/products/outdoor-elements/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/outdoor-elements/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/fire-pits",
+                    "url": "https://www.polycor.com/products/fire-pits/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/fire-pits/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/slabs-tile-brochure",
+                    "url": "https://www.polycor.com/resources/slabs-tile-brochure/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/slabs-tile-brochure/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/berkshire",
+                    "url": "https://www.polycor.com/products/berkshire/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/berkshire/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/vanderbilt-classic",
+                    "url": "https://www.polycor.com/products/vanderbilt-classic/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/vanderbilt-classic/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/sills",
+                    "url": "https://www.polycor.com/products/sills/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/sills/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_products/rockford-estate-blend",
+                    "url": "https://www.polycor.com/products/rockford-estate-blend/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_products/rockford-estate-blend/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_hardscapes-masonry/stones",
+                    "url": "https://www.polycor.com/hardscapes-masonry/stones/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_hardscapes-masonry/stones/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_hardscapes-masonry/resources",
+                    "url": "https://www.polycor.com/hardscapes-masonry/resources/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_hardscapes-masonry/resources/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/hardscapes-masonry-product-brochure",
+                    "url": "https://www.polycor.com/resources/hardscapes-masonry-product-brochure/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/hardscapes-masonry-product-brochure/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/hardscapes-masonry-field-binder",
+                    "url": "https://www.polycor.com/resources/hardscapes-masonry-field-binder/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/hardscapes-masonry-field-binder/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_slabs-tiles/projects",
+                    "url": "https://www.polycor.com/slabs-tiles/projects/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_slabs-tiles/projects/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_slabs-tiles/browse-by-project-types",
+                    "url": "https://www.polycor.com/slabs-tiles/browse-by-project-types/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_slabs-tiles/browse-by-project-types/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/become-an-authorized-contractor",
+                    "url": "https://www.polycor.com/resources/become-an-authorized-contractor/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/become-an-authorized-contractor/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_hardscapes-masonry/projects",
+                    "url": "https://www.polycor.com/hardscapes-masonry/projects/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_hardscapes-masonry/projects/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_quarries-blocks/projects",
+                    "url": "https://www.polycor.com/quarries-blocks/projects/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_quarries-blocks/projects/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_hardscapes-masonry/browse-by-project-types",
+                    "url": "https://www.polycor.com/hardscapes-masonry/browse-by-project-types/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_hardscapes-masonry/browse-by-project-types/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_resources/become-an-authorized-dealer",
+                    "url": "https://www.polycor.com/resources/become-an-authorized-dealer/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_resources/become-an-authorized-dealer/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_find-a-dealer",
+                    "url": "https://www.polycor.com/find-a-dealer/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_find-a-dealer/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_quarries-blocks/browse-by-project-types",
+                    "url": "https://www.polycor.com/quarries-blocks/browse-by-project-types/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_quarries-blocks/browse-by-project-types/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/comptoirs",
+                    "url": "https://www.polycor.com/fr-ca/applications/comptoirs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/comptoirs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/carrelage-et-dalles",
+                    "url": "https://www.polycor.com/fr-ca/applications/carrelage-et-dalles/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/carrelage-et-dalles/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/carrelage",
+                    "url": "https://www.polycor.com/fr-ca/applications/carrelage/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/carrelage/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/dalles-sur-mesure",
+                    "url": "https://www.polycor.com/fr-ca/applications/dalles-sur-mesure/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/dalles-sur-mesure/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/marches-sur-mesure",
+                    "url": "https://www.polycor.com/fr-ca/applications/marches-sur-mesure/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/marches-sur-mesure/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/pierre-decorative-murale",
+                    "url": "https://www.polycor.com/fr-ca/applications/pierre-decorative-murale/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/pierre-decorative-murale/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/dosserets",
+                    "url": "https://www.polycor.com/fr-ca/applications/dosserets/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/dosserets/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/murs-de-douche",
+                    "url": "https://www.polycor.com/fr-ca/applications/murs-de-douche/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/murs-de-douche/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/couronnement-de-piscine-sur-mesure",
+                    "url": "https://www.polycor.com/fr-ca/applications/couronnement-de-piscine-sur-mesure/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/couronnement-de-piscine-sur-mesure/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/thin-1cm-slabs",
+                    "url": "https://www.polycor.com/fr-ca/applications/thin-1cm-slabs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/thin-1cm-slabs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/ressources/brochure-tranches-et-tuiles",
+                    "url": "https://www.polycor.com/fr-ca/ressources/brochure-tranches-et-tuiles/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/ressources/brochure-tranches-et-tuiles/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/foyers",
+                    "url": "https://www.polycor.com/fr-ca/applications/foyers/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/foyers/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/tranches-et-tuiles/projets",
+                    "url": "https://www.polycor.com/fr-ca/tranches-et-tuiles/projets/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/tranches-et-tuiles/projets/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/tranches-et-tuiles/parcourir-par-types-de-projet",
+                    "url": "https://www.polycor.com/fr-ca/tranches-et-tuiles/parcourir-par-types-de-projet/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/tranches-et-tuiles/parcourir-par-types-de-projet/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/revetement-mural-exterieur",
+                    "url": "https://www.polycor.com/fr-ca/applications/revetement-mural-exterieur/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/revetement-mural-exterieur/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/ressources/architecture-et-amenagement-urbain-brochure",
+                    "url": "https://www.polycor.com/fr-ca/ressources/architecture-et-amenagement-urbain-brochure/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/ressources/architecture-et-amenagement-urbain-brochure/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/applications/murs-interieurs",
+                    "url": "https://www.polycor.com/fr-ca/applications/murs-interieurs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/applications/murs-interieurs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/amenagements-architecturaux-et-urbains/projets",
+                    "url": "https://www.polycor.com/fr-ca/amenagements-architecturaux-et-urbains/projets/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/amenagements-architecturaux-et-urbains/projets/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/virtual-products-portfolio",
+                    "url": "https://www.polycor.com/fr-ca/virtual-products-portfolio/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/virtual-products-portfolio/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/dalles",
+                    "url": "https://www.polycor.com/fr-ca/produits/dalles/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/dalles/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/dalles-xl",
+                    "url": "https://www.polycor.com/fr-ca/produits/dalles-xl/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/dalles-xl/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/amenagements-architecturaux-et-urbains/parcourir-par-types-de-projet",
+                    "url": "https://www.polycor.com/fr-ca/amenagements-architecturaux-et-urbains/parcourir-par-types-de-projet/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/amenagements-architecturaux-et-urbains/parcourir-par-types-de-projet/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/dalles-en-motif",
+                    "url": "https://www.polycor.com/fr-ca/produits/dalles-en-motif/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/dalles-en-motif/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/couronnements-de-piscine",
+                    "url": "https://www.polycor.com/fr-ca/produits/couronnements-de-piscine/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/couronnements-de-piscine/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/marches-massives-exterieures-de-6-po",
+                    "url": "https://www.polycor.com/fr-ca/produits/marches-massives-exterieures-de-6-po/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/marches-massives-exterieures-de-6-po/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/marches",
+                    "url": "https://www.polycor.com/fr-ca/produits/marches/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/marches/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/chapeaux-de-pilier",
+                    "url": "https://www.polycor.com/fr-ca/produits/chapeaux-de-pilier/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/chapeaux-de-pilier/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/berkshire",
+                    "url": "https://www.polycor.com/fr-ca/produits/berkshire/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/berkshire/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/rockford-estate-blend",
+                    "url": "https://www.polycor.com/fr-ca/produits/rockford-estate-blend/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/rockford-estate-blend/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/elements-exterieurs",
+                    "url": "https://www.polycor.com/fr-ca/produits/elements-exterieurs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/elements-exterieurs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/foyers-exterieurs",
+                    "url": "https://www.polycor.com/fr-ca/produits/foyers-exterieurs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/foyers-exterieurs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/couvre-murs",
+                    "url": "https://www.polycor.com/fr-ca/produits/couvre-murs/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/couvre-murs/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/murs-de-jardin",
+                    "url": "https://www.polycor.com/fr-ca/produits/murs-de-jardin/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/murs-de-jardin/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/vanderbilt-classic",
+                    "url": "https://www.polycor.com/fr-ca/produits/vanderbilt-classic/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/vanderbilt-classic/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/produits/seuils-de-fenetre",
+                    "url": "https://www.polycor.com/fr-ca/produits/seuils-de-fenetre/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/produits/seuils-de-fenetre/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/amenagement-paysager-et-maconnerie/pierres",
+                    "url": "https://www.polycor.com/fr-ca/amenagement-paysager-et-maconnerie/pierres/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/amenagement-paysager-et-maconnerie/pierres/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/amenagement-paysager-et-maconnerie/resources",
+                    "url": "https://www.polycor.com/fr-ca/amenagement-paysager-et-maconnerie/resources/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/amenagement-paysager-et-maconnerie/resources/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/amenagement-paysager-et-maconnerie/parcourir-par-types-de-projet",
+                    "url": "https://www.polycor.com/fr-ca/amenagement-paysager-et-maconnerie/parcourir-par-types-de-projet/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/amenagement-paysager-et-maconnerie/parcourir-par-types-de-projet/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/amenagement-paysager-et-maconnerie/projets",
+                    "url": "https://www.polycor.com/fr-ca/amenagement-paysager-et-maconnerie/projets/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/amenagement-paysager-et-maconnerie/projets/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/ressources/amenagement-paysager-et-maconnerie-guide-des-produits",
+                    "url": "https://www.polycor.com/fr-ca/ressources/amenagement-paysager-et-maconnerie-guide-des-produits/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/ressources/amenagement-paysager-et-maconnerie-guide-des-produits/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/ressources/amenagements-paysager-et-maconnerie-brochure",
+                    "url": "https://www.polycor.com/fr-ca/ressources/amenagements-paysager-et-maconnerie-brochure/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/ressources/amenagements-paysager-et-maconnerie-brochure/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/carrieres-et-blocs/projets",
+                    "url": "https://www.polycor.com/fr-ca/carrieres-et-blocs/projets/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/carrieres-et-blocs/projets/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/trouver-un-fournisseur",
+                    "url": "https://www.polycor.com/fr-ca/trouver-un-fournisseur/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/trouver-un-fournisseur/_prod_before_update.png"
+                    }
+                },
+                {
+                    "page_name": "www.polycor.com_fr-ca/carrieres-et-blocs/browse-by-project-types",
+                    "url": "https://www.polycor.com/fr-ca/carrieres-et-blocs/browse-by-project-types/",
+                    "screenshot_files": {
+                        "prod_before_update": "https://inboundfound-qa-automation.s3.amazonaws.com/screenshots/www.polycor.com/run_polycor.com_20240328_161654_a40b/www.polycor.com_fr-ca/carrieres-et-blocs/browse-by-project-types/_prod_before_update.png"
+                    }
+                }
+            ]
+        }
+    ],
+    "current_run": "run_polycor.com_20240328_161654_a40b"
+}
